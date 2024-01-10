@@ -44,7 +44,7 @@ class Player(Bot):
         my_cards = round_state.hands[active]  # your cards
         big_blind = bool(active)  # True if you are the big blind
         print("new round")
-        pass
+
 
         card1 = my_cards[0]
         card2 = my_cards[1]
@@ -145,7 +145,9 @@ class Player(Bot):
             return RaiseAction(self.hole_value-opp_pip)
         elif BidAction in legal_actions:
             return BidAction(100) # random bid between 0 and our stack
-        return CallAction()
+        elif CallAction in legal_actions:
+            return CallAction()
+        print("no options")
 
 
 if __name__ == '__main__':
