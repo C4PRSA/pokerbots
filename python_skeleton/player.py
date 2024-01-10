@@ -38,13 +38,50 @@ class Player(Bot):
         Returns:
         Nothing.
         '''
-        #my_bankroll = game_state.bankroll  # the total number of chips you've gained or lost from the beginning of the game to the start of this round
-        #game_clock = game_state.game_clock  # the total number of seconds your bot has left to play this game
-        #round_num = game_state.round_num  # the round number from 1 to NUM_ROUNDS
-        #my_cards = round_state.hands[active]  # your cards
-        #big_blind = bool(active)  # True if you are the big blind
+        my_bankroll = game_state.bankroll  # the total number of chips you've gained or lost from the beginning of the game to the start of this round
+        game_clock = game_state.game_clock  # the total number of seconds your bot has left to play this game
+        round_num = game_state.round_num  # the round number from 1 to NUM_ROUNDS
+        my_cards = round_state.hands[active]  # your cards
+        big_blind = bool(active)  # True if you are the big blind
         print("new round")
         pass
+
+        card1 = my_cards[0]
+        card2 = my_cards[1]
+
+        rank1 = card1[0]
+        rank2 = card2[0]
+        suit1 = card1[1]
+        suit2 = card2[1]
+        num1 = 0
+        num2 =0
+        if rank1=="A":
+            num1 = 14
+        elif rank1=="K":
+            num1 = 13
+        elif rank1=="Q":
+            num1 = 12
+        elif rank1=="J":
+            num1 = 11
+        elif rank1=="T":
+            num1 = 10
+        else:
+            num1 = int(rank1)
+
+        if rank1=="A":
+            num1 = 14
+        elif rank1=="K":
+            num1 = 13
+        elif rank1=="Q":
+            num1 = 12
+        elif rank1=="J":
+            num1 = 11
+        elif rank1=="T":
+            num1 = 10
+        else:
+            num1 = int(rank1)
+
+
 
     def handle_round_over(self, game_state, terminal_state, active):
         '''
@@ -58,11 +95,11 @@ class Player(Bot):
         Returns:
         Nothing.
         '''
-        #my_delta = terminal_state.deltas[active]  # your bankroll change from this round
-        #previous_state = terminal_state.previous_state  # RoundState before payoffs
-        #street = previous_state.street  # 0, 3, 4, or 5 representing when this round ended
-        #my_cards = previous_state.hands[active]  # your cards
-        #opp_cards = previous_state.hands[1-active]  # opponent's cards or [] if not revealed
+        my_delta = terminal_state.deltas[active]  # your bankroll change from this round
+        previous_state = terminal_state.previous_state  # RoundState before payoffs
+        street = previous_state.street  # 0, 3, 4, or 5 representing when this round ended
+        my_cards = previous_state.hands[active]  # your cards
+        opp_cards = previous_state.hands[1-active]  # opponent's cards or [] if not revealed
         pass
 
     def get_action(self, game_state, round_state, active):
