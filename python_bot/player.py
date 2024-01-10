@@ -8,7 +8,7 @@ from skeleton.bot import Bot
 from skeleton.runner import parse_args, run_bot
 import random
 #test number 254, do we think we can actually push to git if not i might cry
-
+#hi
 class Player(Bot):
     '''
     A pokerbot.
