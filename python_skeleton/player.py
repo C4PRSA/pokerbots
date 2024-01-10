@@ -7,6 +7,7 @@ from skeleton.states import NUM_ROUNDS, STARTING_STACK, BIG_BLIND, SMALL_BLIND
 from skeleton.bot import Bot
 from skeleton.runner import parse_args, run_bot
 import random
+import eval7
 #test number 254, do we think we can actually push to git if not i might cry
 
 class Player(Bot):
@@ -53,39 +54,114 @@ class Player(Bot):
         rank2 = card2[0]
         suit1 = card1[1]
         suit2 = card2[1]
-        num1 = 0
-        num2 =0
-        if rank1=="A":
-            num1 = 14
-        elif rank1=="K":
-            num1 = 13
-        elif rank1=="Q":
-            num1 = 12
-        elif rank1=="J":
-            num1 = 11
-        elif rank1=="T":
-            num1 = 10
-        else:
-            num1 = int(rank1)
 
-        if rank2=="A":
-            num2 = 14
-        elif rank2=="K":
-            num2 = 13
-        elif rank2=="Q":
-            num2 = 12
-        elif rank2=="J":
-            num2 = 11
-        elif rank2=="T":
-            num2 = 10
-        else:
-            num2 = int(rank2)
+        game_clock = game_state.game_clock
+        num_rounds = game_state.num_rounds
 
-        self.hole_value = 2*(num1+num2) #hole score
-        if rank1 == rank2:
-            self.hole_value = 4*(num1+num2)
-        elif suit1 == suit2:
-            self.hole_value = 3*(num1+num2)
+        self.strong_hole = False
+        if rank1 == rank2 or (rank1 in "AKQJT9876" and rank2 in "AKQJT9876"):
+            self.strong_hole = True
+
+        monte_carlo_iters = 100
+        strength_w_auction, strength_wo_auction = self.calculate_strength(my_cards, monte_carlo_iters)
+        self.strength_w_auction = strength_w_auction
+        self.strength_wo_auction = strength_wo_auction
+
+        if num_rounds == NUM_ROUNDS:
+            print(game_clock)
+
+        #Jack's super fun and super useful card value coding
+        # num1 = 0
+        # num2 =0
+        # if rank1=="A":
+        #     num1 = 14
+        # elif rank1=="K":
+        #     num1 = 13
+        # elif rank1=="Q":
+        #     num1 = 12
+        # elif rank1=="J":
+        #     num1 = 11
+        # elif rank1=="T":
+        #     num1 = 10
+        # else:
+        #     num1 = int(rank1)
+
+        # if rank2=="A":
+        #     num2 = 14
+        # elif rank2=="K":
+        #     num2 = 13
+        # elif rank2=="Q":
+        #     num2 = 12
+        # elif rank2=="J":
+        #     num2 = 11
+        # elif rank2=="T":
+        #     num2 = 10
+        # else:
+        #     num2 = int(rank2)
+
+        # self.hole_value = 2*(num1+num2) #hole score
+        # if rank1 == rank2:
+        #     self.hole_value = 4*(num1+num2)
+        # elif suit1 == suit2:
+        #     self.hole_value = 3*(num1+num2)
+
+    def calculate_strength(self, my_cards, iters):
+        deck = eval7.Deck()
+        my_cards = [eval7.Card(card) for card in my_cards]
+        for card in my_cards:
+            deck.cards.remove()
+        wins_w_auction = 0
+        wins_wo_auction = 0
+
+        for i in range(iters):
+            deck.shuffle()
+            opp = 3
+            community = 5
+            draw = deck.peek(opp+community)
+            opp_cards = draw[:opp]
+            community_cards = draw[opp:]
+
+            our_hand = my_cards + community_cards
+            opp_hand = opp_cards + community_cards
+
+            our_hand_val = eval7.evaluate(our_hand)
+            opp_hand_val = eval7.evaluate(opp_hand)
+
+            if our_hand_val > opp_hand_val:
+                #We won the round
+                wins_wo_auction += 2
+            elif our_hand_val == opp_hand_val:
+                wins_wo_auction += 1
+            else:
+                wins_wo_auction += 0
+
+        for i in range(iters):
+            deck.shuffle()
+            opp = 2
+            community = 5
+            auction = 1
+            draw = deck.peek(opp+community+auction)
+            opp_cards = draw[:opp]
+            community_cards = draw[opp: opp + community]
+            auction_card = draw[opp+community:]
+            our_hand = my_cards + auction_card + community_cards
+            opp_hand = opp_cards + community_cards
+            our_hand_val = eval7.evaluate(our_hand)
+            opp_hand_val = eval7.evaluate(opp_hand)
+
+            if our_hand_val > opp_hand_val:#won
+                wins_w_auction += 2
+            elif our_hand_val == opp_hand_val:#tied
+                wins_w_auction += 1
+            else:#lost
+                wins_w_auction += 0
+
+            strength_w_auction = wins_w_auction / (2* iters)
+            strength_wo_auction = wins_wo_auction / (2* iters)
+
+            strength_w_auction, strength_wo_auction
+
+
 
 
     def handle_round_over(self, game_state, terminal_state, active):
@@ -134,6 +210,17 @@ class Player(Bot):
         continue_cost = opp_pip - my_pip  # the number of chips needed to stay in the pot
         my_contribution = STARTING_STACK - my_stack  # the number of chips you have contributed to the pot
         opp_contribution = STARTING_STACK - opp_stack  # the number of chips your opponent has contributed to the pot
+        pot = my_contribution + opp_contribution
+
+        strength_diff = self.strength_w_auction - self.strength_wo_auction
+        if BidAction in legal_actions:
+            max_bid = 0.40
+            min_bid = 0.15
+            bid = int(0.75 * strength_diff + 1/100*random.randint(-500, 500))
+            bid = max(min_bid, bid)
+            bid = min(max_bid, bid)
+            bid = int(pot*bid)
+            return BidAction(bid)
 
 
         if RaiseAction in legal_actions:

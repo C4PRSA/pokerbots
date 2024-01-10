@@ -1,12 +1,13 @@
 new round
-no options
 Traceback (most recent call last):
-  File "/mnt/c/Users/camil/OneDrive/Desktop/pokerbots/teambot/python_skeleton/player.py", line 154, in <module>
+  File "/mnt/c/Users/camil/OneDrive/Desktop/pokerbots/teambot/python_skeleton/player.py", line 241, in <module>
     run_bot(Player(), parse_args())
   File "/mnt/c/Users/camil/OneDrive/Desktop/pokerbots/teambot/python_skeleton/skeleton/runner.py", line 144, in run_bot
     runner.run()
-  File "/mnt/c/Users/camil/OneDrive/Desktop/pokerbots/teambot/python_skeleton/skeleton/runner.py", line 120, in run
-    self.send(action)
-  File "/mnt/c/Users/camil/OneDrive/Desktop/pokerbots/teambot/python_skeleton/skeleton/runner.py", line 44, in send
-    code = 'R' + str(action.amount)
-AttributeError: 'NoneType' object has no attribute 'amount'
+  File "/mnt/c/Users/camil/OneDrive/Desktop/pokerbots/teambot/python_skeleton/skeleton/runner.py", line 70, in run
+    self.pokerbot.handle_new_round(game_state, round_state, active)
+  File "/mnt/c/Users/camil/OneDrive/Desktop/pokerbots/teambot/python_skeleton/player.py", line 66, in handle_new_round
+    strength_w_auction, strength_wo_auction = self.calculate_strength(my_cards, monte_carlo_iters)
+  File "/mnt/c/Users/camil/OneDrive/Desktop/pokerbots/teambot/python_skeleton/player.py", line 112, in calculate_strength
+    deck.cards.remove()
+TypeError: list.remove() takes exactly one argument (0 given)
