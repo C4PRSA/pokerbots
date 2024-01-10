@@ -68,19 +68,24 @@ class Player(Bot):
         else:
             num1 = int(rank1)
 
-        if rank1=="A":
-            num1 = 14
-        elif rank1=="K":
-            num1 = 13
-        elif rank1=="Q":
-            num1 = 12
-        elif rank1=="J":
-            num1 = 11
-        elif rank1=="T":
-            num1 = 10
+        if rank2=="A":
+            num2 = 14
+        elif rank2=="K":
+            num2 = 13
+        elif rank2=="Q":
+            num2 = 12
+        elif rank2=="J":
+            num2 = 11
+        elif rank2=="T":
+            num2 = 10
         else:
-            num1 = int(rank1)
+            num2 = int(rank2)
 
+        self.hole_value = 2*(num1+num2) #hole score
+        if rank1 == rank2:
+            self.hole_value = 4*(num1+num2)
+        elif suit1 == suit2:
+            self.hole_value = 3*(num1+num2)
 
 
     def handle_round_over(self, game_state, terminal_state, active):
@@ -136,12 +141,10 @@ class Player(Bot):
            min_cost = min_raise - my_pip  # the cost of a minimum bet/raise
            max_cost = max_raise - my_pip  # the cost of a maximum bet/raise
 
-        if RaiseAction in legal_actions and random.random() < 0.3:
-            return RaiseAction(random.randint(min_raise, max_raise))
-        if CheckAction in legal_actions:
-            return CheckAction()
+        if RaiseAction in legal_actions and street == 0 and self.hole_value >= opp_pip:
+            return RaiseAction(self.hole_value-opp_pip)
         elif BidAction in legal_actions:
-            return BidAction(my_stack) # random bid between 0 and our stack
+            return BidAction(100) # random bid between 0 and our stack
         return CallAction()
 
 
