@@ -58,7 +58,7 @@ class Player(Bot):
         num_rounds = game_state.round_num
 
         self.strong_hole = False
-        if rank1 == rank2 or (rank1 in "AKQJT9876" and rank2 in "AKQJT9876"):
+        if rank1 == rank2 or (rank1 in "AKQJT9" and rank2 in "AKQJT9"):
             print("if statement reached")
             self.strong_hole = True
 
@@ -185,14 +185,86 @@ class Player(Bot):
         opp_contribution = STARTING_STACK - opp_stack  # the number of chips your opponent has contributed to the pot
         pot = my_contribution + opp_contribution
 
-        strength_diff = self.strength_w_auction - self.strength_wo_auction
+
+
+        def calculate_ShouldWeBidOnTheAuction(self, mycards, flopcards, iters):
+            #this one will determine if we want to bid on auction
+            #this is post flop so take that into account
+            deck = eval7.Deck()
+            my_cards = [eval7.Card(card) for card in my_cards]
+            for card in my_cards:
+                deck.cards.remove(card)
+            for card in flop_cards:
+                deck.cards.remove(card) #deck without the flop cards and our cards
+            wins_w_auction = 0
+            wins_wo_auction = 0
+
+            for i in range(iters): #without the auction
+                deck.shuffle()
+                opp = 3
+                remaining_community_cards = 2
+                draw = deck.peek(opp+remaining_community_cards)
+                opp_cards = draw[:opp]
+                new_community_cards = draw[opp:]
+                community_cards = new_community_cards.extend(flop_cards)
+
+                our_hand = my_cards + community_cards
+                opp_hand = opp_cards + community_cards
+
+                our_hand_val = eval7.evaluate(our_hand)
+                opp_hand_val = eval7.evaluate(opp_hand)
+
+                if our_hand_val > opp_hand_val:
+                    # We won the round
+                    wins_wo_auction += 1
+                if our_hand_val == opp_hand_val:
+                    # We tied the round
+                    wins_wo_auction += .5
+                else:
+                    # We lost the round
+                    wins_wo_auction
+
+            for i in range(iters): #with the auction
+                deck.shuffle()
+                opp = 2
+                remaining_community_cards = 2
+                auction = 1
+                draw = deck.peek(opp+remaining_community_cards+auction)
+                opp_cards = draw[:opp]
+                community_cards = draw[opp: opp + remaining_community_cards]
+                community_cards = community_cards.extend(flop_cards)
+                auction_card = draw[opp+remaining_community_cards:]
+
+                our_hand = my_cards + auction_card + community_cards
+                opp_hand = opp_cards + community_cards
+
+                our_hand_val = eval7.evaluate(our_hand)
+                opp_hand_val = eval7.evaluate(opp_hand)
+
+                if our_hand_val > opp_hand_val:
+                    # We won the round
+                    wins_w_auction += 1
+                elif our_hand_val == opp_hand_val:
+                    # we tied the round
+                    wins_w_auction += .5
+                else:
+                    #We tied the round
+                    wins_w_auction += 0
+
+            strength_w_auction = wins_w_auction / iters
+            strength_wo_auction = wins_wo_auction / iters
+                #return the decimal of the percentage of the number of times it won with the auction and without the auction
+            return strength_w_auction- strength_wo_auction
+
+
+        strength_diff = calculate_ShouldWeBidOnTheAuction(my_cards, board_cards, 100)
 
         if BidAction in legal_actions:
-            max_bid_percentage = 0.40
-            min_bid_percentage = 0.15
-            bid_percentage = 0.75*strength_diff + 1/100*random.randint(-500,500)
+            max_bid_percentage = 1
+            min_bid_percentage = 0
+            bid_percentage = 0.75*strength_diff
             if bid_percentage > min_bid_percentage and bid_percentage < max_bid_percentage:
-                bid = int(pot*bid_percentage)
+                bid = int(my_stack*bid_percentage)
                 return BidAction(bid)
             elif bid_percentage<= min_bid_percentage:
                 return BidAction(int(min_bid_percentage*pot))

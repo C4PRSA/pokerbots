@@ -110,18 +110,12 @@ class Player(Bot):
            max_cost = max_raise - my_pip  # the cost of a maximum bet/raise
            print(min_raise, max_raise, my_stack, opp_stack, my_pip, opp_pip)
 
-        if RaiseAction in legal_actions and len(my_cards) == 3:
-            return RaiseAction(max_raise)
-        if self.strong_hole == True and RaiseAction in legal_actions:
-            raise_amount = min_raise + (max_raise - min_raise) * 0.1
-            return RaiseAction(raise_amount)
-        if CheckAction in legal_actions:
-            return CheckAction()
-        elif BidAction in legal_actions:
-            return BidAction(int(0.5*my_stack)) # random bid between 0 and our stack
-        elif self.strong_hole == False and FoldAction in legal_actions:
-            return FoldAction()
-        return CallAction()
+       if street < 0:
+
+
+
+
+
 
 
 if __name__ == '__main__':
