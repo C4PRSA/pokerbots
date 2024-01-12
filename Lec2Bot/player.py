@@ -187,14 +187,15 @@ class Player(Bot):
 
 
 
-        def calculate_ShouldWeBidOnTheAuction(self, mycards, flopcards, iters):
+        def calculate_ShouldWeBidOnTheAuction(mycards, flopcards, iters):
             #this one will determine if we want to bid on auction
             #this is post flop so take that into account
             deck = eval7.Deck()
-            my_cards = [eval7.Card(card) for card in my_cards]
-            for card in my_cards:
+            mycards = [eval7.Card(card) for card in mycards]
+            flopcards = [eval7.Card(card) for card in flopcards]
+            for card in mycards:
                 deck.cards.remove(card)
-            for card in flop_cards:
+            for card in flopcards:
                 deck.cards.remove(card) #deck without the flop cards and our cards
             wins_w_auction = 0
             wins_wo_auction = 0
@@ -206,9 +207,9 @@ class Player(Bot):
                 draw = deck.peek(opp+remaining_community_cards)
                 opp_cards = draw[:opp]
                 new_community_cards = draw[opp:]
-                community_cards = new_community_cards.extend(flop_cards)
+                community_cards = new_community_cards + flopcards
 
-                our_hand = my_cards + community_cards
+                our_hand = mycards + community_cards
                 opp_hand = opp_cards + community_cards
 
                 our_hand_val = eval7.evaluate(our_hand)
@@ -232,10 +233,10 @@ class Player(Bot):
                 draw = deck.peek(opp+remaining_community_cards+auction)
                 opp_cards = draw[:opp]
                 community_cards = draw[opp: opp + remaining_community_cards]
-                community_cards = community_cards.extend(flop_cards)
+                community_cards = community_cards + flopcards
                 auction_card = draw[opp+remaining_community_cards:]
 
-                our_hand = my_cards + auction_card + community_cards
+                our_hand = mycards + auction_card + community_cards
                 opp_hand = opp_cards + community_cards
 
                 our_hand_val = eval7.evaluate(our_hand)
