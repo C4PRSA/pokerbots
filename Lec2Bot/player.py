@@ -8,6 +8,10 @@ from skeleton.bot import Bot
 from skeleton.runner import parse_args, run_bot
 import random
 import eval7
+import time
+
+
+preflop_bank  = dict()
 
 
 class Player(Bot):
@@ -57,9 +61,15 @@ class Player(Bot):
         game_clock = game_state.game_clock
         num_rounds = game_state.round_num
 
+
+        # start_time = time.time()
+        # for i in range(10):
+        #     deck = eval7.Deck()
+        #     deck = list(deck)
+        # print("time taken to convert list to deck:", time.time() - start_time)
+
         self.strong_hole = False
-        if rank1 == rank2 or (rank1 in "AKQJT9" and rank2 in "AKQJT9"):
-            print("if statement reached")
+        if rank1 == rank2 or (rank1 in "AKQJT9876" and rank2 in "AKQJT9876"):
             self.strong_hole = True
 
         monte_carlo_iters = 100
@@ -68,9 +78,7 @@ class Player(Bot):
         self.strength_wo_auction = strength_wo_auction
 
         if num_rounds == NUM_ROUNDS:
-            print(game_clock)
-
-
+            print("game clock:", game_clock)
 
     def calculate_strength(self, my_cards, iters):
         deck = eval7.Deck()
@@ -185,97 +193,21 @@ class Player(Bot):
         opp_contribution = STARTING_STACK - opp_stack  # the number of chips your opponent has contributed to the pot
         pot = my_contribution + opp_contribution
 
-
-
-        def calculate_ShouldWeBidOnTheAuction(mycards, flopcards, iters):
-            #this one will determine if we want to bid on auction
-            #this is post flop so take that into account
-            deck = eval7.Deck()
-            mycards = [eval7.Card(card) for card in mycards]
-            flopcards = [eval7.Card(card) for card in flopcards]
-            for card in mycards:
-                deck.cards.remove(card)
-            for card in flopcards:
-                deck.cards.remove(card) #deck without the flop cards and our cards
-            wins_w_auction = 0
-            wins_wo_auction = 0
-
-            for i in range(iters): #without the auction
-                deck.shuffle()
-                opp = 3
-                remaining_community_cards = 2
-                draw = deck.peek(opp+remaining_community_cards)
-                opp_cards = draw[:opp]
-                new_community_cards = draw[opp:]
-                community_cards = new_community_cards + flopcards
-
-                our_hand = mycards + community_cards
-                opp_hand = opp_cards + community_cards
-
-                our_hand_val = eval7.evaluate(our_hand)
-                opp_hand_val = eval7.evaluate(opp_hand)
-
-                if our_hand_val > opp_hand_val:
-                    # We won the round
-                    wins_wo_auction += 1
-                if our_hand_val == opp_hand_val:
-                    # We tied the round
-                    wins_wo_auction += .5
-                else:
-                    # We lost the round
-                    wins_wo_auction
-
-            for i in range(iters): #with the auction
-                deck.shuffle()
-                opp = 2
-                remaining_community_cards = 2
-                auction = 1
-                draw = deck.peek(opp+remaining_community_cards+auction)
-                opp_cards = draw[:opp]
-                community_cards = draw[opp: opp + remaining_community_cards]
-                community_cards = community_cards + flopcards
-                auction_card = draw[opp+remaining_community_cards:]
-
-                our_hand = mycards + auction_card + community_cards
-                opp_hand = opp_cards + community_cards
-
-                our_hand_val = eval7.evaluate(our_hand)
-                opp_hand_val = eval7.evaluate(opp_hand)
-
-                if our_hand_val > opp_hand_val:
-                    # We won the round
-                    wins_w_auction += 1
-                elif our_hand_val == opp_hand_val:
-                    # we tied the round
-                    wins_w_auction += .5
-                else:
-                    #We tied the round
-                    wins_w_auction += 0
-
-            strength_w_auction = wins_w_auction / iters
-            strength_wo_auction = wins_wo_auction / iters
-                #return the decimal of the percentage of the number of times it won with the auction and without the auction
-            return strength_w_auction- strength_wo_auction
-
-
-        strength_diff = calculate_ShouldWeBidOnTheAuction(my_cards, board_cards, 100)
+        strength_diff = self.strength_w_auction - self.strength_wo_auction
 
         if BidAction in legal_actions:
-            max_bid_percentage = 1
-            min_bid_percentage = 0
-            bid_percentage = 0.75*strength_diff
-            if bid_percentage > min_bid_percentage and bid_percentage < max_bid_percentage:
-                bid = int(my_stack*bid_percentage)
-                return BidAction(bid)
-            elif bid_percentage<= min_bid_percentage:
-                return BidAction(int(min_bid_percentage*pot))
-            elif bid_percentage >= max_bid_percentage:
-                return BidAction(int(max_bid_percentage*pot))
+            max_bid_percentage = 0.40
+            min_bid_percentage = 0.15
+            bid_percentage = 0.75*strength_diff + 1/100*random.randint(-500,500)
+            bid_percentage = max(min_bid_percentage,bid_percentage)
+            bid_percentage = min(max_bid_percentage, bid_percentage)
+            bid = int(pot*bid_percentage)
+            return BidAction(bid)
 
         if RaiseAction in legal_actions:
             min_raise, max_raise = round_state.raise_bounds()
 
-        if not self.strong_hole and FoldAction in legal_actions:
+        if not self.strong_hole:
             return FoldAction()
 
         if street < 3:
@@ -287,13 +219,17 @@ class Player(Bot):
                 strength = self.strength_w_auction
             else:
                 strength = self.strength_wo_auction
+
             raise_ammt = int(my_pip + continue_cost + 0.5*pot)
             raise_cost = int(continue_cost + 0.5*pot)
 
         if RaiseAction in legal_actions and raise_cost <= my_stack:
+
             raise_ammt = max(min_raise,raise_ammt)
             raise_ammt = min(max_raise, raise_ammt)
+
             commit_action = RaiseAction(raise_ammt)
+
         elif CallAction in legal_actions and continue_cost <= my_stack:
             commit_action = CallAction()
         else:
@@ -317,6 +253,9 @@ class Player(Bot):
                 if strength < 0.10 and random.random() < 0.05:
                     if RaiseAction in legal_actions:
                         my_action = commit_action
+                    else:
+                        my_action = FoldAction()
+
                 else:
                     my_action = FoldAction()
 
