@@ -25,6 +25,8 @@ class Player(Bot):
         Returns:
         Nothing.
         '''
+        self.activate_folds = False
+
         pass
 
     def handle_new_round(self, game_state, round_state, active):
@@ -57,13 +59,17 @@ class Player(Bot):
         game_clock = game_state.game_clock
         num_rounds = game_state.round_num
 
+        forever_fold = (1.5 * (NUM_ROUNDS - round_num)) + 5
+
+        if my_bankroll > forever_fold:
+            self.activate_folds = True
 
         monte_carlo_iters = 200
         strength_w_auction, strength_wo_auction = self.calculate_strength(my_cards, monte_carlo_iters)
         self.strength_w_auction = strength_w_auction
         self.strength_wo_auction = strength_wo_auction
 
-        print((self.strength_w_auction + self.strength_wo_auction)/2)
+        print(self.activate_folds, "camila is annoying and wants to have text :(")
 
         if num_rounds == NUM_ROUNDS:
             print(game_clock)
@@ -183,7 +189,11 @@ class Player(Bot):
         opp_contribution = STARTING_STACK - opp_stack  # the number of chips your opponent has contributed to the pot
         pot = my_contribution + opp_contribution
 
-
+        if self.activate_folds == True:
+            if CheckAction in legal_actions:
+                return CheckAction()
+            else:
+                return FoldAction()
 
         def calculate_ShouldWeBidOnTheAuction(mycards, flopcards, iters):
             #this one will determine if we want to bid on auction
