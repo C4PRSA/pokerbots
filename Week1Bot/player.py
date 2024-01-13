@@ -307,7 +307,7 @@ class Player(Bot):
         if BidAction in legal_actions:
             max_bid_percentage = 1
             min_bid_percentage = 0
-            bid_percentage = strength_diff
+            bid_percentage = 1.5*strength_diff
             if bid_percentage > min_bid_percentage and bid_percentage < max_bid_percentage:
                 bid = int(my_stack*bid_percentage)
                 return BidAction(bid)
@@ -372,8 +372,8 @@ class Player(Bot):
             pot_odds = continue_cost/(continue_cost + pot)
 
             if strength >= pot_odds:
-                if strength > 0.95:
-                    my_action = RaiseAction(max(my_stack,max_raise))
+                if strength > 0.95 and RaiseAction in legal_actions:
+                    my_action = RaiseAction(max_raise)
                 elif strength - pot_odds > 0.2:
                     my_action = commit_action
                 elif strength - pot_odds > 0.1:
@@ -396,8 +396,8 @@ class Player(Bot):
                         return FoldAction()
 
         else:
-            if strength > 0.95:
-                my_action = RaiseAction(max(my_stack,max_raise))
+            if strength > 0.95 and RaiseAction in legal_actions:
+                my_action = RaiseAction(max_raise)
             elif strength > 0.8:
                 my_action = commit_action
             elif strength > 0.5:
