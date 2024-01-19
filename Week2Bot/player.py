@@ -8,6 +8,9 @@ from skeleton.bot import Bot
 from skeleton.runner import parse_args, run_bot
 import random
 import eval7
+import pickle
+import time
+
 
 
 class Player(Bot):
@@ -26,6 +29,26 @@ class Player(Bot):
         Nothing.
         '''
         self.activate_folds = False
+
+        self.opp_holes = []
+        self.opp_bids = []
+
+        prev_time = time.time()
+        with open("hand_strengths", "rb") as file:
+            self.starting_strengths = pickle.load(file)
+
+        rank_to_numeric = dict()
+
+        for i in range(2,10):
+            rank_to_numeric[str(i)] = i
+
+        for num, rank in enumerate("TJQKA"): #[(0,T), (1,J), (2,Q) ...]
+            rank_to_numeric[rank] = num + 10
+
+        self.rank_to_numeric = rank_to_numeric
+
+        self.num_showdowns = 0
+        self.opp_avg_strength = 0.5
 
         pass
 
@@ -46,15 +69,9 @@ class Player(Bot):
         round_num = game_state.round_num  # the round number from 1 to NUM_ROUNDS
         my_cards = round_state.hands[active]  # your cards
         big_blind = bool(active)  # True if you are the big blind
-        pass
 
-        card1 = my_cards[0]
-        card2 = my_cards[1]
 
-        rank1 = card1[0] # "Ad", "9c", "Th" -> "A", "9", "T"
-        suit1 = card1[1] # "d", "c", "h", etc.
-        rank2 = card2[0]
-        suit2 = card2[1]
+
 
         game_clock = game_state.game_clock
         num_rounds = game_state.round_num
@@ -64,10 +81,15 @@ class Player(Bot):
         if my_bankroll > forever_fold:
             self.activate_folds = True
 
-        monte_carlo_iters = 200
-        strength_w_auction, strength_wo_auction = self.calculate_strength(my_cards, monte_carlo_iters)
-        self.strength_w_auction = strength_w_auction
-        self.strength_wo_auction = strength_wo_auction
+
+
+        self.early_game = (round_num < NUM_ROUNDS // 4)
+
+
+
+        card_strength = self.hand_to_strength(my_cards)
+        self.card_strength = (card_strength[0] + card_strength[1])/2
+
 
         if self.activate_folds == True:
             print(self.activate_folds, "Round num: ", round_num)
@@ -76,71 +98,27 @@ class Player(Bot):
             print(game_clock)
 
 
+    def hand_to_strength(self, my_cards): #AcKs, Jc9s
 
-    def calculate_strength(self, my_cards, iters):
-        deck = eval7.Deck()
-        my_cards = [eval7.Card(card) for card in my_cards]
-        for card in my_cards:
-            deck.cards.remove(card)
-        wins_w_auction = 0
-        wins_wo_auction = 0
+        card_1 = my_cards[0]
+        card_2 = my_cards[1]
 
-        for i in range(iters):
-            deck.shuffle()
-            opp = 3
-            community = 5
-            draw = deck.peek(opp+community)
-            opp_cards = draw[:opp]
-            community_cards = draw[opp:]
+        rank_1, suit_1 = card_1
+        rank_2, suit_2 = card_2
 
-            our_hand = my_cards + community_cards
-            opp_hand = opp_cards + community_cards
+        num_1 = self.rank_to_numeric[rank_1]
+        num_2 = self.rank_to_numeric[rank_2]
 
-            our_hand_val = eval7.evaluate(our_hand)
-            opp_hand_val = eval7.evaluate(opp_hand)
+        suited = 'o'
+        if suit_1 == suit_2:
+            suited = "s"
 
-            if our_hand_val > opp_hand_val:
-                # We won the round
-                wins_wo_auction += 2
-            if our_hand_val == opp_hand_val:
-                # We tied the round
-                wins_wo_auction += 1
-            else:
-                # We lost the round
-                wins_wo_auction
+        if num_1 >= num_2:
+            key = rank_1 + rank_2 + suited
+        else:
+            key = rank_2 + rank_1 + suited
 
-        for i in range(iters):
-            deck.shuffle()
-            opp = 2
-            community = 5
-            auction = 1
-            draw = deck.peek(opp+community+auction)
-            opp_cards = draw[:opp]
-            community_cards = draw[opp: opp + community]
-            auction_card = draw[opp+community:]
-            our_hand = my_cards + auction_card + community_cards
-            opp_hand = opp_cards + community_cards
-
-            our_hand_val = eval7.evaluate(our_hand)
-            opp_hand_val = eval7.evaluate(opp_hand)
-
-            if our_hand_val > opp_hand_val:
-                # We won the round
-                wins_w_auction += 2
-            elif our_hand_val == opp_hand_val:
-                # we tied the round
-                wins_w_auction += 1
-            else:
-                #We tied the round
-                wins_w_auction += 0
-
-            strength_w_auction = wins_w_auction / (2* iters)
-            strength_wo_auction = wins_wo_auction/ (2* iters)
-
-        return strength_w_auction, strength_wo_auction
-
-
-
+        return self.starting_strengths[key]
 
     def handle_round_over(self, game_state, terminal_state, active):
         '''
@@ -159,7 +137,16 @@ class Player(Bot):
         street = previous_state.street  # 0, 3, 4, or 5 representing when this round ended
         my_cards = previous_state.hands[active]  # your cards
         opp_cards = previous_state.hands[1-active]  # opponent's cards or [] if not revealed
-        pass
+        opp_bid = previous_state.bids[1-active]
+
+        if len(opp_cards) >= 2:
+            opp_cur_strength = self.hand_to_strength(opp_cards[:2])
+            opp_cur_strength = (opp_cur_strength[0] + opp_cur_strength[1])/2
+            self.opp_avg_strength = (self.opp_avg_strength *self.num_showdowns + opp_cur_strength) /(self.num_showdowns + 1)
+            self.num_showdowns += 1
+            # self.opp_holes.append(opp_cards[:2])
+            self.opp_bids.append(opp_bid)
+
 
     def get_action(self, game_state, round_state, active):
         '''
@@ -318,7 +305,7 @@ class Player(Bot):
         if BidAction in legal_actions:
             max_bid_percentage = 1
             min_bid_percentage = 0
-            bid_percentage = 1.5*strength_diff
+            bid_percentage = strength_diff
             if bid_percentage > min_bid_percentage and bid_percentage < max_bid_percentage:
                 bid = int(my_stack*bid_percentage)
                 return BidAction(bid)
@@ -330,10 +317,8 @@ class Player(Bot):
         if RaiseAction in legal_actions:
             min_raise, max_raise = round_state.raise_bounds()
 
-
-        if street < 3:
-            strength = (self.strength_w_auction + self.strength_wo_auction)/2
-
+        strength = self.card_strength
+        if street < 3 and self.early_game == True:
             if strength > 0.6:
                 if continue_cost > 50 or pot > 100:
                     return CallAction()
@@ -361,6 +346,110 @@ class Player(Bot):
                     return CheckAction()
                 else:
                     return FoldAction()
+            return RaiseAction(raise_cost)
+
+        elif street < 3 and self.early_game == False:
+            if strength > self.opp_avg_strength + 0.1:
+                if continue_cost > 50 or pot > 100:
+                    return CallAction()
+                elif random.random()>0.5:
+                    raise_cost = continue_cost + 50
+                else:
+                    raise_cost = continue_cost + 100
+            elif strength > self.opp_avg_strength - 0.05:
+                if continue_cost < 50:
+                    if continue_cost > 10 or pot > 50:
+                        return CallAction()
+                    elif random.random()>0.5:
+                        raise_cost = continue_cost + 25
+                    elif CheckAction in legal_actions:
+                        return CheckAction()
+                    else:
+                        return CallAction()
+                else:
+                    if CheckAction in legal_actions:
+                        return CheckAction()
+                    else:
+                        return FoldAction()
+            else:
+                if CheckAction in legal_actions:
+                    return CheckAction()
+                else:
+                    return FoldAction()
+            return RaiseAction(raise_cost)
+
+        elif pot<50:
+            strength = calculate_TheOddsAfterTheAuction(my_cards, board_cards, 200)
+
+            if self.early_game == True:
+
+                if strength > 0.7:
+                    if continue_cost > 50 or pot > 100:
+                        return CallAction()
+                    elif random.random()>0.5:
+                        raise_cost = continue_cost + 50
+                    else:
+                        raise_cost = continue_cost + 100
+                elif strength > 0.5:
+                    if continue_cost < 50:
+                        if continue_cost > 10 or pot > 50:
+                            return CallAction()
+                        elif random.random()>0.5:
+                            raise_cost = continue_cost + 25
+                        elif CheckAction in legal_actions:
+                            return CheckAction()
+                        else:
+                            return CallAction()
+                    else:
+                        if CheckAction in legal_actions:
+                            return CheckAction()
+                        else:
+                            return FoldAction()
+                elif strength > 0.37:
+                    if CheckAction in legal_actions:
+                        return CheckAction()
+                    elif continue_cost < 10:
+                        return CallAction()
+                    else:
+                        return FoldAction()
+                else:
+                    if CheckAction in legal_actions:
+                        return CheckAction()
+                    else:
+                        return FoldAction()
+                return RaiseAction(raise_cost)
+
+            elif self.early_game == False:
+                if strength > self.opp_avg_strength + 0.25:
+                    if continue_cost > 50 or pot > 100:
+                        return CallAction()
+                    elif random.random()>0.5:
+                        raise_cost = continue_cost + 50
+                    else:
+                        raise_cost = continue_cost + 100
+                elif strength > self.opp_avg_strength:
+                    if continue_cost < 50:
+                        if continue_cost > 10 or pot > 50:
+                            return CallAction()
+                        elif random.random()>0.5:
+                            raise_cost = continue_cost + 25
+                        elif CheckAction in legal_actions:
+                            return CheckAction()
+                        else:
+                            return CallAction()
+                    else:
+                        if CheckAction in legal_actions:
+                            return CheckAction()
+                        else:
+                            return FoldAction()
+
+
+                else:
+                    if CheckAction in legal_actions:
+                        return CheckAction()
+                    else:
+                        return FoldAction()
+            return RaiseAction(raise_cost)
 
         else:
             strength = calculate_TheOddsAfterTheAuction(my_cards, board_cards, 200)
@@ -382,7 +471,7 @@ class Player(Bot):
         if continue_cost > 0:
             pot_odds = continue_cost/(continue_cost + pot)
 
-            if strength >= pot_odds:
+            if strength >= pot_odds + 0.1:
                 if strength > 0.95 and RaiseAction in legal_actions:
                     my_action = RaiseAction(max_raise)
                 elif strength - pot_odds > 0.3:
@@ -396,8 +485,8 @@ class Player(Bot):
                     return CallAction()
 
 
-            if strength < pot_odds:
-                if random.random() < 0.1:
+            elif strength < pot_odds + 0.1:
+                if random.random() < 0.05:
                     if RaiseAction in legal_actions or CallAction in legal_actions:
                         my_action = commit_action
                 else:
