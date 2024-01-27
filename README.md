@@ -1,2 +1,0 @@
-# pokerbots
-second iteration
