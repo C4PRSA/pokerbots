@@ -52,6 +52,7 @@ class Player(Bot):
 
         self.alloppcards = []
         self.last50oppcards = []
+        self.reocurrringoppcards = []
 
         pass
 
@@ -140,9 +141,8 @@ class Player(Bot):
 
 
         if len(opp_cards) >= 2:
-
             self.alloppcards.append(opp_cards)
-            if len(self.alloppcards) >= 50:
+            if len(self.alloppcards) >= 20:
                 self.last50oppcards.remove[0]
                 self.last50oppcards.append(opp_cards)
             else:
@@ -150,7 +150,18 @@ class Player(Bot):
 
             opp_cur_strength = self.hand_to_strength(opp_cards[:2])
             opp_cur_strength = (opp_cur_strength[0] + opp_cur_strength[1])/2
-            self.opp_avg_strength = (self.opp_avg_strength *self.num_showdowns + opp_cur_strength) /(self.num_showdowns + 1)
+
+            if len(self.alloppcards) <= 20:
+                self.opp_avg_strength = (self.opp_avg_strength *self.num_showdowns + opp_cur_strength) /(self.num_showdowns + 1)
+            else:
+                self.opp_avg_strength = .5
+                for i in range(len(self.last50oppcards)):
+                    opp_cur_strength = self.hand_to_strength(self.last50oppcards[i[:2]])
+                    opp_cur_strength = (opp_cur_strength[0] + opp_cur_strength[1])/2
+
+                    self.opp_avg_strength = (self.opp_avg_strength * i + opp_cur_strength) / i
+
+
             self.num_showdowns += 1
             # self.opp_holes.append(opp_cards[:2])
             self.opp_bids.append(opp_bid)
