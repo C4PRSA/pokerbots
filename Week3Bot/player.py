@@ -51,8 +51,8 @@ class Player(Bot):
         self.opp_avg_strength = 0.5
 
         self.alloppcards = []
-        self.last50oppcards = []
-        self.reocurrringoppcards = []
+        self.Last_20_Opp_Cards = []
+        self.reformattedoppcardswitheval7 = []
 
         pass
 
@@ -137,34 +137,43 @@ class Player(Bot):
         my_cards = previous_state.hands[active]  # your cards
         opp_cards = previous_state.hands[1-active]  # opponent's cards or [] if not revealed
         opp_bid = previous_state.bids[1-active]
-
-
+        # board_cards = round_state.deck[:street]  # the board cards
 
         if len(opp_cards) >= 2:
             self.alloppcards.append(opp_cards)
-            if len(self.alloppcards) >= 20:
-                self.last50oppcards.remove[0]
-                self.last50oppcards.append(opp_cards)
+
+            ReformattedOppCards = [eval7.Card(card) for card in opp_cards]
+            self.reformattedoppcardswitheval7.append(ReformattedOppCards)
+
+            if len(self.alloppcards) >= 20:     #if more than 20 showdowns have occured
+                print(self.Last_20_Opp_Cards[0])
+                self.Last_20_Opp_Cards.pop(0)    #update to only include the last 20
+                self.Last_20_Opp_Cards.append(opp_cards)
             else:
-                self.last50oppcards.append(opp_cards)
+                self.Last_20_Opp_Cards.append(opp_cards) #if less than 20 occur we add to the list
+                print(type(self.Last_20_Opp_Cards))
 
             opp_cur_strength = self.hand_to_strength(opp_cards[:2])
             opp_cur_strength = (opp_cur_strength[0] + opp_cur_strength[1])/2
 
-            if len(self.alloppcards) <= 20:
+            if len(self.alloppcards) < 20:   #if less than 20 occur we calculate average opp strength
                 self.opp_avg_strength = (self.opp_avg_strength *self.num_showdowns + opp_cur_strength) /(self.num_showdowns + 1)
             else:
-                self.opp_avg_strength = .5
-                for i in range(len(self.last50oppcards)):
-                    opp_cur_strength = self.hand_to_strength(self.last50oppcards[i[:2]])
+                self.opp_avg_strength = .5   #if more than 20 showdowns have occured we calcuate average strength using the last 20
+                for i in range(len(self.Last_20_Opp_Cards)):
+                    opp_cur_strength = self.hand_to_strength(self.Last_20_Opp_Cards[i][:2])
                     opp_cur_strength = (opp_cur_strength[0] + opp_cur_strength[1])/2
-
-                    self.opp_avg_strength = (self.opp_avg_strength * i + opp_cur_strength) / i
-
+                    self.opp_avg_strength = (self.opp_avg_strength * i + opp_cur_strength) / (i+1)
 
             self.num_showdowns += 1
             # self.opp_holes.append(opp_cards[:2])
             self.opp_bids.append(opp_bid)
+            print(self.Last_20_Opp_Cards)
+
+
+
+
+
 
 
     def get_action(self, game_state, round_state, active):
@@ -286,6 +295,32 @@ class Player(Bot):
 
             community = 5-len(reformattedboardcards)  #bring this outside the loop bc doesn't change
             opp = 5-len(reformattedcardsthatwehave)
+
+            # if street >= 4 and len(self.Last_20_Opp_Cards) >= 10:
+            #     deck.shuffle()
+            #     draw = deck.peek(community)
+            #     if community == 0:
+            #         community_cards = reformattedboardcards
+            #     else:
+            #         community_cards = draw
+            #         community_cards = community_cards + reformattedboardcards
+
+            #     our_hand = reformattedcardsthatwehave + community_cards
+            #     opp_hand = opp_cards + community_cards
+
+            #     our_hand_val = eval7.evaluate(our_hand)
+            #     opp_hand_val = eval7.evaluate(opp_hand)
+
+            #     if our_hand_val > opp_hand_val:
+            #         # We won the round
+            #         wins += 1
+            #     if our_hand_val == opp_hand_val:
+            #         # We tied the round
+            #         wins += .5
+            #     else:
+            #         # We lost the round
+            #         pass
+
 
             for i in range(iters):
                 deck.shuffle()
