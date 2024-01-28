@@ -50,9 +50,11 @@ class Player(Bot):
         self.num_showdowns = 0
         self.opp_avg_strength = 0.5
 
-        self.alloppcards = []
         self.Last_20_Opp_Cards = []
-        self.reformattedoppcardswitheval7 = []
+        self.list_of_all_board_cards = []
+        self.list_of_opp_strength_at_showdown = []
+        self.opp_showdown_strength = .5
+
 
         pass
 
@@ -82,13 +84,10 @@ class Player(Bot):
         if my_bankroll > forever_fold:
             self.activate_folds = True
 
-
         self.early_game = (round_num < 100)
-
 
         card_strength = self.hand_to_strength(my_cards)
         self.card_strength = (card_strength[0] + card_strength[1])/2
-
 
         if self.activate_folds == True:
             print(self.activate_folds, "Round num: ", round_num)
@@ -98,7 +97,6 @@ class Player(Bot):
 
 
     def hand_to_strength(self, my_cards): #AcKs, Jc9s
-
         card_1 = my_cards[0]
         card_2 = my_cards[1]
 
@@ -118,6 +116,9 @@ class Player(Bot):
             key = rank_2 + rank_1 + suited
 
         return self.starting_strengths[key]
+
+
+
 
     def handle_round_over(self, game_state, terminal_state, active):
         '''
@@ -139,24 +140,19 @@ class Player(Bot):
         opp_bid = previous_state.bids[1-active]
         # board_cards = round_state.deck[:street]  # the board cards
 
-        if len(opp_cards) >= 2:
-            self.alloppcards.append(opp_cards)
+        if len(opp_cards) >= 2 and self.activate_folds == False:
 
-            ReformattedOppCards = [eval7.Card(card) for card in opp_cards]
-            self.reformattedoppcardswitheval7.append(ReformattedOppCards)
-
-            if len(self.alloppcards) >= 20:     #if more than 20 showdowns have occured
-                print(self.Last_20_Opp_Cards[0])
+            print("A showdown has occured!")
+            if (self.num_showdowns) >= 20:     #if more than 20 showdowns have occured
                 self.Last_20_Opp_Cards.pop(0)    #update to only include the last 20
                 self.Last_20_Opp_Cards.append(opp_cards)
             else:
                 self.Last_20_Opp_Cards.append(opp_cards) #if less than 20 occur we add to the list
-                print(type(self.Last_20_Opp_Cards))
 
             opp_cur_strength = self.hand_to_strength(opp_cards[:2])
             opp_cur_strength = (opp_cur_strength[0] + opp_cur_strength[1])/2
 
-            if len(self.alloppcards) < 20:   #if less than 20 occur we calculate average opp strength
+            if (self.num_showdowns) < 20:   #if less than 20 occur we calculate average opp strength
                 self.opp_avg_strength = (self.opp_avg_strength *self.num_showdowns + opp_cur_strength) /(self.num_showdowns + 1)
             else:
                 self.opp_avg_strength = .5   #if more than 20 showdowns have occured we calcuate average strength using the last 20
@@ -166,9 +162,26 @@ class Player(Bot):
                     self.opp_avg_strength = (self.opp_avg_strength * i + opp_cur_strength) / (i+1)
 
             self.num_showdowns += 1
-            # self.opp_holes.append(opp_cards[:2])
             self.opp_bids.append(opp_bid)
-            print(self.Last_20_Opp_Cards)
+            #print(self.Last_20_Opp_Cards)
+
+
+            print(opp_cards)
+            lastboardcards = self.list_of_all_board_cards[-1] + opp_cards
+
+
+
+            ReformattedBoardCards = [eval7.Card(card) for card in lastboardcards]
+
+            opp_hand_val = eval7.evaluate(ReformattedBoardCards)
+            #self.list_of_opp_strength_at_showdown.append(opp_hand_val)
+
+            self.opp_showdown_strength = (self.opp_showdown_strength * (self.num_showdowns - 1) + opp_hand_val) / (self.num_showdowns)
+            print (self.opp_showdown_strength)
+
+
+        elif self.activate_folds == False:
+            self.list_of_all_board_cards.clear()
 
 
 
@@ -206,16 +219,23 @@ class Player(Bot):
         pot = my_contribution + opp_contribution
 
         if self.activate_folds == True:
+            print('always fold = True')
             if CheckAction in legal_actions:
                 return CheckAction()
             else:
                 return FoldAction()
+
+        if self.activate_folds == False:
+            self.list_of_all_board_cards.append(board_cards)
+            #print(self.list_of_all_board_cards)
+
 
 
         def calculate_ShouldWeBidOnTheAuction(mycards, flopcards, iters):
             #this one will determine if we want to bid on auction
             #this is post flop so take that into account
             deck = eval7.Deck()
+            print(my_cards)
             mycards = [eval7.Card(card) for card in mycards]
             flopcards = [eval7.Card(card) for card in flopcards]
             for card in mycards:

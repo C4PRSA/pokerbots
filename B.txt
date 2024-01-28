@@ -1,1047 +1,1907 @@
-<class 'list'>
-[['Td', '5d', '6s']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d']]
-<class 'list'>
-[['Td', '5d', '6s'], ['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd']]
-['Td', '5d', '6s']
-[['Ah', 'Kh'], ['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d']]
-['Ah', 'Kh']
-[['5d', '3s', '6d'], ['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c']]
-['5d', '3s', '6d']
-[['Tc', '8s'], ['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s']]
-['Tc', '8s']
-[['7s', '4c', '6c'], ['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs']]
-['7s', '4c', '6c']
-[['Qh', 'Jc'], ['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h']]
-['Qh', 'Jc']
-[['Ad', '3h', '8s'], ['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd']]
-['Ad', '3h', '8s']
-[['Qs', '5s', 'Kc'], ['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s']]
-['Qs', '5s', 'Kc']
-[['5c', '4d', 'Ac'], ['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c']]
-['5c', '4d', 'Ac']
-[['9c', '7s', 'Js'], ['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s']]
-['9c', '7s', 'Js']
-[['6c', '5d', '7c'], ['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts']]
-True Round num:  67
-True Round num:  68
-True Round num:  69
-True Round num:  70
-True Round num:  71
-['6c', '5d', '7c']
-[['8h', 'Jh'], ['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s']]
-True Round num:  72
-True Round num:  73
-True Round num:  74
-True Round num:  75
-True Round num:  76
-True Round num:  77
-True Round num:  78
-True Round num:  79
-True Round num:  80
-True Round num:  81
-True Round num:  82
-True Round num:  83
-['8h', 'Jh']
-[['Ah', '3s', '5h'], ['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s']]
-True Round num:  84
-True Round num:  85
-['Ah', '3s', '5h']
-[['Jc', '4c', 'Td'], ['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah']]
-True Round num:  86
-True Round num:  87
-True Round num:  88
-True Round num:  89
-True Round num:  90
-True Round num:  91
-True Round num:  92
-True Round num:  93
-True Round num:  94
-True Round num:  95
-True Round num:  96
-True Round num:  97
-True Round num:  98
-True Round num:  99
-True Round num:  100
-True Round num:  101
-True Round num:  102
-True Round num:  103
-True Round num:  104
-True Round num:  105
-True Round num:  106
-True Round num:  107
-True Round num:  108
-True Round num:  109
-True Round num:  110
-True Round num:  111
-True Round num:  112
-True Round num:  113
-True Round num:  114
-True Round num:  115
-True Round num:  116
-True Round num:  117
-True Round num:  118
-True Round num:  119
-True Round num:  120
-True Round num:  121
-True Round num:  122
-True Round num:  123
-True Round num:  124
-True Round num:  125
-True Round num:  126
-True Round num:  127
-True Round num:  128
-True Round num:  129
-True Round num:  130
-True Round num:  131
-True Round num:  132
-True Round num:  133
-['Jc', '4c', 'Td']
-[['Tc', '9s', '3d'], ['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d']]
-True Round num:  134
-True Round num:  135
-True Round num:  136
-True Round num:  137
-True Round num:  138
-True Round num:  139
-True Round num:  140
-True Round num:  141
-['Tc', '9s', '3d']
-[['9c', '2h', '7d'], ['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh']]
-True Round num:  142
-True Round num:  143
-['9c', '2h', '7d']
-[['5s', 'Ac', '8c'], ['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc']]
-True Round num:  144
-True Round num:  145
-True Round num:  146
-True Round num:  147
-True Round num:  148
-True Round num:  149
-True Round num:  150
-True Round num:  151
-True Round num:  152
-True Round num:  153
-True Round num:  154
-True Round num:  155
-True Round num:  156
-True Round num:  157
-True Round num:  158
-True Round num:  159
-True Round num:  160
-True Round num:  161
-True Round num:  162
-True Round num:  163
-True Round num:  164
-True Round num:  165
-True Round num:  166
-True Round num:  167
-['5s', 'Ac', '8c']
-[['9s', '9d'], ['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h']]
-True Round num:  168
-True Round num:  169
-True Round num:  170
-True Round num:  171
-True Round num:  172
-True Round num:  173
-True Round num:  174
-True Round num:  175
-True Round num:  176
-True Round num:  177
-True Round num:  178
-True Round num:  179
-True Round num:  180
-True Round num:  181
-True Round num:  182
-True Round num:  183
-True Round num:  184
-True Round num:  185
-True Round num:  186
-True Round num:  187
-True Round num:  188
-True Round num:  189
-True Round num:  190
-True Round num:  191
-True Round num:  192
-True Round num:  193
-True Round num:  194
-True Round num:  195
-True Round num:  196
-True Round num:  197
-True Round num:  198
-True Round num:  199
-True Round num:  200
-True Round num:  201
-True Round num:  202
-True Round num:  203
-True Round num:  204
-True Round num:  205
-True Round num:  206
-True Round num:  207
-True Round num:  208
-True Round num:  209
-True Round num:  210
-True Round num:  211
-True Round num:  212
-True Round num:  213
-True Round num:  214
-True Round num:  215
-True Round num:  216
-True Round num:  217
-True Round num:  218
-True Round num:  219
-True Round num:  220
-True Round num:  221
-True Round num:  222
-True Round num:  223
-True Round num:  224
-True Round num:  225
-True Round num:  226
-True Round num:  227
-True Round num:  228
-True Round num:  229
-True Round num:  230
-True Round num:  231
-True Round num:  232
-True Round num:  233
-True Round num:  234
-True Round num:  235
-True Round num:  236
-True Round num:  237
-True Round num:  238
-True Round num:  239
-True Round num:  240
-True Round num:  241
-True Round num:  242
-True Round num:  243
-True Round num:  244
-True Round num:  245
-True Round num:  246
-True Round num:  247
-True Round num:  248
-True Round num:  249
-True Round num:  250
-True Round num:  251
-True Round num:  252
-True Round num:  253
-True Round num:  254
-True Round num:  255
-True Round num:  256
-True Round num:  257
-True Round num:  258
-True Round num:  259
-True Round num:  260
-True Round num:  261
-True Round num:  262
-True Round num:  263
-True Round num:  264
-True Round num:  265
-True Round num:  266
-True Round num:  267
-True Round num:  268
-True Round num:  269
-True Round num:  270
-True Round num:  271
-True Round num:  272
-True Round num:  273
-True Round num:  274
-True Round num:  275
-True Round num:  276
-True Round num:  277
-True Round num:  278
-True Round num:  279
-True Round num:  280
-True Round num:  281
-True Round num:  282
-True Round num:  283
-True Round num:  284
-True Round num:  285
-True Round num:  286
-True Round num:  287
-True Round num:  288
-True Round num:  289
-True Round num:  290
-True Round num:  291
-True Round num:  292
-True Round num:  293
-True Round num:  294
-True Round num:  295
-True Round num:  296
-True Round num:  297
-True Round num:  298
-True Round num:  299
-True Round num:  300
-True Round num:  301
-True Round num:  302
-True Round num:  303
-['9s', '9d']
-[['Ad', '2h', 'Jd'], ['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah']]
-True Round num:  304
-True Round num:  305
-['Ad', '2h', 'Jd']
-[['4h', '9d'], ['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd']]
-True Round num:  306
-True Round num:  307
-True Round num:  308
-True Round num:  309
-True Round num:  310
-True Round num:  311
-True Round num:  312
-True Round num:  313
-True Round num:  314
-True Round num:  315
-True Round num:  316
-True Round num:  317
-True Round num:  318
-True Round num:  319
-True Round num:  320
-True Round num:  321
-True Round num:  322
-True Round num:  323
-['4h', '9d']
-[['Jd', 'Ac', '8c'], ['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s']]
-True Round num:  324
-True Round num:  325
-True Round num:  326
-True Round num:  327
-True Round num:  328
-True Round num:  329
-True Round num:  330
-True Round num:  331
-True Round num:  332
-True Round num:  333
-True Round num:  334
-True Round num:  335
-True Round num:  336
-True Round num:  337
-True Round num:  338
-True Round num:  339
-True Round num:  340
-True Round num:  341
-True Round num:  342
-True Round num:  343
-True Round num:  344
-True Round num:  345
-True Round num:  346
-True Round num:  347
-True Round num:  348
-True Round num:  349
-True Round num:  350
-True Round num:  351
-True Round num:  352
-True Round num:  353
-True Round num:  354
-True Round num:  355
-True Round num:  356
-True Round num:  357
-True Round num:  358
-True Round num:  359
-True Round num:  360
-True Round num:  361
-True Round num:  362
-True Round num:  363
-['Jd', 'Ac', '8c']
-[['4d', '4s'], ['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s']]
-True Round num:  364
-True Round num:  365
-True Round num:  366
-True Round num:  367
+['7s', 'Js']
+['7s', 'Js']
+['7s', 'Js']
+['7s', 'Js']
+['7s', 'Js']
+['7s', 'Js']
+A showdown has occured!
+['7c', '8c', 'Ks']
+17541504.0
+['Qs', '2d']
+['Qs', '2d']
+['Qs', '2d']
+['Qs', '2d']
+['Qs', '2d']
+['9d', '3h']
+['9d', '3h']
+['9d', '3h', '2h']
+['9d', '3h', '2h']
+['9d', '3h', '2h']
+A showdown has occured!
+['2s', 'Qd']
+17509968.0
+['7s', '2c']
+['Ah', 'Ad']
+['Ts', '2h']
+['Ts', '2h']
+['Ts', '2h']
+['4d', '2s']
+['3s', '5d']
+['9h', '5h']
+['9h', '5h']
+['9h', '5h']
+['9h', '5h']
+['9h', '5h']
+['9h', '5h']
+['7d', '6c']
+['7d', '6c']
+['7d', '6c', '7h']
+['7d', '6c', '7h']
+['7d', '6c', '7h']
+['7d', '6c', '7h']
+A showdown has occured!
+['Td', '5s']
+23037920.0
+['Ad', '8h']
+['Ad', '8h']
+['Ad', '8h']
+['Ad', '8h']
+['Ad', '8h']
+['Ad', '8h']
+A showdown has occured!
+['Tc', 'Kd', '5h']
+25804968.0
+['9h', 'Qc']
+['9h', 'Qc']
+['9h', 'Qc']
+['9h', 'Qc']
+['9h', 'Qc']
+A showdown has occured!
+['2s', '5s', '6d']
+24062265.6
+['5d', '2c']
+['5d', '2c']
+['5d', '2c']
+['5d', '2c']
+['5d', '2c']
+A showdown has occured!
+['7s', '9h', '2d']
+22921581.333333332
+['Jh', '5h']
+['Jh', '5h']
+['Jh', '5h', '3h']
+['Jh', '5h', '3h']
+['Jh', '5h', '3h']
+A showdown has occured!
+['As', '7c']
+22107387.42857143
+['6s', '9s']
+['6s', '9s']
+['6s', '9s', 'Js']
+['6s', '9s', 'Js']
+['6s', '9s', 'Js']
+A showdown has occured!
+['As', '4c']
+19447692.625
+['Jc', '2s']
+['Jc', '2s']
+[236, 236]
+['Jc', '2s', '8h']
+['Jc', '2s', '8h']
+['Jc', '2s', '8h']
+A showdown has occured!
+['Kd', '7h', 'Qc']
+19228976.555555556
+['7h', '3s']
+['7h', '3s']
+['7h', '3s', 'Jc']
+['7h', '3s', 'Jc']
+['7h', '3s', 'Jc']
+['7h', '3s', 'Jc']
+A showdown has occured!
+['Qs', 'Kh']
+19061075.7
+['3d', 'Tc']
+['3d', 'Tc']
+['3d', 'Tc', '5c']
+['3d', 'Tc', '5c']
+['3d', 'Tc', '5c']
+['Qc', '7c']
+['Qc', '7c']
+['Qc', '7c']
+['Qc', '7c']
+['Qc', '7c']
+A showdown has occured!
+['Js', '5d', '9c']
+20397481.181818184
+['Kc', '6s']
+['Kc', '6s']
+['Kc', '6s']
+['Kc', '6s']
+['Kc', '6s']
+A showdown has occured!
+['5d', 'Qs', '3s']
+20110308.416666668
+['4d', 'Kh']
+['4d', 'Kh']
+['4d', 'Kh']
+['4d', 'Kh']
+['Th', 'Qc']
+['Th', 'Qc']
+['Th', 'Qc']
+['Th', 'Qc']
+['Th', 'Qc']
+A showdown has occured!
+['Ac', '4c', 'Jh']
+19867967.153846152
+['9h', 'Jh']
+['9h', 'Jh']
+['9h', 'Jh']
+['9h', 'Jh']
+['9h', 'Jh']
+A showdown has occured!
+['4s', 'Qd', 'Ad']
+19664945.5
+['Jh', 'Td']
+['Jh', 'Td']
+['Jh', 'Td', '3d']
+['Qs', 'Kh']
+['Qs', 'Kh']
+['Qs', 'Kh']
+['Qs', 'Kh', 'Th']
+['7d', '3c']
+['7d', '3c']
+['7d', '3c', '2d']
+['7d', '3c', '2d']
+['7d', '3c', '2d']
+['Js', 'Td']
+['Js', 'Td']
+['Js', 'Td']
+['Js', 'Td']
+['Js', 'Td']
+A showdown has occured!
+['Ts', '7s', 'Ad']
+19519593.933333334
+['Ts', 'Qd']
+['Ts', 'Qd']
+['Ts', 'Qd']
+['Ts', 'Qd']
+['Ts', 'Qd']
+A showdown has occured!
+['4h', 'Qh', '3s']
+19359371.3125
+['Jh', 'Td']
+['Jh', 'Td']
+['Jh', 'Td']
+['Jh', 'Td']
+['Jh', 'Td']
+A showdown has occured!
+['6s', '4h', '8s']
+19233403.588235293
+['7c', 'Jc']
+['7c', 'Jc']
+['7c', 'Jc']
+[254, 254]
+['7c', 'Jc', '5c']
+['7c', 'Jc', '5c']
+['7c', 'Jc', '5c']
+A showdown has occured!
+['9d', '8s', '3s']
+20056038.5
+['Kd', '3s']
+['Kd', '3s']
+['Kd', '3s', '2d']
+['Kd', '3s', '2d']
+['Kd', '3s', '2d']
+A showdown has occured!
+['Ad', 'Qh']
+19896545.10526316
+['Kh', '6d']
+['Kh', '6d']
+['Kh', '6d', '5s']
+['Kh', '6d', '5s']
+['Kh', '6d', '5s']
+['Kh', '6d', '5s']
+A showdown has occured!
+['5c', 'Th']
+20606396.25
+['5c', 'Kc']
+['5c', 'Kc']
+['5c', 'Kc']
+['5c', 'Kc']
+['5c', 'Kc']
+['5c', 'Kc']
+A showdown has occured!
+['Tc', '3d', '5d']
+20429655.85714286
+['Td', 'As']
+['Td', 'As']
+['Td', 'As']
+['Td', 'As', '2h']
+['Td', 'As', '2h']
+['Td', 'As', '2h']
+A showdown has occured!
+['Jd', 'Kc']
+19535775.0
+['7d', '3d']
+['7d', '3d']
+['7d', '3d']
+['7d', '3d']
+['7d', '3d']
+A showdown has occured!
+['4d', 'Qh', '2c']
+18722663.0
+['5d', 'Kc']
+['5d', 'Kc']
+['5d', 'Kc']
+['5d', 'Kc']
+['4s', 'Qd']
+['4s', 'Qd']
+['4s', 'Qd', '7s']
+['4s', 'Qd', '7s']
+['Jh', 'Js']
+['6d', 'Kd']
+['6d', 'Kd']
+['6d', 'Kd', 'As']
+['6d', 'Kd', 'As']
+['6d', 'Kd', 'As']
+A showdown has occured!
+['6c', '6s']
+18654322.041666668
+['7d', '5s']
+['7d', '5s']
+['7d', '5s']
+['7d', '5s']
+['7d', '5s']
+['7d', '5s']
+['7d', '5s']
+A showdown has occured!
+['Kh', '8d', 'Qc']
+19280247.72
+['6h', '2d']
+['8h', 'Jc']
+['8h', 'Jc']
+['8h', 'Jc']
+['8h', 'Jc']
+['8h', 'Jc']
+A showdown has occured!
+['Ts', '5s', '2c']
+18567749.076923076
+['9s', '2d']
+['9s', '2d']
+['9s', '2d']
+['9s', '2d']
+['9s', '2d']
+['9s', '2d']
+['4h', '7s']
+['4h', '7s']
+['4h', '7s', 'Jc']
+['4h', '7s', 'Jc']
+['4h', '7s', 'Jc']
+A showdown has occured!
+['4s', '7h']
+18508035.111111112
+['8h', 'Ah']
+['8h', 'Ah']
+['8h', 'Ah', '5h']
+['8h', 'Ah', '5h']
+['8h', 'Ah', '5h']
+A showdown has occured!
+['7h', 'Qc']
+19069004.14285714
+['3s', '6c']
+['Js', '2s']
+['Js', '2s']
+['Js', '2s', '9c']
+['Js', '2s', '9c']
+['Js', '2s', '9c']
+A showdown has occured!
+['5s', 'Ac']
+19575669.655172415
+['3h', '9s']
+['Qd', '6h']
+['Qd', '6h']
+['Qd', '6h']
+['Qd', '6h', 'Th']
+['Qd', '6h', 'Th']
+['Qd', '6h', 'Th']
+['Kc', 'Th']
+['Kc', 'Th']
+['Kc', 'Th']
+['Kc', 'Th']
+['Kc', 'Th']
+['Kc', 'Th']
+A showdown has occured!
+['Qs', '4h', 'Ts']
+20059463.066666666
+['5d', 'Ac']
+['5d', 'Ac']
+['5d', 'Ac']
+['5d', 'Ac']
+['5d', 'Ac']
+A showdown has occured!
+['Qs', '6c', '2s']
+19963440.129032258
+['7d', '2h']
+['7c', '2c']
+['7c', '2c']
+['7c', '2c', 'Kd']
+['7c', '2c', 'Kd']
+['7c', '2c', 'Kd']
+A showdown has occured!
+['3s', '7h']
+19885962.125
+['Kc', 'Kd']
+['Kc', 'Kd']
+['Kc', 'Kd']
+['Kc', 'Kd']
+['Kc', 'Kd']
+['Kc', 'Kd']
+A showdown has occured!
+['Ks', '9c', 'Qs']
+19811210.78787879
+['Tc', '4c']
+['Tc', '4c']
+['Tc', '4c']
+['Tc', '4c', '6c']
+['Tc', '4c', '6c']
+['Tc', '4c', '6c']
+['Ah', 'Qd']
+['Td', 'Jh']
+['Td', 'Jh']
+['Td', 'Jh']
+['Td', 'Jh']
+['Td', 'Jh']
+A showdown has occured!
+['7d', '9s', '3c']
+19732992.588235293
+['9s', '4c']
+['9s', '4c']
+['9s', '4c', 'Qh']
+['9s', '4c', 'Qh']
+['9s', '4c', 'Qh']
+['Jd', 'Qh']
+['Jd', 'Qh']
+['Jd', 'Qh']
+['Jd', 'Qh']
+['Jd', 'Qh']
+A showdown has occured!
+['2s', '3d', 'Qs']
+20135468.457142856
+['9d', '8c']
+['9d', '8c']
+['9d', '8c', 'Qh']
+['9d', '8c', 'Qh']
+['9h', 'Ah']
+['9h', 'Ah']
+['9h', 'Ah']
+['9h', 'Ah']
+['9h', 'Ah']
+['9h', 'Ah']
+A showdown has occured!
+['5c', '7d', '8c']
+20517369.444444444
+['Kd', '2h']
+['Kd', '2h']
+['Kd', '2h', '2s']
+['Kd', '2h', '2s']
+['Kd', '2h', '2s']
+['Kd', '2h', '2s']
+A showdown has occured!
+['8s', '9c']
+20888251.35135135
+['5c', 'Jc']
+['5c', 'Jc']
+['5c', 'Jc']
+['5c', 'Jc']
+['5c', 'Jc']
+['5c', 'Jc']
+A showdown has occured!
+['8d', 'Ts', '7c']
+21678228.736842107
+['5c', '4h']
+['5c', '4h']
+['5c', '4h']
+['5c', '4h']
+['Qs', '6s']
+['Qs', '6s']
+['Qs', '6s']
+['Qs', '6s']
+['Qs', '6s']
+A showdown has occured!
+['3d', 'Ac', 'Jh']
+21567334.666666668
+['Kd', 'Td']
+['Kd', 'Td']
+['Kd', 'Td']
+['Kd', 'Td']
+['Kd', 'Td']
+A showdown has occured!
+['Qd', '3d', '7c']
+23142654.1
+['Kd', '7h']
+['Kd', '7h']
+['4c', '2c']
+['2s', 'Qs']
+['2s', 'Qs']
+['2s', 'Qs', 'Qc']
+['2s', 'Qs', 'Qc']
+['2s', 'Qs', 'Qc']
+['2s', 'Qs', 'Qc']
+['2s', 'Qs', 'Qc']
+A showdown has occured!
+['Kd', '9h']
+23824325.951219514
+['3d', '9s']
+['Qd', 'Tc']
+['Qd', 'Tc']
+['Qd', 'Tc']
+['Qd', 'Tc', 'Th']
+['Qd', 'Tc', 'Th']
+['Qd', 'Tc', 'Th']
+['8d', '4h']
+['8d', '4h']
+['8d', '4h', 'Ah']
+['8d', '4h', 'Ah']
+['8d', '4h', 'Ah']
+A showdown has occured!
+['5h', '6c']
+24473518.952380955
+['7s', '9s']
+['7s', '9s']
+['7s', '9s']
+['7s', '9s', 'Ts']
+['7s', '9s', 'Ts']
+['7s', '9s', 'Ts']
+A showdown has occured!
+['Jh', '7c']
+25472659.06976744
+['5h', 'Jd']
+['5h', 'Jd']
+['5h', 'Jd', '4h']
+['5h', 'Jd', '4h']
+['5h', 'Jd', '4h']
+A showdown has occured!
+['8c', '4d']
+24912588.204545453
+['2s', 'Kh']
+['2s', 'Kh']
+['2s', 'Kh']
+['2s', 'Kh']
+['Kd', '7d']
+['Kd', '7d']
+['Kd', '7d', 'Jh']
+['5d', '6h']
+['5d', '6h']
+['5d', '6h']
+['5d', '6h', '5h']
+['5d', '6h', '5h']
+['5d', '6h', '5h']
+['Ac', '7c']
+['Ac', '7c']
+['Ac', '7c']
+['Ac', '7c']
+['Ac', '7c']
+['6d', '4c']
+['6d', '4c']
+['6d', '4c']
+['6d', '4c']
+['6d', '4c']
+A showdown has occured!
+['7h', 'Qh', '9h']
+24732954.51111111
+['4s', '8h']
+['4s', '8h']
+['4s', '8h']
+['4s', '8h']
+['Jc', '5c']
+['Jc', '5c']
+['Jc', '5c']
+['Jc', '5c']
+['Jc', '5c']
+['Jc', '5c']
+['Jc', '5c']
+A showdown has occured!
+['7c', '6d', 'Qs']
+24574998.108695652
+['Qh', 'Jd']
+['Qh', 'Jd']
+['Qh', 'Jd']
+['Qh', 'Jd']
+['Qh', 'Jd']
+['Qh', 'Jd']
+A showdown has occured!
+['Tc', 'Th', 'Kh']
+24777444.617021278
+['9c', '7h']
+['9c', '7h']
+['9c', '7h', '4s']
+['9c', '7h', '4s']
+['9c', '7h', '4s']
+['9c', '7h', '4s']
+['9c', '7h', '4s']
+['3s', '7s']
+['3d', '6d']
+['3d', '6d']
+['3d', '6d', 'Qh']
+['3d', '6d', 'Qh']
+['3d', '6d', 'Qh']
+['3d', '6d', 'Qh']
+['3d', '6d', 'Qh']
+A showdown has occured!
+['9h', 'Kd']
+25325562.520833332
+['Ad', 'Js']
+['Ad', 'Js']
+['Ad', 'Js']
+['Ad', 'Js']
+['Ad', 'Js']
+['Ad', 'Js']
+A showdown has occured!
+['4s', 'Qs', '2s']
+25494898.795918368
+['As', '6c']
+['As', '6c']
+[244, 244]
+['As', '6c', 'Ad']
+['As', '6c', 'Ad']
+['As', '6c', 'Ad']
+A showdown has occured!
+['Jc', '4s', '4h']
+25662863.22
+['2c', '7s']
+['Ts', '2d']
+['Ts', '2d']
+['Ts', '2d', 'Kh']
+['Ts', '2d', 'Kh']
+['Ts', '2d', 'Kh']
+A showdown has occured!
+['6h', '7d']
+25494614.76470588
+['Qd', '5c']
+['Qd', '5c']
+['2s', '5s']
+['2s', '5s']
+['2s', '5s']
+['2s', '5s']
+['2s', '5s']
+['2s', '5s']
+A showdown has occured!
+['9c', 'Tc', '7h']
+25665340.480769232
+['9s', 'Qs']
+['9s', 'Qs']
+['9s', 'Qs']
+['9s', 'Qs']
+['9s', 'Qs']
+A showdown has occured!
+['Jh', '7d', '3d']
+25824218.735849056
+['2d', 'Jh']
+['2d', 'Jh']
+['2d', 'Jh', '4s']
+['2d', 'Jh', '4s']
+['2d', 'Jh', '4s']
+['7h', 'Kc']
+['7h', 'Kc']
+['7h', 'Kc']
+['7h', 'Kc']
+['7h', 'Kc']
+['7h', 'Kc']
+A showdown has occured!
+['Qs', '5s', 'Ah']
+25672129.64814815
+['9h', 'Ah']
+['9h', 'Ah']
+['9h', 'Ah']
+['9h', 'Ah']
+['9h', 'Ah']
+['7d', '6c']
+['7d', '6c']
+['7d', '6c', '8d']
+['7d', '6c', '8d']
+['5c', '8h']
+['5c', '8h']
+['5c', '8h']
+['5c', '8h']
+['5c', '8h']
+A showdown has occured!
+['Qs', 'Jh', '4c']
+25522070.272727273
+['5c', 'Jh']
+['5c', 'Jh']
+['5c', 'Jh']
+['5c', 'Jh']
+['5c', 'Jh']
+A showdown has occured!
+['3d', '7h', 'Qc']
+25678725.875
+['9d', 'Qs']
+['9d', 'Qs']
+['9d', 'Qs']
+['9d', 'Qs']
+['9d', 'Qs']
+A showdown has occured!
+['7c', 'Kc', 'Jh']
+25524541.9122807
+['9s', '3h']
+['Jd', 'Jc']
+['8h', 'Ts']
+['8h', 'Ts']
+['8h', 'Ts', '4d']
+['8h', 'Ts', '4d']
+['Kh', 'Tc']
+['9d', 'Jc']
+['9d', 'Jc']
+['9d', 'Jc']
+['9d', 'Jc']
+['9d', 'Jc']
+A showdown has occured!
+['8s', '9c', 'Tc']
+25676653.396551725
+['3s', '8s']
+['Tc', '9s']
+['Tc', '9s']
+['Tc', '9s']
+['Tc', '9s']
+['Tc', '9s']
+A showdown has occured!
+['9d', '2d', '6d']
+25526689.508474577
+['Js', 'As']
+['Js', 'As']
+['Js', 'As', '6h']
+['Js', 'As', '6h']
+['Js', 'As', '6h']
+A showdown has occured!
+['4h', 'Ts']
+25669475.083333332
+['6s', 'Th']
+['6s', 'Th']
+['6s', 'Th']
+['6s', 'Th']
+['6s', 'Th']
+A showdown has occured!
+['7h', '2h', 'Ks']
+25529854.573770493
+['Jh', 'Kh']
+['Jh', 'Kh']
+['Jh', 'Kh']
+['Jh', 'Kh']
+['Jh', 'Kh']
+['Jh', 'Kh']
+A showdown has occured!
+['7s', 'Ts', 'Qd']
+25670295.370967742
+['Kd', 'Kh']
+['2c', '3c']
+['2c', '3c']
+['2c', '3c', '3d']
+['2c', '3c', '3d']
+['2c', '3c', '3d']
+['2c', '3c', '3d']
+['Td', '9h']
+['Td', '9h']
+['Td', '9h', '7c']
+['Td', '9h', '7c']
+['Td', '9h', '7c']
+['5c', '3s']
+['5c', '3s']
+['5c', '3s', '5s']
+['5c', '3s', '5s']
+['5c', '3s', '5s']
+A showdown has occured!
+['Th', '2d']
+25276067.253968254
+['9c', '2s']
+['9d', '9h']
+['5s', 'Ad']
+['5s', 'Ad']
+['5s', 'Ad', 'Td']
+['5s', 'Ad', 'Td']
+['5s', 'Ad', 'Td']
+A showdown has occured!
+['As', '3h']
+25145110.953125
+['As', '9s']
+['7d', '2h']
+['Ts', 'Tc']
+['Ts', 'Tc']
+['Ts', 'Tc']
+['Ts', 'Tc']
+['Ts', 'Tc']
+A showdown has occured!
+['Kc', '8c', '9c']
+25544281.553846154
+['7h', '4s']
+['9s', 'Kh']
+['9s', 'Kh']
+['9s', 'Kh', '7s']
+['9s', 'Kh', '7s']
+['9s', 'Kh', '7s']
+['9s', 'Kh', '7s']
+['9s', 'Kh', '7s']
+A showdown has occured!
+['Ad', '7h']
+25932217.166666668
+['Jh', 'Kh']
+['Jh', 'Kh']
+['Jh', 'Kh']
+['Jh', 'Kh']
+['Jh', 'Kh']
+A showdown has occured!
+['9d', 'Tc', '5c']
+26052064.43283582
+['8h', '5d']
+['8h', '5d']
+['8h', '5d', 'Ad']
+['8h', '5d', 'Ad']
+['8h', '5d', 'Ad']
+A showdown has occured!
+['5h', '7h']
+25921186.779411763
+['8h', '2c']
+['Ts', 'Qs']
+['Ts', 'Qs']
+['Ts', 'Qs']
+['Ts', 'Qs']
+['Ts', 'Qs']
+['Ts', 'Qs']
+A showdown has occured!
+['7d', 'Kd', '8s']
+26526657.811594203
+['5c', '9h']
+['5c', '9h']
+['5c', '9h']
+['5c', '9h']
+['5c', '9h']
+['6s', 'Ah']
+['6s', 'Ah']
+['6s', 'Ah']
+['6s', 'Ah']
+['6s', 'Ah']
+A showdown has occured!
+['7s', '6c', '3s']
+26158436.814285714
+['2s', '4d']
+['Th', 'Ks']
+['Th', 'Ks']
+['Th', 'Ks', 'Qd']
+['Th', 'Ks', 'Qd']
+['Jd', 'Jh']
+['Th', 'Ts']
+['Qh', '6s']
+['Qh', '6s']
+['Qh', '6s']
+['Qh', '6s']
+['Qh', '6s']
+['Qh', '6s']
+A showdown has occured!
+['Qd', '9h', '8c']
+26272283.28169014
+['7h', '3h']
+['9s', 'Js']
+['9s', 'Js']
+['9s', 'Js']
+['9s', 'Js']
+['9s', 'Js']
+A showdown has occured!
+['6h', '2h', '9d']
+26141738.236111112
+['Js', 'Td']
+['Js', 'Td']
+['Js', 'Td', '8d']
+['Js', 'Td', '8d']
+['Js', 'Td', '8d']
+['5h', 'Qh']
+['5h', 'Qh']
+['5h', 'Qh']
+['5h', 'Qh']
+['4c', 'Kh']
+['4c', 'Kh']
+['4c', 'Kh']
+['4c', 'Kh']
+['4c', 'Kh']
+['Ad', '3s']
+['Ad', '3s']
+['Ad', '3s']
+['3c', 'Kc']
+['3c', 'Kc']
+['3c', 'Kc']
+['3c', 'Kc']
+['Kd', '9s']
+['Kd', '9s']
+['Kd', '9s', '6d']
+['Kd', '9s', '6d']
+['Kd', '9s', '6d']
+A showdown has occured!
+['8s', '2d']
+27168136.342465755
+['3h', 'Ks']
+['3h', 'Ks']
+['3h', 'Ks']
+['3h', 'Ks']
+['3h', 'Ks']
+['3h', 'Ks']
+A showdown has occured!
+['8s', 'Tc', 'Js']
+27261892.77027027
+['8d', '9h']
+['8d', '9h']
+['8d', '9h', '5h']
+['8d', '9h', '5h']
+['8d', '9h', '5h']
+A showdown has occured!
+['2d', '2h']
+27352821.346666668
+['5s', '2d']
+['5s', '2d']
+['5s', '2d']
+['5s', '2d']
+['5s', '2d']
+['5s', '2d']
+A showdown has occured!
+['6s', 'Qs', '7d']
+27443118.75
+['Qc', '7h']
+['Qc', '7h']
+['Qc', '7h']
+['Qc', '7h', '6c']
+['Qc', '7h', '6c']
+['Qc', '7h', '6c']
+A showdown has occured!
+['9s', 'Kd']
+27530289.467532467
+['Ks', '8c']
+['Ks', '8c']
+['Ks', '8c', '7s']
+['Ks', '8c', '7s']
+['Ks', '8c', '7s']
+['Ks', '8c', '7s']
+A showdown has occured!
+['Kh', 'Ts']
+27402112.012820512
+['Kc', '5c']
+['Kc', '5c']
+['Kc', '5c']
+['Kc', '5c']
+['Kc', '5c']
+['Kc', '5c']
+['Qc', '2h']
+['Qc', '2h']
+['Qc', '2h', '4d']
+['Qc', '2h', '4d']
+['Qc', '2h', '4d']
+['Qc', '2h', '4d']
+['7s', 'Qc']
+['8d', '4d']
+['8d', '4d']
+['8d', '4d', '2h']
+['8d', '4d', '2h']
+['8d', '4d', '2h']
+A showdown has occured!
+['Ah', 'Td']
+27065802.40506329
+['Td', 'Qc']
+['Td', 'Qc']
+['Td', 'Qc']
+['Td', 'Qc']
+['Td', 'Qc']
+A showdown has occured!
+['6c', 'Jc', '6s']
+26941123.475
+['Kd', '7h']
+['Kd', '7h']
+['Kd', '7h']
+['Kd', '7h']
+['Kd', '7h']
+A showdown has occured!
+['8s', '3s', '3h']
+27033002.938271604
+['3h', 'Ah']
+['3h', 'Ah']
+['3h', 'Ah']
+['3h', 'Ah']
+['3h', 'Ah']
+['3h', 'Ah']
+['3h', 'Ah']
+A showdown has occured!
+['5d', '5c', 'As']
+27122294.902439024
+['5h', '5s']
+['5h', '5s']
+['5h', '5s']
+['5h', '5s']
+['5h', '5s']
+['5h', '5s']
+['5h', '5s']
+A showdown has occured!
+['6d', '9s', '5d']
+27208695.012048192
+['9h', 'Qs']
+['9h', 'Qs']
+['9h', 'Qs', '7d']
+['9h', 'Qs', '7d']
+['9h', 'Qs', '7d']
+A showdown has occured!
+['7c', 'Kd']
+27093550.92857143
+['Jc', '7d']
+['Jc', '7d']
+['Jc', '7d', '8h']
+['Jc', '7d', '8h']
+['Jc', '7d', '8h']
+['Jc', '7d', '8h']
+['4h', '2s']
+['3s', '3h']
+['3s', '3h']
+['3s', '3h']
+['3s', '3h']
+['3s', '3h']
+['3s', '3h']
+A showdown has occured!
+['4d', 'Kd', '2s']
+27172774.847058825
+['Jc', '4d']
+['Jc', '4d']
+['Jc', '4d']
+['Jc', '4d']
+['Jc', '4d']
+A showdown has occured!
+['8d', '7c', '2h']
+27255386.48837209
+['Ks', '5s']
+['Ks', '5s']
+['Ks', '5s']
+['Ks', '5s']
+['Ks', '5s']
+['7h', '2c']
+['6s', '3c']
+['8h', 'Kh']
+['8h', 'Kh']
+['8h', 'Kh']
+['8h', 'Kh']
+['8h', 'Kh']
+A showdown has occured!
+['8d', '2h', '5h']
+27914888.71264368
+['7c', '5c']
+['7c', '5c']
+['7c', '5c']
+['7c', '5c']
+['7c', '5c']
+A showdown has occured!
+['7s', '3c', 'Ah']
+27982732.977272727
+['8c', '7s']
+['8c', '7s']
+['8c', '7s', '8d']
+['8c', '7s', '8d']
+['8c', '7s', '8d']
+['8c', '7s', '8d']
+A showdown has occured!
+['Qs', '6c']
+28053137.146067414
+['8c', 'Jc']
+['8c', 'Jc']
+['8c', 'Jc', 'As']
+['8c', 'Jc', 'As']
+['8c', 'Jc', 'As']
+['8c', 'Jc', 'As']
+A showdown has occured!
+['Js', 'Tc']
+27934250.733333334
+['6s', '7s']
+['6s', '7s']
+['6s', '7s', '9d']
+['6s', '7s', '9d']
+['6s', '7s', '9d']
+['6s', '7s', '9d']
+A showdown has occured!
+['Qh', '3d']
+27819177.56043956
+['Js', 'Kc']
+['Js', 'Kc']
+['Js', 'Kc', '3d']
+['Js', 'Kc', '3d']
+['Js', 'Kc', '3d']
+A showdown has occured!
+['3h', 'Ad']
+27705409.804347824
+['Js', '4c']
+['Js', '4c']
+['Js', '4c', 'Jc']
+['Js', '4c', 'Jc']
+['Js', '4c', 'Jc']
+['Js', '4c', 'Jc']
+['Js', '4c', 'Jc']
+A showdown has occured!
+['As', '3d']
+27777215.720430106
+['8d', '9s']
+['8d', '9s']
+['8d', '9s', 'Tc']
+['8d', '9s', 'Tc']
+['8d', '9s', 'Tc']
+A showdown has occured!
+['9h', '6c']
+27661347.127659574
+['9h', 'Ac']
+['Jh', 'Kd']
+['Ad', '6c']
+['5h', 'Kh']
+['5h', 'Kh']
+['5h', 'Kh', '8d']
+['6h', 'Jc']
+['6h', 'Jc']
+['6h', 'Jc', 'Jh']
+['4s', '8s']
+['Ad', '3d']
+['Ad', '3d']
+['Ad', '3d', '8h']
+['Kh', 'Qh']
+['Kh', 'Qh']
+['Kh', 'Qh', '6d']
+['Kh', 'Qh', '6d']
+['Kh', 'Qh', '6d']
+['5d', 'Qc']
+['5d', 'Qc']
+['5d', 'Qc', '5h']
+['9h', '4s']
+['4s', '8c']
+['2c', 'Jh']
+['9d', '7d']
+['9d', '7d']
+['9d', '7d', 'As']
+['9d', '7d', 'As']
+['9d', '7d', 'As']
+['Kc', '9c']
+['8h', 'As']
+['8h', 'As']
+['8h', 'As', 'Qh']
+['8h', 'As', 'Qh']
+['8h', 'As', 'Qh']
+['9s', '3c']
+['8d', '6h']
+['8d', '6h']
+['8d', '6h', '5d']
+['8d', '6h', '5d']
+['8d', '6h', '5d']
+A showdown has occured!
+['6d', 'Qh']
+27378909.57894737
+['4d', 'Kc']
+['4d', 'Ah']
+['4d', 'Ah']
+['4d', 'Ah', '4c']
+['9d', '5c']
+['9d', '5c']
+['9d', '5c', 'Qc']
+['Qd', 'Qh']
+['Jc', '7h']
+['Jc', '7h']
+['Jc', '7h', '7c']
+['8s', '7d']
+['7s', 'Jc']
+['Qh', '2s']
+['5d', 'Ks']
+['4c', 'Jc']
+['4c', 'Jc']
+['4c', 'Jc', 'As']
+['Jh', '9c']
+['Jh', '9c']
+['Jh', '9c', 'Kc']
+['Jh', '9c', 'Kc']
+['6c', '8d']
+['Ts', '9d']
+['6d', 'Ac']
+['6d', 'Ac']
+['6d', 'Ac', '9c']
+['8d', '4d']
+['7c', 'Th']
+['7c', 'Th']
+['7c', 'Th', '8c']
+['7c', 'Th', '8c']
+['7c', 'Th', '8c']
+['4s', 'Ks']
+['4s', 'Ks']
+['4s', 'Ks', '8d']
+['Qh', '6h']
+['Qh', '6h']
+['Qh', '6h', '9d']
+['Qh', '6h', '9d']
+['2c', '3s']
+['As', '5h']
+['As', '5h']
+['As', '5h', '5s']
+['As', '5h', '5s']
+['As', '5h', '5s']
+A showdown has occured!
+['9c', '2s']
+27271652.104166668
+['6s', '3s']
+['4c', '5h']
+['Qd', '4s']
+['Jd', '2d']
+['5c', '4d']
+['8s', 'Ah']
+['8s', 'Ah']
+['8s', 'Ah', '9s']
+['8s', 'Ah', '9s']
+['Kh', 'Ac']
+['3h', '9s']
+['2h', '2c']
+['2h', '2c']
+['2h', '2c', 'Ts']
+['Tc', '8c']
+['Js', 'Kc']
+['Jc', 'Js']
+['Td', '8h']
+['Td', '8h']
+['Td', '8h', '6c']
+['Td', '8h', '6c']
+['Td', '8h', '6c']
+A showdown has occured!
+['8d', '5s']
+26998332.50515464
+['2c', '9h']
+['6d', '7c']
+['6d', '7c']
+['6d', '7c', 'Ks']
+['6d', '7c', 'Ks']
+['6d', '7c', 'Ks']
+['Th', '3s']
+['2h', '5c']
+['Kc', 'Td']
+['6s', 'Jh']
+['3h', 'Kh']
+['3h', 'Kh']
+['3h', 'Kh', '9d']
+['8c', 'Kc']
+['9h', '6h']
+['Tc', '4h']
+['Tc', '4h']
+['Tc', '4h', '2s']
+['Tc', '4h', '2s']
+['Tc', '4h', '2s']
+A showdown has occured!
+['Qh', 'Ks']
+26901833.92857143
+['Jc', 'Kd']
+['Kc', '7d']
+['Kc', '7d']
+['Kc', '7d', '9h']
+['Kc', '7d', '9h']
+['Kc', '7d', '9h']
+A showdown has occured!
+['Th', '5d']
+27485850.17171717
+['4c', 'Qs']
+['4c', 'Qs']
+['4c', 'Qs', '5h']
+['4c', 'Qs', '5h']
+['Th', 'Ah']
+['Jd', 'Qc']
+['9h', '5d']
+['8c', 'Qh']
+['As', 'Ah']
+['4h', '7h']
+['Jd', 'Th']
+['Jd', 'Th']
+['Jd', 'Th', 'Ad']
+['5c', '2d']
+['2d', '5c']
+['Kd', '2s']
+['Kd', '2s']
+['Kd', '2s', '8h']
+['Kd', '2s', '8h']
+['Kd', '2s', '8h']
+A showdown has occured!
+['4h', 'Kc']
+27554633.27
+['8h', '5s']
+['8h', '5s']
+['8h', '5s', '5d']
+['7s', '2c']
+['2h', '8s']
+['7c', 'Qh']
+['7c', 'Qh']
+['7c', 'Qh', '4s']
+['7c', 'Qh', '4s']
+['7c', 'Qh', '4s']
+A showdown has occured!
+['2h', 'Jd']
+28119937.287128713
+['Th', '8d']
+['Th', '8d']
+['Th', '8d', '4s']
+['2d', 'Kd']
+['Qs', '4d']
+['2s', '3h']
+['2d', '4c']
+['7s', 'Kc']
+['Kd', '7c']
+['Kd', '7c']
+['Kd', '7c', 'Ac']
+['Kd', '7c', 'Ac']
+['Kd', '7c', 'Ac']
+A showdown has occured!
+['9d', 'Js']
+27851059.3627451
+['Ac', '6s']
+['Ac', '6s']
+['Ac', '6s', 'Ah']
+['9c', 'Qd']
+['Ac', 'Qh']
+['Ad', '2c']
+['Qh', '2c']
+['2h', 'Ts']
+['4d', '8h']
+['4d', '8h']
+['4d', '8h', 'Ah']
+['5s', '9h']
+['5s', '9h']
+['5s', '9h', '3d']
+['5s', '9h', '3d']
+['5s', '9h', '3d']
+['4c', '9h']
+['4s', 'Kh']
+['5s', '3d']
+['9d', 'Ac']
+['Jc', 'Ks']
+['Jc', 'Ks']
+['Jc', 'Ks', '7s']
+['2s', '9d']
+['Ts', '8c']
+['Ts', '8c']
+['Ts', '8c', 'Jc']
+['Ts', '8c', 'Jc']
+['Ts', '8c', 'Jc']
+['6s', 'Qd']
+['6s', 'Qd']
+['6s', 'Qd', '4h']
+['Qc', 'Th']
+['5h', '4c']
+['Ts', 'Ah']
+['9h', 'Ts']
+['2s', 'Jc']
+['Kh', '2h']
+['Kh', '2h']
+['Kh', '2h', 'Ac']
+['Ac', '7d']
+['5h', 'Ac']
+['4d', 'Ks']
+['4d', 'Ks']
+['4d', 'Ks', '3s']
+['6s', '8h']
+['Qc', '9s']
+['Qc', '9s']
+['Qc', '9s', '4h']
+['Ah', 'Ad']
+['Ac', '2d']
+['Ks', '8s']
+['Ks', '8s']
+['Ks', '8s', 'Qc']
+['Ks', '8s', 'Qc']
+['Kd', '4h']
+['Kh', '8s']
+['Kh', '8s']
+['Kh', '8s', '3s']
+['Kh', '8s', '3s']
+['Kh', '8s', '3s']
+A showdown has occured!
+['9c', '9d']
+28074268.49514563
+['4d', 'Ac']
+['Qc', '4s']
+['8h', 'Js']
+['3d', '4h']
+['9d', '5s']
+['9d', '5s']
+['9d', '5s', '6c']
+['Ah', '2s']
+['9d', 'Js']
+['Qh', 'Qd']
+['3s', '4d']
+['Ah', '7d']
+['Js', '7h']
+['6s', 'Qs']
+['6s', 'Qs']
+['6s', 'Qs', 'Jh']
+['6s', 'Qs', 'Jh']
+['Qh', '9d']
+['2h', '3s']
+['3c', '5d']
+['8h', '5c']
+['8h', '5c']
+['8h', '5c', 'Qd']
+['Qs', 'Qc']
+['6h', 'Ts']
+['4c', 'Th']
+['Ad', '9d']
+['Ad', '9d']
+['Ad', '9d', '4s']
+['9c', 'Ad']
+['Js', 'As']
+['Js', 'As']
+['Js', 'As', 'Jc']
+['As', '5d']
+['As', '5d']
+['As', '5d', 'Qh']
+['As', '5d', 'Qh']
+['3h', '9h']
+['7s', '4s']
+['6d', 'Ah']
+['Kc', '8d']
+['Kc', '8d']
+['Kc', '8d', '3h']
+['Kc', '8d', '3h']
+['8h', 'Ad']
+['7h', '3d']
+['4d', '7h']
+['9d', '7c']
+['9s', 'Td']
+['9s', 'Td']
+['9s', 'Td', '3d']
+['8d', '5h']
+['4d', '8s']
+['7h', '4s']
+['5d', 'Qs']
+['5d', 'Qs']
+['5d', 'Qs', 'Tc']
+['7d', 'Th']
+['7d', 'Th']
+['7d', 'Th', '6d']
+['Qs', '3c']
+['Qs', '3c']
+['Qs', '3c', '4h']
+['Ah', '6c']
+['3s', 'Qs']
+['3s', 'Qs']
+['3s', 'Qs', '4c']
+['3s', 'Qs', '4c']
+['Kd', '6h']
+['3c', 'Js']
+['3c', 'Js']
+['3c', 'Js', '9c']
+['5s', 'Th']
+['5s', 'Th']
+['5s', 'Th', 'Jc']
+['5s', 'Th', 'Jc']
+['5s', 'Th', 'Jc']
+['9h', '3c']
+['9s', 'Kh']
+['Jh', '7d']
+['9c', 'Kh']
+['5h', 'Td']
+['5h', 'Td']
+['5h', 'Td', '2c']
+['5h', 'Td', '2c']
+['5h', 'Td', '2c']
+['Ts', '4s']
+['8h', '9h']
+['8h', '9h']
+['8h', '9h', 'Jd']
+['8h', '9h', 'Jd']
+['8h', '9h', 'Jd']
+A showdown has occured!
+['2h', '6c']
+28134548.83653846
+['5c', 'Qs']
+['5c', 'Qs']
+['5c', 'Qs', '8c']
+['5c', 'Qs', '8c']
+['5c', 'Qs', '8c']
+['5d', '6d']
+['Kd', 'Ah']
+['2h', '5c']
+['5d', '6d']
+['Qc', '3c']
+['Qc', '3c']
+['Qc', '3c', '6s']
+['5s', '2s']
+['Kc', '4d']
+['Jc', '6h']
+['9h', '4c']
+['4h', '8s']
+['7h', 'Ts']
+['7h', 'Ts']
+['7h', 'Ts', 'Qd']
+['7h', 'Ts', 'Qd']
+['9h', '7s']
+['9h', '7s']
+['9h', '7s', 'Jh']
+['Qs', '3s']
+['Qs', '3s']
+['Qs', '3s', '6h']
+['Qs', '3s', '6h']
+['Qs', '3s', '6h']
+['7c', 'Ks']
+['7c', 'Ks']
+['7c', 'Ks', '9c']
+['8c', '8s']
+['4c', 'Kh']
+['4c', 'Kh']
+['4c', 'Kh', '6d']
+['4c', 'Kh', '6d']
+['4c', 'Kh', '6d']
+A showdown has occured!
+['Js', 'Th']
+28031745.895238094
+['4d', '6s']
+['4d', '6s']
+['4d', '6s', '6c']
+['4d', '6s', '6c']
+['Ts', 'Kh']
+['9h', 'Qs']
+['5c', 'Qh']
+['5c', 'Qh']
+['5c', 'Qh', '2c']
+['5c', 'Qh', '2c']
+['5c', 'Qh', '2c']
+A showdown has occured!
+['Ac', '3s']
+27775152.38679245
+['Ks', 'Jc']
+['Ks', 'Jc']
+['Ks', 'Jc', '4c']
+['Ah', '6h']
+['Ah', '6h']
+['Ah', '6h', 'Th']
+['Ah', '6h', 'Th']
+['7d', '2c']
+['5h', '2c']
+['Ks', '3c']
+['Ks', '3c']
+['Ks', '3c', '6s']
+['3d', 'Kh']
+['3d', 'Kh']
+['3d', 'Kh', '3c']
+['5d', 'Qs']
+['2d', '3c']
+['4h', '5d']
+['Ah', '3s']
+['Jc', 'Ts']
+['Qs', '6h']
+['Qs', '6h']
+['Qs', '6h', 'Ad']
+['7s', '9h']
+['Jc', 'Kh']
+['Jc', 'Kh']
+['Jc', 'Kh', '2d']
+['Qh', '5h']
+['Qh', '5h']
+['Qh', '5h', '3d']
+['Qh', '5h', '3d']
+['Qh', '5h', '3d']
+A showdown has occured!
+['As', 'Kc']
+27834896.831775703
+['5c', '5h']
+['5c', '5h']
+['5c', '5h', 'Kd']
+['Kd', '7h']
+['8d', '6s']
+['8d', '6s']
+['8d', '6s', '8h']
+['Ks', 'Qc']
+['Ks', 'Qc']
+['Ks', 'Qc', '3c']
+['Ks', 'Qc', '3c']
+['Ks', 'Qc', '3c']
+A showdown has occured!
+['Ts', '7h']
+27891022.305555556
+['Kh', '7d']
+['Kh', '7d']
+['Kh', '7d', 'Jh']
+['Kh', '7d', 'Jh']
+['Kh', '7d', 'Jh']
+['4s', 'Td']
+['4s', 'Td']
+['4s', 'Td', '2s']
+['4s', 'Td', '2s']
+['4s', 'Td', '2s']
+A showdown has occured!
+['9d', 'Kh']
+27949727.788990825
+['9s', '8c']
+['9s', '8c']
+['9s', '8c', '5c']
+['Ks', '3h']
+['Jh', 'Qc']
+['Jh', 'Qc']
+['Jh', 'Qc', '8c']
+['Jh', 'Ah']
+['Jh', 'Ah']
+['Jh', 'Ah', '9s']
+['3s', '7d']
+['9h', '3h']
+['Ah', '4h']
+['2d', '5c']
+['7c', 'Ad']
+['7c', 'Ad']
+['7c', 'Ad', 'Ah']
+['4d', '9h']
+['3d', 'Ah']
+['3d', 'Ah']
+['3d', 'Ah', 'Ad']
+['3s', 'Ts']
+['Ad', '2c']
+['Ad', '2c']
+['Ad', '2c', 'Jc']
+['Js', '9s']
+['Js', '9s']
+['Js', '9s', 'Qh']
+['Kc', '8s']
+['Kc', '8s']
+['Kc', '8s', 'Jc']
+['Kc', '8s', 'Jc']
+['Kc', '8s', 'Jc']
+A showdown has occured!
+['2c', 'Qd']
+27848630.336363636
+['9h', '5d']
+['9h', '5d']
+['9h', '5d', '4h']
+['9h', '5d', '4h']
+['4s', '3d']
+['Qd', '3d']
+['Qs', 'Ks']
+['7c', '8c']
+['7c', '8c']
+['7c', '8c', '3s']
+['Tc', '9c']
+['Tc', '9c']
+['Tc', '9c', '2c']
+['Tc', '9c', '2c']
+['Tc', '9c', '2c']
+A showdown has occured!
+['8c', '3s']
+28505356.333333332
+['7c', '3c']
+['Qh', '8s']
+['4h', '5d']
+['8h', 'Ah']
+['6c', 'Jc']
+['3d', 'Kh']
+['3d', 'Kh']
+['3d', 'Kh', '9c']
+['4h', '2c']
+['Ac', '6d']
+['Ac', '6d']
+['Ac', '6d', '9d']
+['Ac', '6d', '9d']
+['4d', 'Qd']
+['Th', 'Ac']
+['Th', 'Ac']
+['Th', 'Ac', 'Qs']
+['9s', 'Jc']
+['9s', 'Jc']
+['9s', 'Jc', 'Qs']
+['4d', '2h']
+['Ts', '3d']
+['6d', '6s']
+['7s', 'Tc']
+['7s', 'Tc']
+['7s', 'Tc', 'Qd']
+['7d', '4c']
+['7c', 'Ts']
+['7c', 'Ts']
+['7c', 'Ts', '8d']
+['7c', 'Ts', '8d']
+['7c', 'Ts', '8d']
+A showdown has occured!
+['4s', 'Ac']
+28557557.36607143
+['7c', '2h']
+['Jh', 'Kh']
+['Jh', 'Kh']
+['Jh', 'Kh', 'Td']
+['8c', '7h']
+['6d', 'Kh']
+['6d', 'Kh']
+['6d', 'Kh', '2h']
+['6d', 'Kh', '2h']
+['8s', '6s']
+['8s', '6s']
+['8s', '6s', 'Ad']
+['8s', 'Js']
+['6c', '2h']
+['Tc', '6d']
+['Tc', '6d']
+['Tc', '6d', '8s']
+['Tc', '6d', '8s']
+['2d', 'Jc']
+['Th', '5d']
+['9d', 'As']
+['9d', 'As']
+['9d', 'As', '5s']
+['9d', 'As', '5s']
+['5s', 'Qd']
+['5s', 'Qd']
+['5s', 'Qd', '3c']
+['5s', 'Qd', '3c']
+['5s', 'Qd', '3c']
+A showdown has occured!
+['9s', '5c']
+28903359.088495575
+['5d', '3s']
+['9d', '9h']
+['5d', 'Kc']
+['Qh', '9c']
+['Qh', '9c']
+['Qh', '9c', '5h']
+['9s', 'Kc']
+['9s', 'Kc']
+['9s', 'Kc', 'Tc']
+['3h', '5c']
+['5c', 'Ad']
+['Qs', '7h']
+['Qs', '7h']
+['Qs', '7h', '8s']
+['Qs', '7h', '8s']
+['4s', '8d']
+['Td', 'As']
+['Ad', 'Js']
+['5s', '3h']
+['Qh', '8c']
+['8h', 'Qc']
+['8h', 'Qc']
+['8h', 'Qc', '3s']
+['2c', '3h']
+['As', '5c']
+['2h', '3s']
+['2d', '6s']
+['Js', 'Th']
+['Js', '4h']
+['Js', '4h']
+['Js', '4h', '6d']
+['Js', '6s']
+['Tc', 'Th']
+['6c', 'Tc']
+['8d', '5c']
+['7h', '2d']
+['4c', '2d']
+['2d', 'Td']
+['Ad', '7d']
+['3s', 'Ad']
+['3s', 'Ad']
+['3s', 'Ad', '5s']
+['3s', 'Ad', '5s']
+['3s', 'Ad', '5s']
+A showdown has occured!
 ['4d', '4s']
-[['4s', '5h', 'Qs'], ['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c']]
-True Round num:  368
-True Round num:  369
-True Round num:  370
-True Round num:  371
-True Round num:  372
-True Round num:  373
-True Round num:  374
-True Round num:  375
-True Round num:  376
-True Round num:  377
-True Round num:  378
-True Round num:  379
-True Round num:  380
-True Round num:  381
-True Round num:  382
-True Round num:  383
-['4s', '5h', 'Qs']
-[['8d', '8h'], ['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s']]
-True Round num:  384
-True Round num:  385
-True Round num:  386
-True Round num:  387
-True Round num:  388
-True Round num:  389
-True Round num:  390
-True Round num:  391
-True Round num:  392
-True Round num:  393
-True Round num:  394
-True Round num:  395
-True Round num:  396
-True Round num:  397
-True Round num:  398
-True Round num:  399
-True Round num:  400
-True Round num:  401
-True Round num:  402
-True Round num:  403
-True Round num:  404
-True Round num:  405
-True Round num:  406
-True Round num:  407
-True Round num:  408
-True Round num:  409
-True Round num:  410
-True Round num:  411
-['8d', '8h']
-[['4s', 'As', 'Jd'], ['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc']]
-True Round num:  412
-True Round num:  413
-True Round num:  414
-True Round num:  415
-True Round num:  416
-True Round num:  417
-True Round num:  418
-True Round num:  419
-True Round num:  420
-True Round num:  421
-True Round num:  422
-True Round num:  423
-True Round num:  424
-True Round num:  425
-True Round num:  426
-True Round num:  427
-True Round num:  428
-True Round num:  429
-True Round num:  430
-True Round num:  431
-True Round num:  432
-True Round num:  433
-True Round num:  434
-True Round num:  435
-True Round num:  436
-True Round num:  437
-True Round num:  438
-True Round num:  439
-True Round num:  440
-True Round num:  441
-True Round num:  442
-True Round num:  443
-True Round num:  444
-True Round num:  445
-True Round num:  446
-True Round num:  447
-True Round num:  448
-True Round num:  449
-True Round num:  450
-True Round num:  451
-True Round num:  452
-True Round num:  453
-True Round num:  454
-True Round num:  455
-True Round num:  456
-True Round num:  457
-True Round num:  458
-True Round num:  459
-True Round num:  460
-True Round num:  461
-True Round num:  462
-True Round num:  463
-True Round num:  464
-True Round num:  465
-True Round num:  466
-True Round num:  467
-['4s', 'As', 'Jd']
-[['Jd', '8c', '7s'], ['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s']]
-True Round num:  468
-True Round num:  469
-True Round num:  470
-True Round num:  471
-True Round num:  472
-True Round num:  473
-True Round num:  474
-True Round num:  475
-True Round num:  476
-True Round num:  477
-True Round num:  478
-True Round num:  479
-True Round num:  480
-True Round num:  481
-True Round num:  482
-True Round num:  483
-True Round num:  484
-True Round num:  485
-True Round num:  486
-True Round num:  487
-True Round num:  488
-True Round num:  489
-True Round num:  490
-True Round num:  491
-True Round num:  492
-True Round num:  493
-True Round num:  494
-True Round num:  495
-True Round num:  496
-True Round num:  497
-True Round num:  498
-True Round num:  499
-True Round num:  500
-True Round num:  501
-True Round num:  502
-True Round num:  503
-True Round num:  504
-True Round num:  505
-True Round num:  506
-True Round num:  507
-True Round num:  508
-True Round num:  509
-True Round num:  510
-True Round num:  511
-True Round num:  512
-True Round num:  513
-True Round num:  514
-True Round num:  515
-True Round num:  516
-True Round num:  517
-True Round num:  518
-True Round num:  519
-True Round num:  520
-True Round num:  521
-True Round num:  522
-True Round num:  523
-True Round num:  524
-True Round num:  525
-True Round num:  526
-True Round num:  527
-True Round num:  528
-True Round num:  529
-True Round num:  530
-True Round num:  531
-True Round num:  532
-True Round num:  533
-True Round num:  534
-True Round num:  535
-True Round num:  536
-True Round num:  537
-True Round num:  538
-True Round num:  539
-['Jd', '8c', '7s']
-[['7h', '4c'], ['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc']]
-True Round num:  540
-True Round num:  541
-True Round num:  542
-True Round num:  543
-True Round num:  544
-True Round num:  545
-True Round num:  546
-True Round num:  547
-True Round num:  548
-True Round num:  549
-True Round num:  550
-True Round num:  551
-True Round num:  552
-True Round num:  553
-True Round num:  554
-True Round num:  555
-True Round num:  556
-True Round num:  557
-True Round num:  558
-True Round num:  559
-True Round num:  560
-True Round num:  561
-True Round num:  562
-True Round num:  563
-True Round num:  564
-True Round num:  565
-['7h', '4c']
-[['8h', 'Td', '3s'], ['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc'], ['Ah', '7s', 'Td']]
-True Round num:  566
-True Round num:  567
-True Round num:  568
-True Round num:  569
-True Round num:  570
-True Round num:  571
-['8h', 'Td', '3s']
-[['Qd', '3h', 'Ts'], ['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc'], ['Ah', '7s', 'Td'], ['Qd', 'Ad', '8c']]
-True Round num:  572
-True Round num:  573
-True Round num:  574
-True Round num:  575
-True Round num:  576
-True Round num:  577
-True Round num:  578
-True Round num:  579
-True Round num:  580
-True Round num:  581
-True Round num:  582
-True Round num:  583
-True Round num:  584
-True Round num:  585
-['Qd', '3h', 'Ts']
-[['2s', 'Qc', '3s'], ['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc'], ['Ah', '7s', 'Td'], ['Qd', 'Ad', '8c'], ['7c', '9h', 'Ad']]
-True Round num:  586
-True Round num:  587
-True Round num:  588
-True Round num:  589
-True Round num:  590
-True Round num:  591
-True Round num:  592
-True Round num:  593
-True Round num:  594
-True Round num:  595
-True Round num:  596
-True Round num:  597
-True Round num:  598
-True Round num:  599
-True Round num:  600
-True Round num:  601
-True Round num:  602
-True Round num:  603
-True Round num:  604
-True Round num:  605
-True Round num:  606
-True Round num:  607
-True Round num:  608
-True Round num:  609
-True Round num:  610
-True Round num:  611
-True Round num:  612
-True Round num:  613
-True Round num:  614
-True Round num:  615
-True Round num:  616
-True Round num:  617
-True Round num:  618
-True Round num:  619
-True Round num:  620
-True Round num:  621
-True Round num:  622
-True Round num:  623
-True Round num:  624
-True Round num:  625
-True Round num:  626
-True Round num:  627
-True Round num:  628
-True Round num:  629
-True Round num:  630
-True Round num:  631
-True Round num:  632
-True Round num:  633
-True Round num:  634
-True Round num:  635
-True Round num:  636
-True Round num:  637
-True Round num:  638
-True Round num:  639
-True Round num:  640
-True Round num:  641
-True Round num:  642
-True Round num:  643
-True Round num:  644
-True Round num:  645
-['2s', 'Qc', '3s']
-[['5s', 'Ts', '3s'], ['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc'], ['Ah', '7s', 'Td'], ['Qd', 'Ad', '8c'], ['7c', '9h', 'Ad'], ['9s', '6d', '8h']]
-True Round num:  646
-True Round num:  647
-True Round num:  648
-True Round num:  649
-True Round num:  650
-True Round num:  651
-True Round num:  652
-True Round num:  653
-True Round num:  654
-True Round num:  655
-True Round num:  656
-True Round num:  657
-True Round num:  658
-True Round num:  659
-True Round num:  660
-True Round num:  661
-True Round num:  662
-True Round num:  663
-True Round num:  664
-True Round num:  665
-True Round num:  666
-True Round num:  667
-True Round num:  668
-True Round num:  669
-True Round num:  670
-True Round num:  671
-True Round num:  672
-True Round num:  673
-True Round num:  674
-True Round num:  675
-True Round num:  676
-True Round num:  677
-True Round num:  678
-True Round num:  679
-True Round num:  680
-True Round num:  681
-True Round num:  682
-True Round num:  683
-True Round num:  684
-True Round num:  685
-True Round num:  686
-True Round num:  687
-True Round num:  688
-True Round num:  689
-True Round num:  690
-True Round num:  691
-True Round num:  692
-True Round num:  693
-True Round num:  694
-True Round num:  695
-True Round num:  696
-True Round num:  697
-True Round num:  698
-True Round num:  699
-['5s', 'Ts', '3s']
-[['4c', 'Qh', 'Ah'], ['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc'], ['Ah', '7s', 'Td'], ['Qd', 'Ad', '8c'], ['7c', '9h', 'Ad'], ['9s', '6d', '8h'], ['8d', 'Th', 'Jh']]
-True Round num:  700
-True Round num:  701
-True Round num:  702
-True Round num:  703
-True Round num:  704
-True Round num:  705
-True Round num:  706
-True Round num:  707
-True Round num:  708
-True Round num:  709
-True Round num:  710
-True Round num:  711
-True Round num:  712
-True Round num:  713
-True Round num:  714
-True Round num:  715
-True Round num:  716
-True Round num:  717
-True Round num:  718
-True Round num:  719
-True Round num:  720
-True Round num:  721
-True Round num:  722
-True Round num:  723
-True Round num:  724
-True Round num:  725
-True Round num:  726
-True Round num:  727
-True Round num:  728
-True Round num:  729
-True Round num:  730
-True Round num:  731
-True Round num:  732
-True Round num:  733
-True Round num:  734
-True Round num:  735
-True Round num:  736
-True Round num:  737
-True Round num:  738
-True Round num:  739
-True Round num:  740
-True Round num:  741
-True Round num:  742
-True Round num:  743
-True Round num:  744
-True Round num:  745
-True Round num:  746
-True Round num:  747
-True Round num:  748
-True Round num:  749
-True Round num:  750
-True Round num:  751
-True Round num:  752
-True Round num:  753
-True Round num:  754
-True Round num:  755
-True Round num:  756
-True Round num:  757
-True Round num:  758
-True Round num:  759
-True Round num:  760
-True Round num:  761
-True Round num:  762
-True Round num:  763
-True Round num:  764
-True Round num:  765
-True Round num:  766
-True Round num:  767
-['4c', 'Qh', 'Ah']
-[['Jh', '6h', '5d'], ['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc'], ['Ah', '7s', 'Td'], ['Qd', 'Ad', '8c'], ['7c', '9h', 'Ad'], ['9s', '6d', '8h'], ['8d', 'Th', 'Jh'], ['8c', 'Th', '3s']]
-True Round num:  768
-True Round num:  769
-True Round num:  770
-True Round num:  771
-True Round num:  772
-True Round num:  773
-True Round num:  774
-True Round num:  775
-True Round num:  776
-True Round num:  777
-True Round num:  778
-True Round num:  779
-True Round num:  780
-True Round num:  781
-True Round num:  782
-True Round num:  783
-True Round num:  784
-True Round num:  785
-True Round num:  786
-True Round num:  787
-True Round num:  788
-True Round num:  789
-True Round num:  790
-True Round num:  791
-True Round num:  792
-True Round num:  793
-True Round num:  794
-True Round num:  795
-True Round num:  796
-True Round num:  797
-True Round num:  798
-True Round num:  799
-True Round num:  800
-True Round num:  801
-True Round num:  802
-True Round num:  803
-True Round num:  804
-True Round num:  805
-True Round num:  806
-True Round num:  807
-True Round num:  808
-True Round num:  809
-True Round num:  810
-True Round num:  811
-True Round num:  812
-True Round num:  813
-True Round num:  814
-True Round num:  815
-['Jh', '6h', '5d']
-[['Tc', '8c', 'Jh'], ['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc'], ['Ah', '7s', 'Td'], ['Qd', 'Ad', '8c'], ['7c', '9h', 'Ad'], ['9s', '6d', '8h'], ['8d', 'Th', 'Jh'], ['8c', 'Th', '3s'], ['8s', '9s', 'Qh']]
-True Round num:  816
-True Round num:  817
-True Round num:  818
-True Round num:  819
-True Round num:  820
-True Round num:  821
-True Round num:  822
-True Round num:  823
-True Round num:  824
-True Round num:  825
-True Round num:  826
-True Round num:  827
-True Round num:  828
-True Round num:  829
-True Round num:  830
-True Round num:  831
-True Round num:  832
-True Round num:  833
-True Round num:  834
-True Round num:  835
-True Round num:  836
-True Round num:  837
-['Tc', '8c', 'Jh']
-[['4c', '5s', 'Tc'], ['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc'], ['Ah', '7s', 'Td'], ['Qd', 'Ad', '8c'], ['7c', '9h', 'Ad'], ['9s', '6d', '8h'], ['8d', 'Th', 'Jh'], ['8c', 'Th', '3s'], ['8s', '9s', 'Qh'], ['7c', 'Qc', '4s']]
-True Round num:  838
-True Round num:  839
-True Round num:  840
-True Round num:  841
-True Round num:  842
-True Round num:  843
-True Round num:  844
-True Round num:  845
-True Round num:  846
-True Round num:  847
-True Round num:  848
-True Round num:  849
-['4c', '5s', 'Tc']
-[['Ts', 'Qc', '5h'], ['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc'], ['Ah', '7s', 'Td'], ['Qd', 'Ad', '8c'], ['7c', '9h', 'Ad'], ['9s', '6d', '8h'], ['8d', 'Th', 'Jh'], ['8c', 'Th', '3s'], ['8s', '9s', 'Qh'], ['7c', 'Qc', '4s'], ['5c', 'Qc', '8h']]
-True Round num:  850
-True Round num:  851
-True Round num:  852
-True Round num:  853
-True Round num:  854
-True Round num:  855
-True Round num:  856
-True Round num:  857
-True Round num:  858
-True Round num:  859
-True Round num:  860
-True Round num:  861
-['Ts', 'Qc', '5h']
-[['Qh', '6d', 'Ah'], ['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc'], ['Ah', '7s', 'Td'], ['Qd', 'Ad', '8c'], ['7c', '9h', 'Ad'], ['9s', '6d', '8h'], ['8d', 'Th', 'Jh'], ['8c', 'Th', '3s'], ['8s', '9s', 'Qh'], ['7c', 'Qc', '4s'], ['5c', 'Qc', '8h'], ['Jd', '6d', '2c']]
-True Round num:  862
-True Round num:  863
-True Round num:  864
-True Round num:  865
-True Round num:  866
-True Round num:  867
-True Round num:  868
-True Round num:  869
-True Round num:  870
-True Round num:  871
-['Qh', '6d', 'Ah']
-[['9s', 'Tc', 'Jd'], ['As', '2d', '4s'], ['6h', 'Ad', '2s'], ['Js', '7s', '6c'], ['9s', '5c', '7s'], ['6h', '8d', 'Tc'], ['7s', 'Ac', '4s'], ['7d', 'Qh', 'Qc'], ['Ah', '7s', 'Td'], ['Qd', 'Ad', '8c'], ['7c', '9h', 'Ad'], ['9s', '6d', '8h'], ['8d', 'Th', 'Jh'], ['8c', 'Th', '3s'], ['8s', '9s', 'Qh'], ['7c', 'Qc', '4s'], ['5c', 'Qc', '8h'], ['Jd', '6d', '2c'], ['7d', 'Qd', '2h']]
-True Round num:  872
-True Round num:  873
-True Round num:  874
-True Round num:  875
-True Round num:  876
-True Round num:  877
-True Round num:  878
-True Round num:  879
-True Round num:  880
-True Round num:  881
-True Round num:  882
-True Round num:  883
-True Round num:  884
-True Round num:  885
-True Round num:  886
-True Round num:  887
-True Round num:  888
-True Round num:  889
-True Round num:  890
-True Round num:  891
-True Round num:  892
-True Round num:  893
-True Round num:  894
-True Round num:  895
-True Round num:  896
-True Round num:  897
-True Round num:  898
-True Round num:  899
-True Round num:  900
-True Round num:  901
-True Round num:  902
-True Round num:  903
-True Round num:  904
-True Round num:  905
-True Round num:  906
-True Round num:  907
-True Round num:  908
-True Round num:  909
-True Round num:  910
-True Round num:  911
-True Round num:  912
-True Round num:  913
-True Round num:  914
-True Round num:  915
-True Round num:  916
-True Round num:  917
-True Round num:  918
-True Round num:  919
-True Round num:  920
-True Round num:  921
-True Round num:  922
-True Round num:  923
-True Round num:  924
-True Round num:  925
-True Round num:  926
-True Round num:  927
-True Round num:  928
-True Round num:  929
-True Round num:  930
-True Round num:  931
-True Round num:  932
-True Round num:  933
-True Round num:  934
-True Round num:  935
-True Round num:  936
-True Round num:  937
-True Round num:  938
-True Round num:  939
-True Round num:  940
-True Round num:  941
-True Round num:  942
-True Round num:  943
-True Round num:  944
-True Round num:  945
-True Round num:  946
-True Round num:  947
-True Round num:  948
-True Round num:  949
-True Round num:  950
-True Round num:  951
-True Round num:  952
-True Round num:  953
-True Round num:  954
-True Round num:  955
-True Round num:  956
-True Round num:  957
-True Round num:  958
-True Round num:  959
-True Round num:  960
-True Round num:  961
-True Round num:  962
-True Round num:  963
-True Round num:  964
-True Round num:  965
-True Round num:  966
-True Round num:  967
-True Round num:  968
-True Round num:  969
-True Round num:  970
-True Round num:  971
-True Round num:  972
-True Round num:  973
-True Round num:  974
-True Round num:  975
-True Round num:  976
-True Round num:  977
-True Round num:  978
-True Round num:  979
-True Round num:  980
-True Round num:  981
-True Round num:  982
-True Round num:  983
-True Round num:  984
-True Round num:  985
-True Round num:  986
-True Round num:  987
-True Round num:  988
-True Round num:  989
-True Round num:  990
-True Round num:  991
-True Round num:  992
-True Round num:  993
-True Round num:  994
-True Round num:  995
-True Round num:  996
-True Round num:  997
-True Round num:  998
-True Round num:  999
-True Round num:  1000
-29.05
+28948844.57017544
+['4d', '9s']
+['Qh', 'Qc']
+['3d', '2d']
+['Qd', 'Qs']
+['8s', '3h']
+['7s', '2h']
+['9c', 'Ad']
+['Kh', '3s']
+['Jh', 'Qh']
+['Jh', 'Qh']
+['Jh', 'Qh', 'Ts']
+['8s', '9d']
+['2h', '5s']
+['Ks', 'Js']
+['Tc', '2c']
+['Qc', '7s']
+['Qc', '7s']
+['Qc', '7s', '3c']
+['Qc', '7s', '3c']
+['Ts', '4d']
+['3c', '5s']
+['Ac', 'Jd']
+['Ac', 'Jd']
+['Ac', 'Jd', '2h']
+['Jh', '2c']
+['5s', '5c']
+['6c', '9s']
+['6c', '9s']
+['6c', '9s', 'Jc']
+['6c', '9s', 'Jc']
+['Ks', 'Qh']
+['Ks', 'Qh']
+['Ks', 'Qh', '6h']
+['6s', '6d']
+['9c', '4s']
+['9h', 'Qs']
+['5c', 'Kc']
+['5c', 'Kc']
+['5c', 'Kc', '6c']
+['5c', 'Kc', '6c']
+['Ad', '8d']
+['7h', '8c']
+['7h', '8c']
+['7h', '8c', 'Ah']
+['7d', 'Qs']
+['9s', 'Ts']
+['Kc', '3c']
+['Kc', '3c']
+['Kc', '3c', 'Kh']
+['7d', '3d']
+['Jh', '2h']
+['Qd', 'Qs']
+['5s', '6d']
+['6s', '7d']
+['2c', 'Jc']
+['5h', '8s']
+['Tc', 'Td']
+['8s', 'Jd']
+['Ks', 'Qs']
+['Ks', 'Qs']
+['Ks', 'Qs', '6c']
+['4d', '9c']
+['3h', '9s']
+['8c', '9s']
+['8c', '9s']
+['8c', '9s', 'Qc']
+['3h', '5s']
+['Kc', 'Th']
+['Kc', 'Th']
+['Kc', 'Th', '2d']
+['Kc', 'Th', '2d']
+['Kc', 'Th', '2d']
+['9c', 'Tc']
+['9c', 'Tc']
+['9c', 'Tc', '2d']
+['9c', 'Tc', '2d']
+['9c', 'Tc', '2d']
+A showdown has occured!
+['4d', 'Kd']
+28994794.513043478
+['Ts', '6d']
+['6c', '8c']
+['6c', '8c']
+['6c', '8c', 'Qh']
+['6c', '8c', 'Qh']
+['6c', '8c', 'Qh']
+['5h', 'Ks']
+['5h', 'Ks']
+['5h', 'Ks', '8s']
+['9d', '7s']
+['7s', 'Jd']
+['Kh', '8d']
+['3d', '5c']
+['6s', 'Jc']
+['7c', '8h']
+['7c', '8h']
+['7c', '8h', 'Js']
+['Qs', 'As']
+['Qs', 'As']
+['Qs', 'As', '6s']
+['7s', 'Qs']
+['7s', 'Qs']
+['7s', 'Qs', '3d']
+['7s', 'Qs', '3d']
+['7s', 'Qs', '3d']
+A showdown has occured!
+['8h', 'As']
+28751955.439655174
+['Qc', 'Qd']
+['3s', '9s']
+['6s', 'Ts']
+['2h', '4h']
+['4c', '7c']
+['6d', 'Tc']
+['6d', 'Tc']
+['6d', 'Tc', '9h']
+['Ks', '7s']
+['Kh', '2c']
+['7s', '2c']
+['Ah', '5s']
+['Ah', '5s']
+['Ah', '5s', '4h']
+['3h', '2d']
+['9h', '5s']
+['9h', '5s']
+['9h', '5s', '2h']
+['9h', '5s', '2h']
+['9h', '5s', '2h']
+A showdown has occured!
+['Ah', '8c']
+28799780.777777776
+['Tc', '5s']
+['Tc', '5s']
+['Tc', '5s', '8c']
+['Tc', '5s', '8c']
+['Tc', '5s', '8c']
+A showdown has occured!
+['6s', '5h']
+28699368.262711864
+['7s', 'Tc']
+['2h', '4h']
+['2c', 'Qd']
+['Qh', 'Ad']
+['Qh', 'Ad']
+['Qh', 'Ad', '2s']
+['Qh', 'Ad', '2s']
+['Qh', 'Ad', '2s']
+A showdown has occured!
+['8s', '5c']
+29169361.218487393
+['Qc', '7s']
+['Qc', '7s']
+['Qc', '7s', '8h']
+['7d', 'Jd']
+['Jh', 'Jc']
+['9c', 'Ac']
+['5s', '3s']
+['8s', '4h']
+['Jd', 'Td']
+['Jd', 'Td']
+['Jd', 'Td', 'Ks']
+['Jd', 'Td', 'Ks']
+['Ah', '6c']
+['8s', '6s']
+['5s', '4s']
+['5d', '6s']
+['4h', 'Th']
+['9d', 'Qh']
+['9h', '9c']
+['Jh', 'Ah']
+['5c', 'Jd']
+['6s', 'Jc']
+['Ad', 'Kc']
+['2h', '9h']
+['Js', 'As']
+['Js', 'As']
+['Js', 'As', 'Qd']
+['Js', 'As', 'Qd']
+['2c', '6d']
+['Ks', 'Qs']
+['As', 'Ac']
+['2d', '6h']
+['4d', 'Tc']
+['8c', '4c']
+['Qs', 'As']
+['9c', 'Qc']
+['Kh', '9s']
+['Kc', '8c']
+['Kc', '8c']
+['Kc', '8c', '9s']
+['Kh', '2d']
+['Kh', '2d']
+['Kh', '2d', 'Jc']
+['Kh', '5h']
+['Kh', '5h']
+['Kh', '5h', 'Td']
+['Kh', '5h', 'Td']
+['Kh', '5h', 'Td']
+A showdown has occured!
+['5d', '6s']
+29209875.741666667
+['5h', 'Ad']
+['5h', 'Ad']
+['5h', 'Ad', '4s']
+['Qs', '2s']
+['4h', 'As']
+['4h', 'As']
+['4h', 'As', '2h']
+['4h', 'As', '2h']
+['As', 'Js']
+['Qc', 'Qd']
+['7c', '5s']
+['7c', '5s']
+['7c', '5s', '9h']
+['7c', '5s', '9h']
+['7c', '5s', '9h']
+A showdown has occured!
+['2s', '6c']
+29107521.198347107
+['5s', '5d']
+['5d', '7h']
+['Qh', '2s']
+['Qh', '2s']
+['Qh', '2s', '6d']
+['5h', 'Ah']
+['5h', 'Ah']
+['5h', 'Ah', '3s']
+['2c', '4h']
+24.663
+['Ah', '9c']
+['Ah', '9c']
+['Ah', '9c', 'Th']
