@@ -80,9 +80,9 @@ class Player(Bot):
         num_rounds = game_state.round_num
 
 
-        forever_fold = (1.5 * (NUM_ROUNDS - round_num)) + 2 #we always fold if were up by enough
-        if my_bankroll > forever_fold:
-            self.activate_folds = True
+        # forever_fold = (1.5 * (NUM_ROUNDS - round_num)) + 2 #we always fold if were up by enough
+        # if my_bankroll > forever_fold:
+        #     self.activate_folds = True
 
         self.early_game = (round_num < 100)
 
@@ -163,27 +163,25 @@ class Player(Bot):
 
             self.num_showdowns += 1
             self.opp_bids.append(opp_bid)
-            #print(self.Last_20_Opp_Cards)
 
 
-            print(opp_cards)
+
             lastboardcards = self.list_of_all_board_cards[-1] + opp_cards
-
-
-
-            ReformattedBoardCards = [eval7.Card(card) for card in lastboardcards]
-
+            ReformattedBoardCards = [eval7.Card(card) for card in lastboardcards]   #eval7's to get the strenth of opp hand with relation to board cards at that time.
             opp_hand_val = eval7.evaluate(ReformattedBoardCards)
-            #self.list_of_opp_strength_at_showdown.append(opp_hand_val)
 
-            self.opp_showdown_strength = (self.opp_showdown_strength * (self.num_showdowns - 1) + opp_hand_val) / (self.num_showdowns)
-            print (self.opp_showdown_strength)
+            if len(self.list_of_opp_strength_at_showdown) >= 20:   #makes an average of the last 20 strengths
+                self.list_of_opp_strength_at_showdown.pop(0)
+                self.list_of_opp_strength_at_showdown.append(opp_hand_val)
+                self.opp_showdown_strength = sum(self.list_of_opp_strength_at_showdown) / 20
+            else:
+                self.list_of_opp_strength_at_showdown.append(opp_hand_val)
+                self.opp_showdown_strength = sum(self.list_of_opp_strength_at_showdown) / len(self.list_of_opp_strength_at_showdown)
 
+            self.list_of_all_board_cards.clear()
 
         elif self.activate_folds == False:
             self.list_of_all_board_cards.clear()
-
-
 
 
 
@@ -227,7 +225,6 @@ class Player(Bot):
 
         if self.activate_folds == False:
             self.list_of_all_board_cards.append(board_cards)
-            #print(self.list_of_all_board_cards)
 
 
 
@@ -317,60 +314,59 @@ class Player(Bot):
             community = 5-len(reformattedboardcards)  #bring this outside the loop bc doesn't change
             opp = 5-len(reformattedcardsthatwehave)
 
-            # if street >= 4 and len(self.Last_20_Opp_Cards) >= 10:
-            #     deck.shuffle()
-            #     draw = deck.peek(community)
-            #     if community == 0:
-            #         community_cards = reformattedboardcards
-            #     else:
-            #         community_cards = draw
-            #         community_cards = community_cards + reformattedboardcards
-
-            #     our_hand = reformattedcardsthatwehave + community_cards
-            #     opp_hand = opp_cards + community_cards
-
-            #     our_hand_val = eval7.evaluate(our_hand)
-            #     opp_hand_val = eval7.evaluate(opp_hand)
-
-            #     if our_hand_val > opp_hand_val:
-            #         # We won the round
-            #         wins += 1
-            #     if our_hand_val == opp_hand_val:
-            #         # We tied the round
-            #         wins += .5
-            #     else:
-            #         # We lost the round
-            #         pass
-
-
-            for i in range(iters):
+            if street == 5 and len(self.list_of_opp_strength_at_showdown) >= 10:    #uses the opp strength at showdown to calculate odds of winning
                 deck.shuffle()
-                draw = deck.peek(opp+community)
-                opp_cards = draw[:opp]
+                draw = deck.peek(community)
                 if community == 0:
                     community_cards = reformattedboardcards
                 else:
-                    community_cards = draw[opp:]
+                    community_cards = draw
                     community_cards = community_cards + reformattedboardcards
 
                 our_hand = reformattedcardsthatwehave + community_cards
-                opp_hand = opp_cards + community_cards
-
                 our_hand_val = eval7.evaluate(our_hand)
-                opp_hand_val = eval7.evaluate(opp_hand)
 
-                if our_hand_val > opp_hand_val:
+                if our_hand_val > self.opp_showdown_strength:
                     # We won the round
                     wins += 1
-                if our_hand_val == opp_hand_val:
+                if our_hand_val == self.opp_showdown_strength:
                     # We tied the round
                     wins += .5
                 else:
                     # We lost the round
                     pass
+
+            else:      #uses random opp cards for the flop
+                for i in range(iters):
+                    deck.shuffle()
+                    draw = deck.peek(opp+community)
+                    opp_cards = draw[:opp]
+                    if community == 0:
+                        community_cards = reformattedboardcards
+                    else:
+                        community_cards = draw[opp:]
+                        community_cards = community_cards + reformattedboardcards
+
+                    our_hand = reformattedcardsthatwehave + community_cards
+                    opp_hand = opp_cards + community_cards
+
+                    our_hand_val = eval7.evaluate(our_hand)
+                    opp_hand_val = eval7.evaluate(opp_hand)
+
+                    if our_hand_val > opp_hand_val:
+                        # We won the round
+                        wins += 1
+                    if our_hand_val == opp_hand_val:
+                        # We tied the round
+                        wins += .5
+                    else:
+                        # We lost the round
+                        pass
             return wins/iters
 
-
+#########################################################################################################################
+#########################################################################################################################
+#########################################################################################################################
 
         strength_diff = calculate_ShouldWeBidOnTheAuction(my_cards, board_cards, 200)
 

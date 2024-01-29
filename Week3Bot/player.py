@@ -78,9 +78,9 @@ class Player(Bot):
         num_rounds = game_state.round_num
 
 
-        forever_fold = (1.5 * (NUM_ROUNDS - round_num)) + 2 #we always fold if were up by enough
-        if my_bankroll > forever_fold:
-            self.activate_folds = True
+        # forever_fold = (1.5 * (NUM_ROUNDS - round_num)) + 2 #we always fold if were up by enough
+        # if my_bankroll > forever_fold:
+        #     self.activate_folds = True
 
 
         self.early_game = (round_num < 100)
@@ -130,6 +130,8 @@ class Player(Bot):
 
         Returns:
         Nothing.
+
+        gives us "
         '''
         my_delta = terminal_state.deltas[active]  # your bankroll change from this round
         previous_state = terminal_state.previous_state  # RoundState before payoffs
