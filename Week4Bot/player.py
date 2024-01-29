@@ -32,6 +32,8 @@ class Player(Bot):
 
         self.opp_holes = []
         self.opp_bids = []
+        self.min_opp_bid = 0
+        self.max_opp_bid = 0
 
         prev_time = time.time()
         with open("hand_strengths", "rb") as file:
@@ -83,6 +85,8 @@ class Player(Bot):
         # forever_fold = (1.5 * (NUM_ROUNDS - round_num)) + 2 #we always fold if were up by enough
         # if my_bankroll > forever_fold:
         #     self.activate_folds = True
+
+        print("--------Round", round_num, "-------------")
 
         self.early_game = (round_num < 100)
 
@@ -142,7 +146,7 @@ class Player(Bot):
 
         if len(opp_cards) >= 2 and self.activate_folds == False:
 
-            print("A showdown has occured!")
+            # print("A showdown has occured!")
             if (self.num_showdowns) >= 20:     #if more than 20 showdowns have occured
                 self.Last_20_Opp_Cards.pop(0)    #update to only include the last 20
                 self.Last_20_Opp_Cards.append(opp_cards)
@@ -163,6 +167,8 @@ class Player(Bot):
 
             self.num_showdowns += 1
             self.opp_bids.append(opp_bid)
+            self.max_opp_bid = max(self.opp_bids)
+            self.min_opp_bid = max(min(self.opp_bids), 51)
 
 
 
@@ -217,7 +223,7 @@ class Player(Bot):
         pot = my_contribution + opp_contribution
 
         if self.activate_folds == True:
-            print('always fold = True')
+            # print('always fold = True')
             if CheckAction in legal_actions:
                 return CheckAction()
             else:
@@ -232,7 +238,7 @@ class Player(Bot):
             #this one will determine if we want to bid on auction
             #this is post flop so take that into account
             deck = eval7.Deck()
-            print(my_cards)
+            # print(my_cards)
             mycards = [eval7.Card(card) for card in mycards]
             flopcards = [eval7.Card(card) for card in flopcards]
             for card in mycards:
@@ -297,6 +303,7 @@ class Player(Bot):
             strength_w_auction = wins_w_auction / iters
             strength_wo_auction = wins_wo_auction / iters
             #return the decimal of the percentage of the number of times it won with the auction and without the auction
+
             return strength_w_auction- strength_wo_auction
 
         def calculate_TheOddsAfterTheAuction(cardswehave, thecardsontheboard, iters):
@@ -368,26 +375,45 @@ class Player(Bot):
 #########################################################################################################################
 #########################################################################################################################
 
-        strength_diff = calculate_ShouldWeBidOnTheAuction(my_cards, board_cards, 200)
+
 
         if BidAction in legal_actions:
-            max_bid_percentage = 1
-            min_bid_percentage = 0
-            bid_percentage = strength_diff
-            if bid_percentage > min_bid_percentage and bid_percentage < max_bid_percentage:
-                bid = int(my_stack*bid_percentage)
-                return BidAction(bid)
-            elif bid_percentage<= min_bid_percentage:
-                return BidAction(int(min_bid_percentage*pot))
-            elif bid_percentage >= max_bid_percentage:
-                return BidAction(int(max_bid_percentage*pot))
+            strength_diff = calculate_ShouldWeBidOnTheAuction(my_cards, board_cards, 200)
+            if self.early_game == True:
+                max_bid_percentage = 1
+                min_bid_percentage = 0
+                bid_percentage = strength_diff
+                if my_stack < 10:
+                    return BidAction(my_stack)
+                if bid_percentage > min_bid_percentage and bid_percentage < max_bid_percentage:
+                    bid = int(my_stack*bid_percentage)
+                    return BidAction(bid)
+                elif bid_percentage<= min_bid_percentage:
+                    return BidAction(int(min_bid_percentage*pot))
+                elif bid_percentage >= max_bid_percentage:
+                    return BidAction(int(max_bid_percentage*pot))
+            else:
+                if my_stack < 50:
+                    return BidAction(my_stack)
+                if strength_diff > 0.35:
+                    return BidAction(min(my_stack, self.max_opp_bid+1))
+                else:
+                    return BidAction(min(my_stack, self.min_opp_bid-1))
+
 
         if RaiseAction in legal_actions:
             min_raise, max_raise = round_state.raise_bounds()
 
 
-        ########### if street is less than 3 ############## pre flop #############
-        strength = self.card_strength
+       #########################################################
+
+       ##########     Pre flop          ########################
+
+       #########################################################
+        if street < 3:
+            strength = self.card_strength
+            print("Preflop strenght:", strength)
+        ########Early game (not taking opp strength into account)#####
         if street < 3 and self.early_game == True:
             if strength > 0.6:
                 if continue_cost > 50 or pot > 100:
@@ -396,7 +422,7 @@ class Player(Bot):
                     raise_cost = continue_cost + 50
                 else:
                     raise_cost = continue_cost + 100
-            elif strength > 0.45:
+            elif strength > 0.47:
                 if continue_cost < 50:
                     if continue_cost > 10 or pot > 50:
                         return CallAction()
@@ -411,14 +437,17 @@ class Player(Bot):
                         return CheckAction()
                     else:
                         return FoldAction()
-            else:   # [0,1,2] [a,b,c] ---> [(0,a), (1,b), (2,c)]
+            else:
                 if CheckAction in legal_actions:
                     return CheckAction()
                 else:
                     return FoldAction()
             return RaiseAction(raise_cost)
 
+        ########Late game (taking opp strength into account)#############
+
         elif street < 3 and self.early_game == False:
+            print("Preflop strenght(opp):", self.opp_avg_strength)
             if strength > self.opp_avg_strength + 0.1:
                 if continue_cost > 50 or pot > 100:
                     return CallAction()
@@ -448,13 +477,27 @@ class Player(Bot):
                     return FoldAction()
             return RaiseAction(raise_cost)
 
-        ###### post flop ##############################
+    #########################################################
+
+    ##########     Post flop          ########################
+
+    #########################################################
+
+        #########pot size too small for pot odds########
 
         elif pot<50:
-            strength = calculate_TheOddsAfterTheAuction(my_cards, board_cards, 200)
+            if street == 3:
+                strength = calculate_TheOddsAfterTheAuction(my_cards, board_cards, 300)
+                print("Flop Strength:", strength)
+            elif street == 4:
+                strength = calculate_TheOddsAfterTheAuction(my_cards, board_cards, 300)
+                print("Turn Strength:", strength)
+            if street == 5:
+                strength = calculate_TheOddsAfterTheAuction(my_cards, board_cards, 300)
+                print("River Strength:", strength)
 
+            #######early game (no opp strength)###########
             if self.early_game == True:
-
                 if strength > 0.7:
                     if continue_cost > 50 or pot > 100:
                         return CallAction()
@@ -491,8 +534,14 @@ class Player(Bot):
                         return FoldAction()
                 return RaiseAction(raise_cost)
 
-
+            #####Late game (using opp pre flop strength)###############
             elif self.early_game == False:
+                if street == 3:
+                    print("Flop Strength(opp):", self.opp_avg_strength)
+                elif street == 4:
+                    print("Turn Strength(opp):", self.opp_avg_strength)
+                if street == 5:
+                    print("River Strength(opp):", self.opp_avg_strength)
                 if strength > self.opp_avg_strength + 0.25:
                     if continue_cost > 50 or pot > 100:
                         return CallAction()
@@ -515,8 +564,6 @@ class Player(Bot):
                             return CheckAction()
                         else:
                             return FoldAction()
-
-
                 else:
                     if CheckAction in legal_actions:
                         return CheckAction()
@@ -524,58 +571,81 @@ class Player(Bot):
                         return FoldAction()
             return RaiseAction(raise_cost)
 
+
+        ########  large enough pot to use pot odds #################
         else:
-            strength = calculate_TheOddsAfterTheAuction(my_cards, board_cards, 200)
+            if street == 3:
+                strength = calculate_TheOddsAfterTheAuction(my_cards, board_cards, 300)
+                print("Flop Strength:", strength)
+            elif street == 4:
+                strength = calculate_TheOddsAfterTheAuction(my_cards, board_cards, 300)
+                print("Turn Strength:", strength)
+            if street == 5:
+                strength = calculate_TheOddsAfterTheAuction(my_cards, board_cards, 300)
+                print("River Strength:", strength)
 
-            raise_cost = int(continue_cost + 0.5*pot)
+            raise_cost_strong = int(continue_cost + 0.5*pot)
+            raise_cost_weak = int(continue_cost + 0.25*pot)
 
-        if RaiseAction in legal_actions and raise_cost <= my_stack:
-            raise_cost = max(min_raise,raise_cost)
-            raise_cost = min(max_raise, raise_cost)
-            commit_action = RaiseAction(int(raise_cost))
+        if RaiseAction in legal_actions and raise_cost_strong <= my_stack:
+            raise_cost_strong = max(min_raise,raise_cost_strong)
+            raise_cost_strong = min(max_raise, raise_cost_strong)
+            commit_action_strong = RaiseAction(int(raise_cost_strong))
         elif CallAction in legal_actions and continue_cost <= my_stack:
-            commit_action = CallAction()
+            commit_action_strong = CallAction()
         else:
             if CheckAction in legal_actions:
-                commit_action = CheckAction()
+                commit_action_strong = CheckAction()
             else:
-                commit_action = FoldAction()
+                commit_action_strong = FoldAction()
+
+        if RaiseAction in legal_actions and raise_cost_weak <= my_stack:
+            raise_cost_weak = max(min_raise,raise_cost_weak)
+            raise_cost_weak = min(max_raise, raise_cost_weak)
+            commit_action_weak = RaiseAction(int(raise_cost_weak))
+        elif CallAction in legal_actions and continue_cost <= my_stack:
+            commit_action_weak = CallAction()
+        else:
+            if CheckAction in legal_actions:
+                commit_action_weak = CheckAction()
+            else:
+                commit_action_weak = FoldAction()
 
         if continue_cost > 0:
             pot_odds = continue_cost/(continue_cost + pot)
-
-            if strength >= pot_odds + 0.1:
+            print("pot odds:", pot_odds)
+            if strength >= pot_odds:
                 if strength > 0.95 and RaiseAction in legal_actions:
                     my_action = RaiseAction(max_raise)
-                elif strength - pot_odds > 0.3:
-                    my_action = commit_action
-                elif strength - pot_odds > 0.2:
+                elif strength - pot_odds > 0.4:
+                    my_action = commit_action_strong
+                elif strength - pot_odds > 0.27:
                     if random.random() > 0.5:
-                        my_action = commit_action
+                        my_action = commit_action_weak
                     else:
                         return CallAction()
                 else:
                     return CallAction()
 
-
-            elif strength < pot_odds + 0.1:
-                if random.random() < 0.05:
-                    if RaiseAction in legal_actions or CallAction in legal_actions:
-                        my_action = commit_action
+            #######bluff when we should normally fold########
+            elif strength < pot_odds:
+                if random.random() < 0.05 and RaiseAction in legal_actions and raise_cost_strong/max_raise <0.5:
+                    my_action = commit_action_strong
                 else:
                     if CheckAction in legal_actions:
                         return CheckAction()
                     else:
                         return FoldAction()
 
+        #### our job to either check or bet###########
         else:
             if strength > 0.95 and RaiseAction in legal_actions:
                 my_action = RaiseAction(max_raise)
             elif strength > 0.8:
-                my_action = commit_action
-            elif strength > 0.65:
+                my_action = commit_action_strong
+            elif strength > 0.6:
                 if random.random() > 0.5:
-                    my_action = commit_action
+                    my_action = commit_action_weak
                 else:
                     my_action = CheckAction()
             else:

@@ -1,1760 +1,4788 @@
-['7h', '8d']
-['9h', '3s']
-['Td', '8h']
-['7d', 'Js']
-['7d', 'Js']
-['7d', 'Qc']
-['2s', 'Kd']
-['2s', 'Kd']
-['3c', '4d']
-['Ac', 'Qc']
-['Ac', 'Qc']
-['Ks', 'Kh']
-['Ks', 'Kh']
-['Ks', 'Kh']
-['Ks', 'Kh']
-['Ks', 'Kh']
-['Ks', 'Kh']
-A showdown has occured!
-['8c', '8h']
-['8c', '8h']
-['8c', '8h']
-['8c', '8h']
-['8c', '8h']
-['8c', '8h']
-A showdown has occured!
-['Kc', 'Js']
-['Kc', 'Js']
-['Kc', 'Js']
-['Kc', 'Js']
-['Kc', 'Js']
-['Kc', 'Js']
-A showdown has occured!
-['Ts', 'Qd']
-['Ts', 'Qd']
-['3h', '2d']
-['Jh', 'Ks']
-['Jh', 'Ks']
-['Jh', 'Ks']
-['Jh', 'Ks']
-['Jh', 'Ks']
-['Jh', 'Ks']
-A showdown has occured!
-['2d', 'Jd']
-['Kh', '3d']
-['Kh', '3d']
-['7h', '4c']
-['Jh', '2d']
-['Jh', '2d']
-['7s', '5d']
-['2s', '5s']
-['8d', '6c']
-['7c', '8d']
-['7c', '8d']
-['7h', '3c']
-['3c', 'Ad']
-['3c', 'Ad']
-['Ah', '5s']
-['Tc', '6c']
-['Tc', '6c']
-['Jh', 'Kd']
-['Jh', 'Kd']
-['Jh', 'Kd']
-['Jh', 'Kd']
-['Jh', 'Kd']
-['Jh', 'Kd']
-A showdown has occured!
-['4d', '2d']
-['5s', '6h']
-['5c', '4c']
-['Td', '7h']
-['Js', '4d']
-['Js', '4d']
-['Ac', '8h']
-['Ks', 'Ad']
-['Ks', 'Ad']
-['Ks', 'Ad']
-['Ks', 'Ad']
-['Ks', 'Ad']
-['Ks', 'Ad']
-A showdown has occured!
-['7d', 'Jc']
-['4h', 'Kc']
-['4h', 'Kc']
-['3c', 'Jc']
-['3c', 'Js']
-['3c', 'Js']
-['6d', '4h']
-['Qd', '7h']
-['Qd', '7h']
-['3s', 'Kd']
-['7d', 'Ac']
-['7d', 'Ac']
-['Ah', '8d']
-['3d', 'Ac']
-['3d', 'Ac']
-['4h', '9c']
-['6s', '5c']
-['6s', '5c']
-['4c', '8d']
-['2h', '5s']
-['Ad', 'Qd']
-['As', 'Ks']
-['As', 'Ks']
-['4c', 'Kc']
-['3h', 'Jh']
-['3h', 'Jh']
-['As', '6h']
-['4s', '2h']
-['2s', '9h']
-['Jc', '6h']
-['Jc', '6h']
-['2d', 'Tc']
-['8c', 'Js']
-['8c', 'Js']
-['5c', '3s']
-['Ks', '5c']
-['Ks', '5c']
-['7d', 'Ad']
-['5s', 'Tc']
-['5s', 'Tc']
-['5c', '9d']
-['Js', '6d']
-['Js', '6d']
-['6d', 'Ad']
-['3d', 'Ad']
-['3d', 'Ad']
-['Td', '8d']
-['3c', '2s']
-['2c', '6h']
-['3d', 'Kh']
-['3d', 'Kh']
-['4h', 'Jc']
-['Td', '6d']
-['Td', '6d']
-['Kd', '4h']
-['Jc', 'Td']
-['Jc', 'Td']
-['2s', 'Ks']
-['Jd', '5s']
-['Jd', '5s']
-['4d', '9h']
-['9h', '2h']
-['Qs', '7d']
-['7d', 'Kd']
-['7d', 'Kd']
-['6h', 'Ks']
-['7h', 'Ad']
-['7h', 'Ad']
-['4d', 'Kh']
-['3c', '3d']
-['3c', '3d']
-['Jc', '5d']
-['6s', '7c']
-['6s', '7c']
-['Th', '7s']
-['7d', 'Qh']
-['7d', 'Qh']
-['9h', 'Ks']
-['8s', 'Qs']
-['8s', 'Qs']
-['Qh', '2s']
-['5c', '7s']
-['5c', '7s']
-['4d', '5s']
-['3s', 'Ad']
-['3s', 'Ad']
-['Kh', 'Ts']
-['6s', '8d']
-['6s', '8d']
-['6d', '2c']
-['Ah', 'Jd']
-['Ah', 'Jd']
-['Ah', 'Jd']
-['Ah', 'Jd']
-['Ah', 'Jd']
-['Ah', 'Jd']
-A showdown has occured!
-['Qh', 'Qs']
-['Qh', 'Qs']
-['Qh', 'Qs']
-['Qh', 'Qs']
-['Qh', 'Qs']
-['Qh', 'Qs']
-A showdown has occured!
-['8h', 'Qs']
-['8h', 'Qs']
-['Jd', '9s']
-['3d', '6d']
-['Ts', '9d']
-['9s', '8d']
-['9s', '8d']
-['Qc', 'Td']
-['5c', '6h']
-['5c', '6h']
-['Ah', '7d']
-['4d', '9s']
-['4d', '9s']
-['Js', '8s']
-['Ts', '7h']
-['Ts', '7h']
-['Jc', '4c']
-['3c', 'Kc']
-['3c', 'Kc']
-['Ah', 'Ad']
-['Ah', 'Ad']
-['Ah', 'Ad']
-['Ah', 'Ad']
-['Ah', 'Ad']
-['Ah', 'Ad']
-A showdown has occured!
-['4h', 'Th']
-['4h', 'Th']
-['2d', 'Ah']
-['3c', '3s']
-['3c', '3s']
-['5d', 'Js']
-['2h', 'Ah']
-['2h', 'Ah']
-['2h', '8s']
-['Ac', '8d']
-['Ac', '8d']
-['5c', '2s']
-['2d', 'Jc']
-['2d', 'Jc']
-['8c', 'Jd']
-['2s', '2h']
-['2s', '2h']
-['Ks', '9c']
-['Td', '7d']
-['Td', '7d']
-['As', '8s']
-['Th', '8s']
-['Th', '8s']
-['Th', 'Qc']
-['8s', 'Kh']
-['8s', 'Kh']
-['4d', '9s']
-['5c', '3s']
-['8d', 'Jd']
-['9s', '3s']
-['As', 'Jh']
-['As', 'Jh']
-['As', 'Jh']
-['As', 'Jh']
-['As', 'Jh']
-['As', 'Jh']
-A showdown has occured!
-['2h', '3c']
-['7d', '9d']
-['9s', '3h']
-['9h', 'Ah']
-['2s', 'Kh']
-['2s', 'Kh']
-['Jd', '2d']
-['2d', 'Kd']
-['2d', 'Kd']
-['7s', 'Kh']
-['7h', '3s']
-['7h', '4h']
-['Ts', '9c']
-['Ts', '9c']
-['7d', '8c']
-['Qd', 'Jh']
-['Qd', 'Jh']
-['5c', '5s']
-['Jd', 'Kc']
-['Jd', 'Kc']
-['2d', 'Qs']
-['6d', '2c']
-['6d', '3h']
-['Kd', 'Ad']
-['Kd', 'Ad']
-['Ad', '7h']
-['4s', '9c']
-['Ts', '5c']
-['Kc', 'Qd']
-['Kc', 'Qd']
-['Jh', 'As']
-['7c', '5c']
-['4d', '5c']
-['9s', '5c']
-['9s', '5c']
-['6s', 'Qs']
-['6h', '5s']
-['6h', '5s']
-['3h', '9d']
-['Tc', 'Qc']
-['Tc', 'Qc']
-['Ts', 'Qs']
-['8s', '3h']
-['As', '9s']
-['Qd', '8d']
-['Qd', '8d']
-['Jc', '9c']
-['3d', 'Ad']
-['3d', 'Ad']
-['2h', '3h']
-['Js', 'Qh']
-['Js', 'Qh']
-['9s', '3c']
-['7c', '3h']
-['7c', 'Ks']
-['5h', '5c']
-['5h', '5c']
-['4h', 'Ad']
-['Jh', '3h']
-['Kd', '3d']
-['2d', 'Jd']
-['9c', '5h']
-['5s', '7h']
-['5s', '7h']
-['7d', 'Kh']
-['9s', '7s']
-['9s', '7s']
-['7c', 'Th']
-['3h', '5h']
-['5d', 'Td']
-['Ks', 'Ac']
-['Ks', 'Ac']
-['Ks', 'Ac']
-['Ks', 'Ac']
-['Ks', 'Ac']
-['Ks', 'Ac']
-A showdown has occured!
-['2c', 'Th']
-['4c', '2d']
-['3d', '4d']
-['3s', '6d']
-['8s', '3c']
-['7h', '4d']
-['5h', '7h']
-['4h', '9s']
-['Kh', '2h']
-['Qd', '3d']
-['Qd', '3d']
-['2d', 'Js']
-['Qh', '4h']
-['Qh', '4h']
-['3d', '6d']
-['7c', 'Jh']
-['7c', 'Jh']
-['Js', 'Tc']
-['3c', 'Js']
-['3c', 'Js']
-['2s', 'As']
-['8s', 'Kd']
-['8s', 'Kd']
-['5h', '4s']
-['6c', '5d']
-['6c', '5d']
-['5d', 'Kc']
-['Jh', 'Td']
-['Jh', 'Td']
-['4h', 'Ks']
-['5d', '6s']
-['5d', '6s']
-['Ts', '6c']
-['Kc', 'Th']
-['Kc', 'Th']
-['Ts', '5d']
-['Tc', 'Kh']
-['Tc', 'Kh']
-['5h', '9c']
-['Jc', '4s']
-['Jc', '4s']
-['7d', 'Qd']
-['Ac', 'Kc']
-['Ac', 'Kc']
-['3c', 'Ad']
-['9c', 'Jd']
-['9c', 'Jd']
-['7s', '4d']
-['7h', 'Jc']
-['7h', 'Jc']
-['6d', '4h']
-['Ad', '5d']
-['Ad', '5d']
-['9s', 'Ks']
-['5s', '3c']
-['8c', '8h']
-['8c', '8h']
-['8c', '8h']
-['8c', '8h']
-['8c', '8h']
-['8c', '8h']
-A showdown has occured!
-['Tc', '2s']
-['Tc', '2s']
-['8h', 'Jd']
-['9h', '9s']
-['9h', '9s']
-['9h', '9s']
-['9h', '9s']
-['9h', '9s']
-['9h', '9s']
-A showdown has occured!
-['4d', '9h']
-['Jd', 'Qh']
-['Jd', 'Qh']
-['2h', '9s']
-['5c', 'Qc']
-['5c', 'Qc']
-['5c', '6c']
-['8s', 'Qd']
-['8s', 'Qd']
-['3d', '8h']
-['6s', '5c']
-['6s', '5c']
-['6c', '2h']
-['7d', '8s']
-['7d', '8s']
-['2d', '6s']
-['Ks', '2s']
-['Ks', '2s']
-['Kc', 'Ad']
-['Kc', 'Ad']
-['Kc', 'Ad']
-['Kc', 'Ad']
-['Kc', 'Ad']
-['Kc', 'Ad']
-A showdown has occured!
-['Ks', '4c']
-['Ks', '4c']
-['6s', '9h']
-['As', '3d']
-['As', '3d']
-['3c', 'As']
-['Jc', 'Ts']
-['Jc', 'Ts']
-['5d', '7d']
-['Th', '4h']
-['Th', '4h']
-['6h', 'Ac']
-['Kc', '7c']
-['Kc', '7c']
-['Qc', '3h']
-['6s', '8h']
-['6s', '8h']
-['Ts', '6h']
-['9c', '9h']
-['9c', '9h']
-['9c', '9h']
-['9c', '9h']
-['9c', '9h']
-['9c', '9h']
-A showdown has occured!
-['9h', '6d']
-['6c', '4s']
-['6c', '4s']
-['2c', '5c']
-['2c', '3h']
-['2s', 'Ks']
-['9d', '6d']
-['9d', '6d']
-['2c', '6s']
-['8h', '2s']
-['Ks', 'Qh']
-['Jc', 'Ac']
-['Jc', 'Ac']
-['Ad', '6c']
-['Qc', 'Jh']
-['Qc', 'Jh']
-['Ts', '5h']
-['2d', '9c']
-['7d', '6s']
-['Kc', '7s']
-['Kc', '7s']
-['9d', '4h']
-['Qs', 'Jh']
-['Qs', 'Jh']
-['6s', 'Jc']
-['9d', '5h']
-['9d', '5h']
-['Jd', '3h']
-['9c', '8s']
-['9c', '8s']
-['3c', 'Jh']
-['8s', 'Ks']
-['8s', 'Ks']
-['Tc', 'Qd']
-['4s', 'Td']
-['4s', 'Td']
-['As', '2s']
-['7c', 'Qc']
-['7c', 'Qc']
-['2c', '4c']
-['3h', '4h']
-['2d', '3h']
-['6c', 'Qd']
-['6c', 'Qd']
-['Qd', '4c']
-['Jd', 'Qh']
-['Jd', 'Qh']
-['Tc', 'Jd']
-['4h', 'Ah']
-['4h', 'Ah']
-['Jd', '5s']
-['Qc', '2h']
-['Qc', '2h']
-['Ts', '9s']
-['Jd', 'As']
-['Jd', 'As']
-['Jd', 'As']
-['Jd', 'As']
-['Jd', 'As']
-['Jd', 'As']
-A showdown has occured!
-['Kd', 'Js']
-['Kd', 'Js']
-['Kd', 'Js']
-['Kd', 'Js']
-['Kd', 'Js']
-['Kd', 'Js']
-A showdown has occured!
-['9d', '2d']
-['8c', 'Kd']
-['Ts', '3c']
-['Ts', '3c']
-['Th', 'Qs']
-['2h', 'Jd']
-['2h', 'Jd']
-['Qc', 'As']
-['Qc', 'As']
-['Qc', 'As']
-['Qc', 'As']
-['Qc', 'As']
-['Qc', 'As']
-A showdown has occured!
-['3h', '2s']
-['Jd', '3c']
-['Ac', '8c']
-['Ac', '8c']
-['Td', '5s']
-['7s', 'Qs']
-['7s', 'Qs']
-['8s', '9s']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-A showdown has occured!
-['7c', 'Qh']
-['9h', 'Ad']
-['9h', 'Ad']
-['9h', 'Ad']
-['9h', 'Ad']
-['9h', 'Ad']
-['9h', 'Ad']
-A showdown has occured!
-['6h', '5s']
-['3s', '5d']
-['Ad', '5c']
-['Tc', '9d']
-['Tc', '9d']
-['Kc', '5s']
-['2s', 'Ah']
-['2s', 'Ah']
-['4s', 'Qh']
-['Qs', '8c']
-['Qs', '8c']
-['Kd', 'Qc']
-['Ks', '6s']
-['Ks', '6s']
-['6h', 'Ts']
-['8d', '3c']
-['As', '4c']
-['Tc', '4h']
-['Tc', '4h']
-['5s', '6s']
-['Qc', '5s']
-['Qc', '5s']
-['2d', '8c']
-['Js', '5d']
-['Js', '5d']
-['Qd', 'Ah']
-['Qd', 'Ah']
-['Qd', 'Ah']
-['Qd', 'Ah']
-['Qd', 'Ah']
-['Qd', 'Ah']
-A showdown has occured!
-['Qs', '2h']
-['Qs', '2h']
-['5c', '7d']
-['Ac', 'Js']
-['Ac', 'Js']
-['Ac', 'Js']
-['Ac', 'Js']
-['Ac', 'Js']
-['Ac', 'Js']
-A showdown has occured!
-['7h', 'Js']
-['Jc', '4h']
-['Jc', '4h']
-['3d', 'Qc']
-['Ah', '6d']
-['Ah', '6d']
-['3c', 'Qs']
-['Jd', 'Qs']
-['Jd', 'Qs']
-['4d', '8h']
-['7s', '8s']
-['7s', '8s']
-['3c', 'Tc']
-['Ah', '4d']
-['Ah', '4d']
-['8d', '2c']
-['Ts', '8c']
-['Ts', '8c']
-['4c', '6h']
-['2s', '7c']
-['Ah', '8h']
-['3s', 'Th']
-['3s', 'Th']
-['As', '4c']
-['Th', '8h']
-['Th', '8h']
-['4d', 'Ac']
-['4s', 'Th']
-['4s', 'Th']
-['5d', '6s']
-['5d', '2c']
-['Jd', '4s']
-['3h', '8h']
-['Ac', '3c']
-['9h', 'Ks']
-['9h', 'Ks']
-['7c', 'Ks']
-['5h', 'Jd']
-['5h', 'Jd']
-['Tc', '5s']
-['Ad', '3c']
-['Ad', '3c']
-['9h', 'Ac']
-['9h', 'Ac']
-['9h', 'Ac']
-['9h', 'Ac']
-['9h', 'Ac']
-['9h', 'Ac']
-A showdown has occured!
-['6h', '2d']
-['8d', '4c']
-['8s', 'Jd']
-['8s', 'Jd']
-['5c', '2h']
-['6h', 'Th']
-['6h', 'Th']
-['Ac', 'Js']
-['4h', 'Qs']
-['4h', 'Qs']
-['Td', 'Ah']
-['7s', '4h']
-['7s', '4h']
-['Ac', 'Jc']
-['2d', 'Tc']
-['2d', 'Tc']
-['Jh', '9h']
-['Jd', '2s']
-['Jd', '2s']
-['Kc', '4h']
-['Qh', '9s']
-['Qh', '9s']
-['9s', 'Qs']
-['Jh', 'Qc']
-['Jh', 'Qc']
-['7d', '4c']
-['4c', '4d']
-['4c', '4d']
-['2d', '7d']
-['4d', 'Jc']
-['4d', 'Jc']
-['Qs', 'Qd']
-['Qs', 'Qd']
-['Qs', 'Qd']
-['Qs', 'Qd']
-['Qs', 'Qd']
-['Qs', 'Qd']
-A showdown has occured!
-['8h', 'Qd']
-['8h', 'Qd']
-['Jd', 'Ah']
-['Jh', '4c']
-['Jh', '4c']
-['8h', 'Qd']
-['7s', '8c']
-['7s', '8c']
-['8h', '8d']
-['8h', '8d']
-['8h', '8d']
-['8h', '8d']
-['8h', '8d']
-['8h', '8d']
-A showdown has occured!
-['4h', '9h']
-['Qh', '4c']
-['9d', '5s']
-['9d', '5s']
-['3s', '6s']
-['Ac', '5s']
-['Ac', '5s']
-['6h', 'Qs']
-['3c', 'Jc']
-['3c', 'Jc']
-['5s', 'Ks']
-['Kd', '8d']
-['Kd', '8d']
-['3h', '2d']
-['9c', '3h']
-['3c', '8h']
-['9s', '5s']
-['2s', '9d']
-['Th', 'Kh']
-['Th', 'Kh']
-['Kc', '5s']
-['3c', '4h']
-['3c', '4h']
-['2d', '5h']
-['2s', 'Jc']
-['2s', 'Jc']
-['4d', 'Js']
-['Th', '5d']
-['Th', '5d']
-['7d', '2d']
-['4c', '8s']
-['4c', '8s']
-['Qs', '6c']
-['Jd', 'Ks']
-['Jd', 'Ks']
-['7s', '5h']
-['7s', 'Jc']
-['7s', 'Jc']
-['Ad', '6c']
-['8s', '7s']
-['8s', '7s']
-['Kc', '7s']
-['3h', '3c']
-['3h', '3c']
-['2s', '3h']
-['Jd', '4s']
-['Jd', '4s']
-['4d', '3h']
-['Th', '7d']
-['Th', '7d']
-['As', '9c']
-['As', '9c']
-['As', '9c']
-['As', '9c']
-['As', '9c']
-['As', '9c']
-A showdown has occured!
-['5h', '8d']
-['5h', '8d']
-['4c', 'Qh']
-['8s', '4h']
-['8s', '4h']
-['7h', '5c']
-['Ah', '7d']
-['Ah', '7d']
-['Jd', 'Ad']
-['Js', '8s']
-['Js', '8s']
-['6h', '8c']
-['2h', 'As']
-['2h', 'As']
-['5c', '9d']
-['9c', '8h']
-['9c', '8h']
-['7h', '2c']
-['8s', '3d']
-['Kd', '5h']
-['6d', '4d']
-['9d', '8h']
-['7s', 'Ac']
-['7s', 'Ac']
-['Th', '3d']
-['7c', '5s']
-['7c', '5s']
-['Th', '4d']
-['Qd', '9s']
-['Qd', '9s']
-['8h', '8s']
-['8h', '8s']
-['8h', '8s']
-['8h', '8s']
-['8h', '8s']
-['8h', '8s']
-A showdown has occured!
-['Ks', 'Qh']
-['Ks', 'Qh']
-['Ac', '2c']
-['6d', '5c']
-['6d', '5c']
-['Js', '4c']
-['9c', 'Qd']
-['9c', 'Qd']
-['5h', 'Kd']
-['2h', 'Qc']
-['2h', 'Qc']
-['9d', '6c']
-['Qd', 'Tc']
-['Qd', 'Tc']
-['7s', '3s']
-['Js', '8d']
-['Js', '8d']
-['Th', 'Kh']
-['5s', 'Tc']
-['5s', 'Tc']
-['As', '7h']
-['3h', 'As']
-['3h', 'As']
-['9h', '4d']
-['4s', '2d']
-['As', 'Ah']
-['As', 'Ah']
-['As', 'Ah']
-['As', 'Ah']
-['As', 'Ah']
-['As', 'Ah']
-A showdown has occured!
-['Ad', '9d']
-['Ad', '9d']
-['3c', 'Ts']
-['Kh', '6d']
-['Kh', '6d']
-['Th', '6h']
-['Ts', '2d']
-['Ts', '2d']
-['Kc', 'Kd']
-['Kc', 'Kd']
-['Kc', 'Kd']
-['Kc', 'Kd']
-['Kc', 'Kd']
-['Kc', 'Kd']
-A showdown has occured!
-['5h', 'Kc']
-['5h', 'Kc']
-['Kd', 'Ah']
-['Kd', 'Ah']
-['Kd', 'Ah']
-['Kd', 'Ah']
-['Kd', 'Ah']
-['Kd', 'Ah']
-A showdown has occured!
-['3d', '3c']
-['3d', '3c']
-['Qs', '2d']
-['Ah', '6d']
-['Ah', '6d']
-['7s', '9c']
-['6c', '4h']
-['6c', '4h']
-['9s', 'Js']
-['Qd', '2s']
-['Qd', '2s']
-['4c', '9h']
-['5s', '4c']
-['5s', '4c']
-['Js', '6s']
-['6s', '4c']
-['6s', '4c']
-['Kd', 'Kh']
-['Kd', 'Kh']
-['Kd', 'Kh']
-['Kd', 'Kh']
-['Kd', 'Kh']
-['Kd', 'Kh']
-A showdown has occured!
-['4h', '9d']
-['4h', '9d']
-['9s', 'Jh']
-['9s', 'Qs']
-['9s', 'Qs']
-['Kd', '8c']
-['Ks', '6c']
-['Ks', '6c']
-['Ac', '8h']
-['Jd', '4h']
-['Jd', '4h']
-['Qs', '5h']
-['Qs', '2c']
-['Qs', '2c']
-['9d', '2h']
-['Ac', 'Kh']
-['Ac', 'Kh']
-['Ac', 'Kh']
-['Ac', 'Kh']
-['Ac', 'Kh']
-['Ac', 'Kh']
-A showdown has occured!
-['Td', 'Jc']
-['8d', 'Ks']
-['8d', 'Ks']
-['Td', 'Ah']
-['Td', 'Ah']
-['Td', 'Ah']
-['Td', 'Ah']
-['Td', 'Ah']
-['Td', 'Ah']
-A showdown has occured!
-['8h', 'As']
-['8h', 'As']
-['Td', '8d']
-['6h', '9d']
-['6h', '9d']
-['6d', 'Ac']
-['9h', '4c']
-['9h', '4c']
-['3s', 'Ac']
-['5s', '6s']
-['Kh', 'Ts']
-['2c', 'Ad']
-['2c', 'Ad']
-['Kc', '4c']
-['4h', 'Jd']
-['4h', 'Jd']
-['3s', '9c']
-['Tc', '9s']
-['Tc', '9s']
-['Qh', '9c']
-['As', '3d']
-['As', '3d']
-['Jd', '3h']
-['3c', '8d']
-['4s', '8h']
-['Td', '3h']
-['Td', '3h']
-['3s', '2s']
-['3h', 'Jh']
-['3h', 'Jh']
-['4s', '2h']
-['9h', 'Ah']
-['9h', 'Ah']
-['Jh', '8c']
-['2h', '7s']
-['2h', '7s']
-['2d', '2c']
-['Kd', '2d']
-['Kd', '2d']
-['Kc', 'Ts']
-['6s', 'Qc']
-['6s', 'Qc']
-['9h', 'Qc']
-['Ah', 'Js']
-['Ah', 'Js']
-['Ah', 'Js']
-['Ah', 'Js']
-['Ah', 'Js']
-['Ah', 'Js']
-A showdown has occured!
-['Kh', '7h']
-['3c', 'Qh']
-['3c', 'Qh']
-['2d', 'Td']
-['9s', '6h']
-['9s', '6h']
-['Ts', '3h']
-['Qh', '9s']
-['Qh', '9s']
-['5c', 'Kc']
-['Kc', 'Kd']
-['Kc', 'Kd']
-['Kc', 'Kd']
-['Kc', 'Kd']
-['Kc', 'Kd']
-['Kc', 'Kd']
-A showdown has occured!
-['Qs', '6s']
-['7d', '8s']
-['7d', '8s']
-['9s', 'As']
-['2c', '8d']
-['Td', 'Th']
-['Td', 'Th']
-['Td', 'Th']
-['Td', 'Th']
-['Td', 'Th']
-['Td', 'Th']
-A showdown has occured!
-['Qc', 'Ah']
-['Qc', 'Ah']
-['Qc', 'Ah']
-['Qc', 'Ah']
-['Qc', 'Ah']
-['Qc', 'Ah']
-A showdown has occured!
-['Kc', '7c']
-['6d', 'Ks']
-['6d', 'Ks']
-['Ac', '9h']
-['Ac', '9h']
-['Ac', '9h']
-['Ac', '9h']
-['Ac', '9h']
-['Ac', '9h']
-A showdown has occured!
-['2s', '3s']
-['Kc', 'Td']
-['Jd', 'Qc']
-['Jd', 'Qc']
-['Qs', '6d']
-['8s', '5s']
-['8s', '5s']
-['3s', '9s']
-['7c', '9c']
-['7c', '9c']
-['Kc', '6s']
-['7s', '9h']
-['7s', '9h']
-['As', '6h']
-['Kd', '4s']
-['Kd', '4s']
-['Jh', '6s']
-['4h', '8s']
-['4h', '8s']
-['7s', 'Th']
-['9s', 'Kc']
-['9s', 'Kc']
-['8s', 'Qh']
-['7s', '2c']
-['7s', '2c']
-['Ks', 'Td']
-['Jd', 'Ac']
-['Jd', 'Ac']
-['Jd', 'Ac']
-['Jd', 'Ac']
-['Jd', 'Ac']
-['Jd', 'Ac']
-A showdown has occured!
-['Ks', '5d']
-['6d', '9h']
-['6d', '9h']
-['6h', '4c']
-['Td', 'Jd']
-['Td', 'Jd']
-['9s', '5s']
-['Qd', '3c']
-['Qd', '3c']
-['Kd', '5s']
-['Qh', 'Qs']
-['Qh', 'Qs']
-['Qh', 'Qs']
-['Qh', 'Qs']
-['Qh', 'Qs']
-['Qh', 'Qs']
-A showdown has occured!
-['7h', 'Ac']
-['Kc', 'Qh']
-['Kc', 'Qh']
-['3s', '4s']
-['Ac', '2d']
-['Ac', '2d']
-['Kd', '2s']
-['4d', '4c']
-['4d', '4c']
-['5s', '4c']
-['4c', '6c']
-['5c', '6s']
-['Jd', '7d']
-['Jd', '7d']
-['Ts', '5d']
-['Jh', '7h']
-['Jh', '7h']
-['Qc', 'Jh']
-['8s', '7h']
-['8s', '7h']
-['Qs', '2s']
-['5h', '5c']
-['5h', '5c']
-['8h', '5h']
-['Qh', '7h']
-['Qh', '7h']
-['5h', '2c']
-['8c', '3d']
-['2c', 'Td']
-['4s', '7s']
-['7h', 'Ks']
-['Kc', '5d']
-['Kc', '5d']
-['4s', 'Th']
-['7h', '7c']
-['7h', '7c']
-['7h', '7c']
-['7h', '7c']
-['7h', '7c']
-['7h', '7c']
-A showdown has occured!
-['5h', '9h']
-['Kc', 'Qs']
-['Kc', 'Qs']
-['Jc', 'Kh']
-['Jc', 'Kh']
-['Jc', 'Kh']
-['Jc', 'Kh']
-['Jc', 'Kh']
-['Jc', 'Kh']
-A showdown has occured!
-['Jc', '7h']
-['Jc', '7h']
-['Qd', '8s']
-['Qs', '3s']
-['Qs', '3s']
-['Jh', '4d']
-['Kd', '4c']
-['Kd', '4c']
-['6s', '4d']
-['Qd', '4d']
-['Qd', '4d']
-['Ad', 'Ac']
-['Ad', 'Ac']
-['Ad', 'Ac']
-['Ad', 'Ac']
-['Ad', 'Ac']
-['Ad', 'Ac']
-A showdown has occured!
-['Jc', '7s']
-['Jc', '7s']
-['8c', '3c']
-['9d', '4d']
-['9d', '4d']
-['Qc', '5s']
-['7c', 'Jd']
-['7c', 'Jd']
-['5d', '7d']
-['2d', 'Qd']
-['2d', 'Qd']
-['6h', '8c']
-['Jd', '5h']
-['Jd', '5h']
-['Jc', 'Tc']
-['Tc', '5h']
-['Tc', '5h']
-['Td', '2c']
-['Jd', '3d']
-['Jd', '3d']
-['Jd', '6c']
-['Ks', '2d']
-['Ks', '2d']
-['Ad', 'Tc']
-['Ad', 'Tc']
-['Ad', 'Tc']
-['Ad', 'Tc']
-['Ad', 'Tc']
-['Ad', 'Tc']
-A showdown has occured!
-['3d', '6h']
-['9h', '5d']
-['Qs', '3c']
-['Qs', '3c']
-['Jd', '8c']
-['8h', '9h']
-['8h', '9h']
-['Qs', 'Jh']
-['5s', '7d']
-['5s', '7d']
-['Tc', 'Ac']
-['2c', 'Tc']
-['2c', 'Tc']
-['Js', '2h']
-['2c', '4d']
-['5c', '3h']
-['Ad', 'Kh']
-['Ad', 'Kh']
-['Ad', 'Kh']
-['Ad', 'Kh']
-['Ad', 'Kh']
-['Ad', 'Kh']
-A showdown has occured!
-['3c', '4c']
-['Th', '4h']
-['Th', '4h']
-['8h', '8s']
-['8h', '8s']
-['8h', '8s']
-['8h', '8s']
-['8h', '8s']
-['8h', '8s']
-A showdown has occured!
-['2s', 'Tc']
-['2s', 'Tc']
-['5d', '2d']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-A showdown has occured!
-['Th', 'Td']
-['Th', 'Td']
-['Th', 'Td']
-['Th', 'Td']
-['Th', 'Td']
-['Th', 'Td']
-A showdown has occured!
-['4d', '8h']
-['4d', '8h']
-['7h', 'Ac']
-['6c', '5h']
-['6c', '5h']
-['Js', '9c']
-['Jd', '6h']
-['Jd', '6h']
-['5s', '8s']
-['5c', '9s']
-['5c', '9s']
-['6c', '9d']
-['7h', 'As']
-['7h', 'As']
-['6d', 'Kd']
-['3s', 'Ac']
-['3s', 'Ac']
-['9d', 'Qd']
-['Kd', '3c']
-['Kd', '3c']
-['As', '3d']
-['4h', '8h']
-['8d', '3d']
-['Ks', '4h']
-['Ks', '4h']
-['5h', 'Qs']
-['2d', 'As']
-['2d', 'As']
-['2d', '3d']
-['Jc', 'Ah']
-['Jc', 'Ah']
-['8d', 'Js']
-['4h', '8h']
-['9s', '4d']
-['Ad', '6d']
-['Ad', '6d']
-['7h', '7c']
-['7h', '7c']
-['7h', '7c']
-['7h', '7c']
-['7h', '7c']
-['7h', '7c']
-A showdown has occured!
-['3d', '3c']
-['3d', '3c']
-['2c', 'Qs']
-['Ad', 'Jc']
-['Ad', 'Jc']
-['Ad', '6c']
-['Ad', '9d']
-['Ad', '9d']
-['Kd', '4s']
-['7h', '6h']
-['7h', '6h']
-['Td', '5d']
-['5s', '5d']
-['5s', '5d']
-['4c', '4h']
-['8s', 'Jc']
-['8s', 'Jc']
-['9h', '9d']
-['9h', '9d']
-['9h', '9d']
-['9h', '9d']
-['9h', '9d']
-['9h', '9d']
-A showdown has occured!
-['Ks', 'Qd']
-['Ks', 'Qd']
-['3h', '9h']
-['3c', '4d']
-['3c', '4d']
-['Jd', '2s']
-['Ah', '9h']
-['Ah', '9h']
-['5h', 'Qc']
-['Qd', 'Qh']
-['Qd', 'Qh']
-['Qd', 'Qh']
-['Qd', 'Qh']
-['Qd', 'Qh']
-['Qd', 'Qh']
-A showdown has occured!
-['Jd', '6d']
-['2c', '3h']
-['3d', '5h']
-['Ah', '5h']
-['Ah', '5h']
-['4c', 'Ah']
-['Qh', '3s']
-['Qh', '3s']
-['8h', '9h']
-['8h', 'Ah']
-['8h', 'Ah']
-['Qh', '3d']
-['6c', '8s']
-['6c', '8s']
-['4c', '7c']
-['8s', '5c']
-['8s', '5c']
-['Tc', '2d']
-['5s', '9s']
-['9h', '7h']
-['9h', 'As']
-['9h', 'As']
-['9h', 'As']
-['9h', 'As']
-['9h', 'As']
-['9h', 'As']
-A showdown has occured!
-['Ts', '6c']
-['5s', 'Ac']
-['5s', 'Ac']
-['2d', '8c']
-['6c', '9s']
-['6c', '9s']
-['5c', '7d']
-['9h', '6d']
-['9h', '6d']
-['2h', '3c']
-['Ts', '6h']
-['Ts', '6h']
-['5h', 'Td']
-['Ad', '2c']
-['Ad', '2c']
-['Qh', 'Kd']
-['Ah', '2d']
-['Ah', '2d']
-['As', '5s']
-['Qs', 'Ac']
-['Qs', 'Ac']
-['Qs', 'Ac']
-['Qs', 'Ac']
-['Qs', 'Ac']
-['Qs', 'Ac']
-A showdown has occured!
-['3d', '9c']
-['4c', 'Qs']
-['4c', 'Qs']
-['Kh', 'As']
-['Kh', 'As']
-['Kh', 'As']
-['Kh', 'As']
-['Kh', 'As']
-['Kh', 'As']
-A showdown has occured!
-['Kd', 'Qs']
-['Kd', 'Qs']
-['Kh', '8d']
-['As', '4d']
-['As', '4d']
-['Qs', '7c']
-['9h', '4c']
-['Qc', '8c']
-['5d', 'Qh']
-['5d', 'Qh']
-['Ac', '7d']
-['4d', 'Qd']
-['4d', 'Qd']
-['5h', 'Kh']
-['6s', '3s']
-['Qs', '5h']
-['5c', '9h']
-['5c', '9h']
-['7d', 'Kh']
-['9d', 'Ad']
-['9d', 'Ad']
-['7d', '4d']
-['3s', '8h']
-['Qc', '2c']
-['3h', 'Kd']
-['3h', 'Kd']
-['6h', 'Kh']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-['Kc', 'As']
-A showdown has occured!
-['2c', '6d']
-['5h', 'Qs']
-['5h', 'Qs']
-['4d', '3h']
-['Qc', '6c']
-['Qc', '6c']
-['2c', 'Kd']
-['5s', 'Ts']
-['6d', '5c']
-['Ah', '3d']
-['Ah', '3d']
-['Td', 'Qs']
-['9d', 'Kd']
-['9d', 'Kd']
-['9c', 'Ac']
-['Kc', '2d']
-['Kc', '2d']
-['3c', '2s']
-['Js', '2h']
-['Th', '8h']
-['8c', 'Jd']
-['8c', 'Jd']
-['2d', 'Qs']
-['Qd', '9s']
-['Qd', '9s']
-['4h', 'Jc']
-['Kc', 'Kh']
-['Kc', 'Kh']
-['Kc', 'Kh']
-['Kc', 'Kh']
-['Kc', 'Kh']
-['Kc', 'Kh']
-A showdown has occured!
-['4d', 'Qd']
-['5h', '7s']
-['5h', '7s']
-['8s', 'Qs']
-['Th', '3d']
-['Th', '3d']
-['5h', '4s']
-['5s', 'Kh']
-['5s', 'Kh']
-['Kd', '5d']
-['Jh', '6s']
-['Jh', '6s']
-['Js', '4s']
-['Tc', 'Ac']
-['Tc', 'Ac']
-['Qh', '5c']
-['Tc', '6d']
-['Tc', '6d']
-['Kd', '3s']
-['6d', '5h']
-['6d', '5h']
-['5h', '5s']
-['Kc', 'Qc']
-['Kc', 'Qc']
-['Th', '6s']
-['Ah', 'Ts']
-['Ah', 'Ts']
-['8c', '7d']
-['Js', 'Ks']
-['Js', 'Ks']
-['9h', '4c']
-['2c', '7d']
-['9d', '3s']
-['7d', '2s']
-['7h', 'Qh']
-['5s', '5d']
-['5s', '5d']
-['Td', 'Jc']
-['Qh', '3c']
-['Qh', '3c']
-['Kd', '3h']
-['Kc', 'Jd']
-['Kc', 'Jd']
-['5d', '7c']
-['7d', 'Qs']
-['7d', 'Qs']
-['5s', '5h']
-['6d', '7h']
-['6d', '7h']
-['Qh', '8c']
-['8d', '6s']
-['8d', '6s']
-['2c', '8c']
-['9s', 'Ks']
-['9s', 'Ks']
-['6h', '7d']
-['6c', '6h']
-['6c', '6h']
-['Jc', 'Ts']
-['Ks', 'Js']
-['Ks', 'Js']
-['9d', 'Qd']
-['Jh', 'Qd']
-['Jh', 'Qd']
-['As', 'Ts']
-['Tc', 'Kd']
-['Tc', 'Kd']
-['Jd', '6c']
-['4d', 'Kh']
-['4d', 'Kh']
-['Qd', 'Jd']
-['Js', '7h']
-['Js', '7h']
-['4s', 'Ts']
-['Ts', '8h']
-['Ts', '8h']
-['Ac', '6c']
-['7h', 'Jd']
-['7h', 'Jd']
-['2s', '6h']
-['Jc', '7c']
-['Jc', '7c']
-['Kd', '3s']
-['Jc', 'Ac']
-['Jc', 'Ac']
-['2h', '8s']
-['3c', '8h']
-['6h', '2d']
-['Ad', '3s']
-['Ad', '3s']
-['Ah', 'Ts']
-['Qd', 'Kd']
-['Qd', 'Kd']
-['Ks', '3d']
-['Th', 'Jh']
-['Th', 'Jh']
-['Qc', '7h']
-['Ts', '6h']
-['Ts', '6h']
-['Jd', '5s']
-['5s', 'Td']
-['5s', 'Td']
-['9c', 'Qs']
-['3s', '4d']
-['Kc', '9s']
-['4c', 'Ts']
-['4c', 'Ts']
-['2c', 'Js']
-['7h', 'Js']
-['7h', 'Js']
-['7s', '4d']
-['Js', 'Qd']
-['Js', 'Qd']
-['6h', '7c']
-['8d', '4s']
-['8d', '4s']
-['9c', 'Ah']
-['9c', 'Ah']
-['9c', 'Ah']
-['9c', 'Ah']
-['9c', 'Ah']
-['9c', 'Ah']
-A showdown has occured!
-['Td', 'Kd']
-['Td', 'Kd']
-['Kd', '6d']
-['8s', 'Td']
-['8s', 'Td']
-['6s', 'Jd']
-['Js', 'Jc']
-['Js', 'Jc']
-['Js', 'Jc']
-['Js', 'Jc']
-['Js', 'Jc']
-['Js', 'Jc']
-A showdown has occured!
-['9d', 'Qd']
-['6s', 'Kd']
-['6s', 'Kd']
-['8h', 'Qh']
-['3h', '9d']
-['Js', '8h']
-['8s', 'Ad']
-['8s', 'Ad']
-['Kh', '2h']
-['Qd', 'Tc']
-['Qd', 'Tc']
-['2s', 'Js']
-['Ks', '3d']
-['Ks', '3d']
-['9c', 'Qs']
-['Th', '2c']
-['Th', '2c']
-['3d', '3h']
-['6s', '7c']
-['6s', '7c']
-['Jh', 'Qd']
-['7c', 'Ac']
-['7c', 'Ac']
-['Ah', '7s']
-['Jc', '9s']
-['Jc', '9s']
-['Js', 'Qs']
-['Ks', 'Td']
-['Ks', 'Td']
-['Qs', '3h']
-['3d', '2s']
-['9c', 'Th']
-['3d', '5h']
-['Ks', '3h']
-['6s', '2h']
-['Ac', 'Qs']
-['Ac', 'Qs']
-['Ac', 'Qs']
-['Ac', 'Qs']
-['Ac', 'Qs']
-['Ac', 'Qs']
-A showdown has occured!
-['Qh', '6d']
-['Qh', '6d']
-['3d', '5c']
-['Ah', '9c']
-['Ah', '9c']
-['9d', '4c']
-['As', 'Td']
-['As', 'Td']
-['Ad', '3d']
-['Qd', 'Kc']
-['Qd', 'Kc']
-['9d', '7c']
-['Ad', '4h']
-['Ad', '4h']
-['9c', '3s']
-['6c', '4d']
-['6c', '4d']
-['Tc', '4h']
-['Ad', '2d']
-['Ad', '2d']
-['4s', '7c']
-['Kd', '8h']
-['Kd', '8h']
-['3c', 'Jc']
-['6s', 'Td']
-['6s', 'Td']
-['8s', 'Ad']
-['9d', 'Qs']
-['9d', 'Qs']
-['Ts', '4h']
-['6c', '4c']
-['6c', '4d']
-['9s', '4s']
-['Js', '6c']
-['3c', '4d']
-['Ks', '6s']
-['Ks', 'Ah']
-['Ks', 'Ah']
-['Qh', 'Jc']
-['9d', '9s']
-['9d', '9s']
-['9d', '9s']
-['9d', '9s']
-['9d', '9s']
-['9d', '9s']
-A showdown has occured!
-['9h', '3d']
-['2d', 'Qs']
-['2d', 'Qs']
-['2h', 'Kd']
-['2s', '7s']
-['7c', '5d']
-['Jh', '2s']
-['5s', '8d']
-['4d', '4c']
-['4d', '4c']
-['5h', 'Kd']
-['9d', 'Ad']
-['9d', 'Ad']
-['4d', '7d']
-['3d', '5s']
-['Qs', 'Jc']
-['5d', '3h']
-['Td', '9h']
-['Qs', '3d']
-['Qs', '3d']
-['3s', '5s']
-['6d', 'Qd']
-['6d', 'Qd']
-['Th', 'Td']
-['Th', 'Td']
-['Th', 'Td']
-['Th', 'Td']
-['Th', 'Td']
-['Th', 'Td']
-A showdown has occured!
-['5s', '4h']
-['9s', '8s']
-['Qh', 'Jh']
-['Qh', 'Jh']
-['Qh', '4h']
-['3s', 'Ac']
-['3s', 'Ac']
-['2s', 'Js']
-['Qs', 'Th']
-['Qs', 'Th']
-['2s', '8c']
-['3c', 'Ad']
-['3c', 'Ad']
-['Ks', 'Jd']
-['Ts', 'Tc']
-['Ts', 'Tc']
-['Ts', 'Tc']
-['Ts', 'Tc']
-['Ts', 'Tc']
-['Ts', 'Tc']
-A showdown has occured!
-['Qh', '4h']
-['As', '3c']
-['As', '3c']
-['8h', '9c']
-['Jd', '5d']
-['Jd', '5d']
-['9h', 'Ac']
-['As', '7d']
-['As', '7d']
-['8h', 'Ad']
-['Jc', '5c']
-['Jc', '5c']
-['9c', 'Qh']
-['Ts', 'Ac']
-['Ts', 'Ac']
-['2c', '7h']
-['8s', '5h']
-['Kd', '3c']
-['Jh', '2s']
-['5d', 'Jc']
-['Qc', 'Kd']
-['Qc', 'Kd']
-['Th', '8s']
-['4h', '8h']
-['Jc', '3h']
-['6s', 'Kh']
-['6s', 'Kh']
-['6d', 'Ac']
-['8d', '7d']
-['8d', '7d']
-['5h', '4h']
-['8d', 'Qs']
-['8d', 'Qs']
-['Ac', '6h']
-['2h', 'Kc']
-['2h', 'Kc']
-['6d', 'Jh']
-['8c', 'Qc']
-['8c', 'Qc']
-['Ac', 'Kh']
-['7d', '2h']
-['8h', '8s']
-['3d', '8s']
-['8s', '5h']
-['4s', 'Kd']
-['4s', 'Kd']
-['7h', 'Kc']
-['5d', 'Kc']
-['5d', 'Kc']
-['8h', 'Js']
-['Ad', '2h']
-['Ad', '2h']
-['7s', 'Kc']
-['5c', 'Ad']
-['5c', 'Ad']
-['9d', '4s']
-['Qc', 'As']
-['Qc', 'As']
-['8s', '2d']
-['Js', '3s']
-['Js', '2h']
-['9s', 'Qc']
-['9s', 'Qc']
-['Ac', '5s']
-['As', '2h']
-['As', '2h']
-['5s', '4d']
-['8d', '9c']
-['8d', '9c']
-['Qc', '6s']
-['Kh', '8h']
-['Kh', '8h']
-['5s', 'Jc']
-24.877
-['5h', '5c']
-['5h', '5c']
+--------Round 1 -------------
+Preflop strenght: 0.45825000000000005
+--------Round 2 -------------
+Preflop strenght: 0.53675
+--------Round 3 -------------
+Preflop strenght: 0.508
+Flop Strength: 0.6
+Turn Strength: 0.565
+River Strength: 0.63
+--------Round 4 -------------
+Preflop strenght: 0.56725
+Flop Strength: 0.425
+Turn Strength: 0.375
+River Strength: 0.4483333333333333
+--------Round 5 -------------
+Preflop strenght: 0.45825
+--------Round 6 -------------
+Preflop strenght: 0.6819999999999999
+Flop Strength: 0.53
+Turn Strength: 0.4766666666666667
+River Strength: 0.43
+--------Round 7 -------------
+--------Round 8 -------------
+Preflop strenght: 0.4405
+--------Round 9 -------------
+Preflop strenght: 0.43725
+Flop Strength: 0.37166666666666665
+Flop Strength: 0.4116666666666667
+pot odds: 0.24899598393574296
+Turn Strength: 0.8066666666666666
+River Strength: 0.85
+--------Round 10 -------------
+Preflop strenght: 0.47275
+Flop Strength: 0.72
+Flop Strength: 0.755
+pot odds: 0.22661870503597123
+Flop Strength: 0.6983333333333334
+pot odds: 0.14696485623003194
+Turn Strength: 0.9083333333333333
+River Strength: 0.77
+--------Round 11 -------------
+Preflop strenght: 0.39
+Flop Strength: 0.6016666666666667
+--------Round 12 -------------
+Preflop strenght: 0.552
+Preflop strenght: 0.552
+Flop Strength: 0.47
+Turn Strength: 0.745
+River Strength: 0.72
+--------Round 13 -------------
+Preflop strenght: 0.42600000000000005
+Flop Strength: 0.7033333333333334
+Flop Strength: 0.73
+pot odds: 0.25
+Flop Strength: 0.6983333333333334
+pot odds: 0.16573033707865167
+Turn Strength: 0.75
+Turn Strength: 0.7666666666666667
+pot odds: 0.17255434782608695
+River Strength: 0.8
+--------Round 14 -------------
+Preflop strenght: 0.46149999999999997
+--------Round 15 -------------
+--------Round 16 -------------
+Preflop strenght: 0.44975
+--------Round 17 -------------
+Preflop strenght: 0.44975
+Flop Strength: 0.3
+Turn Strength: 0.18833333333333332
+River Strength: 0.04833333333333333
+--------Round 18 -------------
+Preflop strenght: 0.6819999999999999
+--------Round 19 -------------
+Preflop strenght: 0.601
+Flop Strength: 0.83
+--------Round 20 -------------
+Preflop strenght: 0.45699999999999996
+--------Round 21 -------------
+--------Round 22 -------------
+Preflop strenght: 0.48350000000000004
+--------Round 23 -------------
+Preflop strenght: 0.39649999999999996
+--------Round 24 -------------
+Preflop strenght: 0.563
+Flop Strength: 0.5
+pot odds: 0.39574468085106385
+Turn Strength: 0.5016666666666667
+River Strength: 0.37
+--------Round 25 -------------
+--------Round 26 -------------
+Preflop strenght: 0.4695
+--------Round 27 -------------
+--------Round 28 -------------
+Preflop strenght: 0.5215000000000001
+Flop Strength: 0.46
+Turn Strength: 0.37833333333333335
+River Strength: 0.275
+--------Round 29 -------------
+Preflop strenght: 0.4415
+Flop Strength: 0.4166666666666667
+Turn Strength: 0.43
+River Strength: 0.0
+--------Round 30 -------------
+Preflop strenght: 0.5257499999999999
+Flop Strength: 0.8666666666666667
+Turn Strength: 0.8016666666666666
+River Strength: 0.0033333333333333335
+pot odds: 0.3201024327784891
+--------Round 31 -------------
+Preflop strenght: 0.519
+--------Round 32 -------------
+Preflop strenght: 0.5395
+Preflop strenght: 0.5395
+Flop Strength: 0.5666666666666667
+Turn Strength: 0.57
+pot odds: 0.24918032786885247
+River Strength: 0.0
+--------Round 33 -------------
+Preflop strenght: 0.49650000000000005
+--------Round 34 -------------
+Preflop strenght: 0.6040000000000001
+Flop Strength: 0.28
+Turn Strength: 0.34833333333333333
+River Strength: 0.0
+pot odds: 0.25
+--------Round 35 -------------
+--------Round 36 -------------
+Preflop strenght: 0.41150000000000003
+--------Round 37 -------------
+Preflop strenght: 0.47450000000000003
+Flop Strength: 0.405
+Turn Strength: 0.20666666666666667
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.25
+--------Round 38 -------------
+Preflop strenght: 0.5485
+Preflop strenght: 0.5485
+Flop Strength: 0.515
+Turn Strength: 0.625
+River Strength: 0.0033333333333333335
+--------Round 39 -------------
+--------Round 40 -------------
+Preflop strenght: 0.50075
+Flop Strength: 0.6616666666666666
+pot odds: 0.37593984962406013
+Turn Strength: 0.8
+pot odds: 0.2490566037735849
+Turn Strength: 0.8166666666666667
+pot odds: 0.1669064748201439
+River Strength: 0.0033333333333333335
+--------Round 41 -------------
+Preflop strenght: 0.5257499999999999
+Flop Strength: 0.9616666666666667
+--------Round 42 -------------
+Preflop strenght: 0.5587500000000001
+Preflop strenght: 0.5587500000000001
+Flop Strength: 0.44666666666666666
+pot odds: 0.24914675767918087
+Turn Strength: 0.5983333333333334
+River Strength: 0.0033333333333333335
+pot odds: 0.24957264957264957
+--------Round 43 -------------
+--------Round 44 -------------
+Preflop strenght: 0.4825
+Preflop strenght: 0.4825
+--------Round 45 -------------
+Preflop strenght: 0.5565
+Flop Strength: 0.6233333333333333
+Turn Strength: 0.6366666666666667
+River Strength: 0.0
+--------Round 46 -------------
+Preflop strenght: 0.5587500000000001
+Flop Strength: 0.19833333333333333
+Turn Strength: 0.15
+pot odds: 0.24921135646687698
+--------Round 47 -------------
+Preflop strenght: 0.6040000000000001
+--------Round 48 -------------
+Preflop strenght: 0.54325
+Preflop strenght: 0.54325
+Flop Strength: 0.48
+Turn Strength: 0.38
+River Strength: 0.0
+--------Round 49 -------------
+--------Round 50 -------------
+Preflop strenght: 0.58375
+Preflop strenght: 0.58375
+Flop Strength: 0.5683333333333334
+Turn Strength: 0.485
+River Strength: 0.0033333333333333335
+--------Round 51 -------------
+Preflop strenght: 0.5285
+Flop Strength: 0.71
+Turn Strength: 0.7333333333333333
+Turn Strength: 0.7
+pot odds: 0.22727272727272727
+River Strength: 0.0033333333333333335
+--------Round 52 -------------
+Preflop strenght: 0.39649999999999996
+--------Round 53 -------------
+Preflop strenght: 0.45825000000000005
+--------Round 54 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght: 0.49650000000000005
+Flop Strength: 0.52
+pot odds: 0.24932249322493225
+Turn Strength: 0.4216666666666667
+River Strength: 0.0
+--------Round 55 -------------
+Preflop strenght: 0.58925
+Flop Strength: 0.6016666666666667
+Turn Strength: 0.6066666666666667
+River Strength: 0.0033333333333333335
+--------Round 56 -------------
+Preflop strenght: 0.48850000000000005
+Flop Strength: 0.42333333333333334
+Turn Strength: 0.3516666666666667
+River Strength: 0.0
+--------Round 57 -------------
+--------Round 58 -------------
+Preflop strenght: 0.47075
+Flop Strength: 0.3233333333333333
+pot odds: 0.42016806722689076
+--------Round 59 -------------
+Preflop strenght: 0.423
+Flop Strength: 0.6
+Turn Strength: 0.46
+Turn Strength: 0.51
+pot odds: 0.24817518248175183
+River Strength: 0.0
+--------Round 60 -------------
+Preflop strenght: 0.475
+Flop Strength: 0.18833333333333332
+Turn Strength: 0.37833333333333335
+River Strength: 0.0033333333333333335
+--------Round 61 -------------
+Preflop strenght: 0.42825
+--------Round 62 -------------
+Preflop strenght: 0.502
+Flop Strength: 0.175
+Turn Strength: 0.21833333333333332
+River Strength: 0.0
+--------Round 63 -------------
+--------Round 64 -------------
+Preflop strenght: 0.45725000000000005
+--------Round 65 -------------
+Preflop strenght: 0.45825000000000005
+Flop Strength: 0.455
+Turn Strength: 0.8233333333333334
+River Strength: 0.0
+--------Round 66 -------------
+Preflop strenght: 0.53675
+Preflop strenght: 0.53675
+Flop Strength: 0.30666666666666664
+Turn Strength: 0.25666666666666665
+River Strength: 0.0033333333333333335
+--------Round 67 -------------
+Preflop strenght: 0.5485
+Flop Strength: 0.245
+Turn Strength: 0.36333333333333334
+River Strength: 0.0
+--------Round 68 -------------
+Preflop strenght: 0.508
+Preflop strenght: 0.508
+Flop Strength: 0.41833333333333333
+Turn Strength: 0.39
+River Strength: 0.0
+--------Round 69 -------------
+Preflop strenght: 0.423
+Flop Strength: 0.495
+Turn Strength: 0.8333333333333334
+Turn Strength: 0.8266666666666667
+pot odds: 0.21372031662269128
+River Strength: 0.0033333333333333335
+--------Round 70 -------------
+Preflop strenght: 0.48325
+Flop Strength: 0.5166666666666667
+Turn Strength: 0.52
+pot odds: 0.24873096446700507
+River Strength: 0.0
+pot odds: 0.24936386768447838
+--------Round 71 -------------
+--------Round 72 -------------
+Preflop strenght: 0.563
+Flop Strength: 0.6533333333333333
+--------Round 73 -------------
+Preflop strenght: 0.4345
+--------Round 74 -------------
+Preflop strenght: 0.532
+Preflop strenght: 0.532
+Flop Strength: 0.545
+Turn Strength: 0.5166666666666667
+River Strength: 0.0
+--------Round 75 -------------
+--------Round 76 -------------
+Preflop strenght: 0.6175
+--------Round 77 -------------
+Preflop strenght: 0.46199999999999997
+--------Round 78 -------------
+Preflop strenght: 0.502
+--------Round 79 -------------
+Preflop strenght: 0.58375
+Flop Strength: 0.74
+Flop Strength: 0.695
+pot odds: 0.22662889518413598
+Turn Strength: 0.6633333333333333
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.11095700416088766
+--------Round 80 -------------
+Preflop strenght: 0.4415
+--------Round 81 -------------
+Preflop strenght: 0.523
+Flop Strength: 0.4583333333333333
+Turn Strength: 0.4116666666666667
+River Strength: 0.0
+--------Round 82 -------------
+Preflop strenght: 0.504
+Flop Strength: 0.53
+Turn Strength: 0.36
+River Strength: 0.0033333333333333335
+--------Round 83 -------------
+Preflop strenght: 0.4375
+--------Round 84 -------------
+Preflop strenght: 0.474
+Flop Strength: 0.245
+Turn Strength: 0.23666666666666666
+River Strength: 0.0033333333333333335
+--------Round 85 -------------
+Preflop strenght: 0.5255
+Flop Strength: 0.3983333333333333
+Turn Strength: 0.42
+Turn Strength: 0.33666666666666667
+pot odds: 0.24923076923076923
+River Strength: 0.0
+--------Round 86 -------------
+Preflop strenght: 0.5215000000000001
+--------Round 87 -------------
+--------Round 88 -------------
+Preflop strenght: 0.42600000000000005
+--------Round 89 -------------
+Preflop strenght: 0.5335
+Flop Strength: 0.2783333333333333
+Turn Strength: 0.15833333333333333
+River Strength: 0.0
+--------Round 90 -------------
+Preflop strenght: 0.47075
+Preflop strenght: 0.47075
+Flop Strength: 0.7616666666666667
+Turn Strength: 0.7616666666666667
+Turn Strength: 0.7916666666666666
+pot odds: 0.22666666666666666
+River Strength: 0.0033333333333333335
+--------Round 91 -------------
+--------Round 92 -------------
+Preflop strenght: 0.47475
+Preflop strenght: 0.47475
+Flop Strength: 0.12833333333333333
+Turn Strength: 0.025
+River Strength: 0.0
+--------Round 93 -------------
+Preflop strenght: 0.49750000000000005
+Flop Strength: 0.7783333333333333
+Turn Strength: 0.9683333333333334
+--------Round 94 -------------
+Preflop strenght: 0.5345
+Flop Strength: 0.295
+Turn Strength: 0.785
+River Strength: 0.0033333333333333335
+--------Round 95 -------------
+--------Round 96 -------------
+Preflop strenght: 0.6175
+Flop Strength: 0.7016666666666667
+Turn Strength: 0.6316666666666667
+River Strength: 0.0033333333333333335
+--------Round 97 -------------
+Preflop strenght: 0.58925
+Flop Strength: 0.6383333333333333
+Flop Strength: 0.62
+pot odds: 0.2275449101796407
+Turn Strength: 0.5816666666666667
+River Strength: 0.0033333333333333335
+--------Round 98 -------------
+Preflop strenght: 0.44525000000000003
+--------Round 99 -------------
+Preflop strenght: 0.523
+Flop Strength: 0.45166666666666666
+Turn Strength: 0.39
+River Strength: 0.0033333333333333335
+--------Round 100 -------------
+Preflop strenght: 0.6154999999999999
+Preflop strenght(opp): 0.528775
+Preflop strenght: 0.6154999999999999
+Preflop strenght(opp): 0.528775
+Flop Strength: 0.8583333333333333
+--------Round 101 -------------
+Preflop strenght: 0.43525
+Preflop strenght(opp): 0.528775
+Flop Strength: 0.7466666666666667
+Turn Strength: 0.7166666666666667
+River Strength: 0.0033333333333333335
+--------Round 102 -------------
+Preflop strenght: 0.3795
+Preflop strenght(opp): 0.5296624999999999
+--------Round 103 -------------
+Preflop strenght: 0.47275
+Preflop strenght(opp): 0.5296624999999999
+Flop Strength: 0.3466666666666667
+Turn Strength: 0.6716666666666666
+River Strength: 0.0033333333333333335
+--------Round 104 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5251999999999999
+Flop Strength: 0.6016666666666667
+Turn Strength: 0.82
+River Strength: 0.0033333333333333335
+--------Round 105 -------------
+--------Round 106 -------------
+Preflop strenght: 0.6175
+Preflop strenght(opp): 0.5253874999999999
+Flop Strength: 0.7533333333333333
+Turn Strength: 0.8233333333333334
+--------Round 107 -------------
+--------Round 108 -------------
+Preflop strenght: 0.58925
+Preflop strenght(opp): 0.5253874999999999
+--------Round 109 -------------
+Preflop strenght: 0.58375
+Preflop strenght(opp): 0.5253874999999999
+Flop Strength: 0.35333333333333333
+Flop Strength: 0.335
+pot odds: 0.25
+Turn Strength: 0.2633333333333333
+Turn Strength: 0.25333333333333335
+pot odds: 0.25
+River Strength: 0.0
+--------Round 110 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.5278875000000001
+Flop Strength: 0.475
+Turn Strength: 0.53
+River Strength: 0.0033333333333333335
+--------Round 111 -------------
+Preflop strenght: 0.41050000000000003
+Preflop strenght(opp): 0.5281874999999999
+--------Round 112 -------------
+Preflop strenght: 0.5595
+Preflop strenght(opp): 0.5281874999999999
+Flop Strength: 0.575
+pot odds: 0.25
+Turn Strength: 0.5566666666666666
+pot odds: 0.25
+River Strength: 0.0033333333333333335
+--------Round 113 -------------
+Preflop strenght: 0.49124999999999996
+Preflop strenght(opp): 0.5305624999999996
+Flop Strength: 0.5016666666666667
+Turn Strength: 0.6416666666666667
+Turn Strength: 0.5966666666666667
+pot odds: 0.22670025188916876
+River Strength: 0.0033333333333333335
+--------Round 114 -------------
+Preflop strenght: 0.5215000000000001
+Preflop strenght(opp): 0.5313000000000001
+--------Round 115 -------------
+Preflop strenght: 0.43725
+Preflop strenght(opp): 0.5313000000000001
+Flop Strength: 0.7116666666666667
+Flop Strength: 0.69
+pot odds: 0.22727272727272727
+Flop Strength: 0.73
+pot odds: 0.14641744548286603
+Turn Strength: 0.6833333333333333
+River Strength: 0.0033333333333333335
+--------Round 116 -------------
+Preflop strenght: 0.50925
+Preflop strenght(opp): 0.5339875
+Flop Strength: 0.5916666666666667
+Turn Strength: 0.4216666666666667
+River Strength: 0.0
+--------Round 117 -------------
+Preflop strenght: 0.57925
+Preflop strenght(opp): 0.5278500000000002
+Flop Strength: 0.675
+Flop Strength: 0.6966666666666667
+pot odds: 0.22602739726027396
+Turn Strength: 0.6266666666666667
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.25
+--------Round 118 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5278500000000002
+Flop Strength: 0.7433333333333333
+Turn Strength: 0.6516666666666666
+River Strength: 0.0033333333333333335
+pot odds: 0.25
+--------Round 119 -------------
+Preflop strenght: 0.49750000000000005
+Preflop strenght(opp): 0.5278500000000002
+Flop Strength: 0.6633333333333333
+Turn Strength: 0.535
+River Strength: 0.0033333333333333335
+--------Round 120 -------------
+Preflop strenght: 0.41150000000000003
+Preflop strenght(opp): 0.5307499999999999
+--------Round 121 -------------
+Preflop strenght: 0.4965
+Preflop strenght(opp): 0.5307499999999999
+Flop Strength: 0.33666666666666667
+Turn Strength: 0.18333333333333332
+River Strength: 0.0
+--------Round 122 -------------
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.5269250000000001
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.5269250000000001
+--------Round 123 -------------
+Preflop strenght: 0.55225
+Preflop strenght(opp): 0.5269250000000001
+Flop Strength: 0.3983333333333333
+Turn Strength: 0.49333333333333335
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.25
+--------Round 124 -------------
+Preflop strenght: 0.45825000000000005
+Preflop strenght(opp): 0.5269250000000001
+--------Round 125 -------------
+Preflop strenght: 0.43875000000000003
+Preflop strenght(opp): 0.5269250000000001
+Flop Strength: 0.38333333333333336
+Flop Strength: 0.345
+pot odds: 0.25
+Turn Strength: 0.33166666666666667
+Turn Strength: 0.29833333333333334
+pot odds: 0.25
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.25
+--------Round 126 -------------
+Preflop strenght: 0.4965
+Preflop strenght(opp): 0.5269250000000001
+Flop Strength: 0.605
+Turn Strength: 0.6733333333333333
+River Strength: 0.0033333333333333335
+--------Round 127 -------------
+Preflop strenght: 0.6154999999999999
+Preflop strenght(opp): 0.5244
+Flop Strength: 0.98
+Turn Strength: 0.98
+River Strength: 0.0033333333333333335
+--------Round 128 -------------
+Preflop strenght: 0.532
+Preflop strenght(opp): 0.5224249999999999
+Flop Strength: 0.5966666666666667
+pot odds: 0.25
+Flop Strength: 0.5333333333333333
+pot odds: 0.16593886462882096
+Turn Strength: 0.3933333333333333
+pot odds: 0.09333333333333334
+River Strength: 0.0033333333333333335
+--------Round 129 -------------
+Preflop strenght: 0.47050000000000003
+Preflop strenght(opp): 0.5179125000000001
+Flop Strength: 0.6933333333333334
+--------Round 130 -------------
+Preflop strenght: 0.6040000000000001
+Preflop strenght(opp): 0.5179125000000001
+Flop Strength: 0.465
+Turn Strength: 0.85
+River Strength: 0.0033333333333333335
+--------Round 131 -------------
+Preflop strenght: 0.39
+Preflop strenght(opp): 0.5171625000000001
+--------Round 132 -------------
+Preflop strenght: 0.5595
+Preflop strenght(opp): 0.5171625000000001
+Flop Strength: 0.4766666666666667
+pot odds: 0.3787878787878788
+Turn Strength: 0.38333333333333336
+River Strength: 0.0
+--------Round 133 -------------
+Preflop strenght: 0.42600000000000005
+Preflop strenght(opp): 0.5178375000000002
+--------Round 134 -------------
+Preflop strenght: 0.53675
+Preflop strenght(opp): 0.5178375000000002
+Preflop strenght: 0.53675
+Preflop strenght(opp): 0.5178375000000002
+Flop Strength: 0.31833333333333336
+Turn Strength: 0.21833333333333332
+River Strength: 0.0
+--------Round 135 -------------
+Preflop strenght: 0.62225
+Preflop strenght(opp): 0.5172375
+Flop Strength: 0.5683333333333334
+Turn Strength: 0.46
+River Strength: 0.0
+--------Round 136 -------------
+Preflop strenght: 0.5835
+Preflop strenght(opp): 0.5145500000000001
+Flop Strength: 0.6033333333333334
+pot odds: 0.25
+Turn Strength: 0.5366666666666666
+pot odds: 0.428
+River Strength: 0.0033333333333333335
+--------Round 137 -------------
+Preflop strenght: 0.6154999999999999
+Preflop strenght(opp): 0.5175625
+Flop Strength: 0.94
+Turn Strength: 0.8983333333333333
+River Strength: 0.0033333333333333335
+--------Round 138 -------------
+Preflop strenght: 0.523
+Preflop strenght(opp): 0.5156999999999997
+Flop Strength: 0.685
+Turn Strength: 0.69
+River Strength: 0.0
+--------Round 139 -------------
+Preflop strenght: 0.475
+Preflop strenght(opp): 0.51425
+Flop Strength: 0.37333333333333335
+Flop Strength: 0.3983333333333333
+pot odds: 0.25
+Turn Strength: 0.44166666666666665
+Turn Strength: 0.4166666666666667
+pot odds: 0.25
+River Strength: 0.0
+--------Round 140 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5189249999999999
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5189249999999999
+Flop Strength: 0.12166666666666667
+Turn Strength: 0.09333333333333334
+River Strength: 0.0
+--------Round 141 -------------
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.5228749999999999
+Flop Strength: 0.61
+Turn Strength: 0.5483333333333333
+River Strength: 0.0
+--------Round 142 -------------
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.5206
+--------Round 143 -------------
+--------Round 144 -------------
+Preflop strenght: 0.4175
+Preflop strenght(opp): 0.5206
+--------Round 145 -------------
+Preflop strenght: 0.502
+Preflop strenght(opp): 0.5206
+Flop Strength: 0.51
+Flop Strength: 0.495
+pot odds: 0.24873096446700507
+Turn Strength: 0.445
+Turn Strength: 0.47
+pot odds: 0.24936386768447838
+River Strength: 0.0033333333333333335
+--------Round 146 -------------
+Preflop strenght: 0.502
+Preflop strenght(opp): 0.5222249999999999
+Preflop strenght: 0.502
+Preflop strenght(opp): 0.5222249999999999
+--------Round 147 -------------
+--------Round 148 -------------
+Preflop strenght: 0.5285
+Preflop strenght(opp): 0.5222249999999999
+Flop Strength: 0.5516666666666666
+Turn Strength: 0.5616666666666666
+pot odds: 0.432
+River Strength: 0.0
+--------Round 149 -------------
+--------Round 150 -------------
+Preflop strenght: 0.4965
+Preflop strenght(opp): 0.5174
+Preflop strenght: 0.4965
+Preflop strenght(opp): 0.5174
+Flop Strength: 0.465
+Turn Strength: 0.28833333333333333
+River Strength: 0.0
+--------Round 151 -------------
+Preflop strenght: 0.46925
+Preflop strenght(opp): 0.51865
+Flop Strength: 0.6583333333333333
+Turn Strength: 0.47
+River Strength: 0.0
+--------Round 152 -------------
+Preflop strenght: 0.511
+Preflop strenght(opp): 0.51565
+Flop Strength: 0.46166666666666667
+pot odds: 0.25
+Turn Strength: 0.37833333333333335
+pot odds: 0.428
+--------Round 153 -------------
+Preflop strenght: 0.434
+Preflop strenght(opp): 0.51565
+--------Round 154 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.51565
+Flop Strength: 0.28
+Turn Strength: 0.23166666666666666
+River Strength: 0.0
+pot odds: 0.3194888178913738
+--------Round 155 -------------
+Preflop strenght: 0.5345
+Preflop strenght(opp): 0.51565
+Flop Strength: 0.3616666666666667
+Flop Strength: 0.41333333333333333
+pot odds: 0.25
+Turn Strength: 0.30666666666666664
+Turn Strength: 0.31833333333333336
+pot odds: 0.428
+--------Round 156 -------------
+Preflop strenght: 0.52925
+Preflop strenght(opp): 0.51565
+Flop Strength: 0.86
+--------Round 157 -------------
+--------Round 158 -------------
+Preflop strenght: 0.423
+Preflop strenght(opp): 0.51565
+--------Round 159 -------------
+Preflop strenght: 0.4795
+Preflop strenght(opp): 0.51565
+Flop Strength: 0.5466666666666666
+Flop Strength: 0.51
+pot odds: 0.25
+Turn Strength: 0.48333333333333334
+Turn Strength: 0.45166666666666666
+pot odds: 0.25
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.228
+--------Round 160 -------------
+Preflop strenght: 0.48025
+Preflop strenght(opp): 0.51565
+Flop Strength: 0.43333333333333335
+Turn Strength: 0.6983333333333334
+River Strength: 0.0
+--------Round 161 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.5148750000000001
+Flop Strength: 0.22833333333333333
+Flop Strength: 0.24333333333333335
+pot odds: 0.25
+--------Round 162 -------------
+Preflop strenght: 0.49075
+Preflop strenght(opp): 0.5148750000000001
+Preflop strenght: 0.49075
+Preflop strenght(opp): 0.5148750000000001
+Flop Strength: 0.4583333333333333
+Turn Strength: 0.3516666666666667
+River Strength: 0.0
+--------Round 163 -------------
+Preflop strenght: 0.5197499999999999
+Preflop strenght(opp): 0.5182125
+Flop Strength: 0.49166666666666664
+Flop Strength: 0.52
+pot odds: 0.25
+Turn Strength: 0.38666666666666666
+River Strength: 0.0
+--------Round 164 -------------
+Preflop strenght: 0.508
+Preflop strenght(opp): 0.5226375
+Flop Strength: 0.6066666666666667
+Turn Strength: 0.4666666666666667
+River Strength: 0.0
+--------Round 165 -------------
+Preflop strenght: 0.508
+Preflop strenght(opp): 0.5244875
+Flop Strength: 0.49
+Turn Strength: 0.8
+River Strength: 0.0
+--------Round 166 -------------
+Preflop strenght: 0.3795
+Preflop strenght(opp): 0.522775
+--------Round 167 -------------
+Preflop strenght: 0.43525
+Preflop strenght(opp): 0.522775
+--------Round 168 -------------
+Preflop strenght: 0.502
+Preflop strenght(opp): 0.522775
+Flop Strength: 0.4866666666666667
+Turn Strength: 0.44333333333333336
+pot odds: 0.24899598393574296
+River Strength: 0.0
+pot odds: 0.24949698189134809
+--------Round 169 -------------
+Preflop strenght: 0.47050000000000003
+Preflop strenght(opp): 0.522775
+Flop Strength: 0.495
+Turn Strength: 0.37333333333333335
+River Strength: 0.0033333333333333335
+--------Round 170 -------------
+Preflop strenght: 0.43525
+Preflop strenght(opp): 0.5242124999999999
+--------Round 171 -------------
+Preflop strenght: 0.6132500000000001
+Preflop strenght(opp): 0.5242124999999999
+Flop Strength: 0.395
+Turn Strength: 0.7116666666666667
+Turn Strength: 0.7166666666666667
+pot odds: 0.22661870503597123
+River Strength: 0.0
+--------Round 172 -------------
+Preflop strenght: 0.4405
+Preflop strenght(opp): 0.5274625
+--------Round 173 -------------
+Preflop strenght: 0.45699999999999996
+Preflop strenght(opp): 0.5274625
+Flop Strength: 0.09333333333333334
+Turn Strength: 0.07333333333333333
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.464
+--------Round 174 -------------
+Preflop strenght: 0.57375
+Preflop strenght(opp): 0.5274625
+--------Round 175 -------------
+Preflop strenght: 0.44525
+Preflop strenght(opp): 0.5274625
+--------Round 176 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.5274625
+Flop Strength: 0.5966666666666667
+Turn Strength: 0.675
+River Strength: 0.0033333333333333335
+--------Round 177 -------------
+Preflop strenght: 0.532
+Preflop strenght(opp): 0.5261625000000001
+Flop Strength: 0.55
+Turn Strength: 0.8666666666666667
+Turn Strength: 0.8516666666666667
+pot odds: 0.2138364779874214
+River Strength: 0.0033333333333333335
+--------Round 178 -------------
+Preflop strenght: 0.4345
+Preflop strenght(opp): 0.5224374999999999
+--------Round 179 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5224374999999999
+Flop Strength: 0.7333333333333333
+Flop Strength: 0.6866666666666666
+pot odds: 0.25
+Flop Strength: 0.715
+pot odds: 0.16618497109826588
+Turn Strength: 0.6966666666666667
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.05064935064935065
+--------Round 180 -------------
+Preflop strenght: 0.42600000000000005
+Preflop strenght(opp): 0.5224374999999999
+--------Round 181 -------------
+Preflop strenght: 0.66425
+Preflop strenght(opp): 0.5224374999999999
+--------Round 182 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5224374999999999
+--------Round 183 -------------
+Preflop strenght: 0.39999999999999997
+Preflop strenght(opp): 0.5224374999999999
+--------Round 184 -------------
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.5224374999999999
+Flop Strength: 0.5133333333333333
+Turn Strength: 0.61
+pot odds: 0.25
+River Strength: 0.0
+pot odds: 0.25
+--------Round 185 -------------
+Preflop strenght: 0.47050000000000003
+Preflop strenght(opp): 0.5224374999999999
+Flop Strength: 0.7266666666666667
+Flop Strength(opp): 0.5224374999999999
+Flop Strength: 0.715
+pot odds: 0.43103448275862066
+Flop Strength: 0.7333333333333333
+pot odds: 0.15822784810126583
+Turn Strength: 0.8416666666666667
+River Strength: 0.0
+--------Round 186 -------------
+Preflop strenght: 0.56575
+Preflop strenght(opp): 0.5232374999999998
+Flop Strength: 0.515
+Turn Strength: 0.5116666666666667
+River Strength: 0.0
+--------Round 187 -------------
+Preflop strenght: 0.46199999999999997
+Preflop strenght(opp): 0.5210625
+Flop Strength: 0.5266666666666666
+Turn Strength: 0.39666666666666667
+Turn Strength: 0.4216666666666667
+pot odds: 0.25
+River Strength: 0.0
+--------Round 188 -------------
+Preflop strenght: 0.504
+Preflop strenght(opp): 0.5212125
+Preflop strenght: 0.504
+Preflop strenght(opp): 0.5212125
+Flop Strength: 0.6316666666666667
+Turn Strength: 0.7233333333333334
+River Strength: 0.0033333333333333335
+--------Round 189 -------------
+Preflop strenght: 0.49750000000000005
+Preflop strenght(opp): 0.5243499999999999
+Flop Strength: 0.4683333333333333
+Turn Strength: 0.5616666666666666
+River Strength: 0.0
+--------Round 190 -------------
+Preflop strenght: 0.4555
+Preflop strenght(opp): 0.5183874999999998
+--------Round 191 -------------
+--------Round 192 -------------
+Preflop strenght: 0.40275
+Preflop strenght(opp): 0.5183874999999998
+--------Round 193 -------------
+--------Round 194 -------------
+Preflop strenght: 0.504
+Preflop strenght(opp): 0.5183874999999998
+Flop Strength: 0.48333333333333334
+Turn Strength: 0.4116666666666667
+River Strength: 0.0033333333333333335
+--------Round 195 -------------
+Preflop strenght: 0.49674999999999997
+Preflop strenght(opp): 0.5132000000000001
+Flop Strength: 0.94
+--------Round 196 -------------
+Preflop strenght: 0.432
+Preflop strenght(opp): 0.5132000000000001
+--------Round 197 -------------
+Preflop strenght: 0.51225
+Preflop strenght(opp): 0.5132000000000001
+Flop Strength: 0.5866666666666667
+Flop Strength: 0.57
+pot odds: 0.25
+Turn Strength: 0.695
+Turn Strength: 0.655
+pot odds: 0.25
+Turn Strength: 0.6766666666666666
+pot odds: 0.16607773851590105
+River Strength: 0.0033333333333333335
+--------Round 198 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5157375
+Flop Strength: 0.7483333333333333
+pot odds: 0.25
+Flop Strength: 0.7133333333333334
+pot odds: 0.16666666666666666
+Turn Strength: 0.7
+River Strength: 0.0033333333333333335
+--------Round 199 -------------
+Preflop strenght: 0.5395
+Preflop strenght(opp): 0.5158750000000001
+Flop Strength: 0.405
+Flop Strength: 0.44
+pot odds: 0.25
+Turn Strength: 0.25666666666666665
+River Strength: 0.0033333333333333335
+--------Round 200 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.5181500000000001
+Flop Strength: 0.6866666666666666
+Turn Strength: 0.6183333333333333
+River Strength: 0.0
+--------Round 201 -------------
+--------Round 202 -------------
+Preflop strenght: 0.47075
+Preflop strenght(opp): 0.5169000000000001
+Flop Strength: 0.405
+Turn Strength: 0.265
+River Strength: 0.0
+--------Round 203 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5174500000000001
+Flop Strength: 0.5833333333333334
+Turn Strength: 0.43833333333333335
+River Strength: 0.0033333333333333335
+--------Round 204 -------------
+Preflop strenght: 0.4555
+Preflop strenght(opp): 0.5212999999999999
+--------Round 205 -------------
+Preflop strenght: 0.5275
+Preflop strenght(opp): 0.5212999999999999
+Flop Strength: 0.7116666666666667
+--------Round 206 -------------
+Preflop strenght: 0.5835
+Preflop strenght(opp): 0.5212999999999999
+Flop Strength: 0.26166666666666666
+pot odds: 0.25
+Turn Strength: 0.17166666666666666
+pot odds: 0.25
+--------Round 207 -------------
+--------Round 208 -------------
+Preflop strenght: 0.4905
+Preflop strenght(opp): 0.5212999999999999
+Flop Strength: 0.5866666666666667
+Turn Strength: 0.3883333333333333
+River Strength: 0.0
+--------Round 209 -------------
+Preflop strenght: 0.43875000000000003
+Preflop strenght(opp): 0.5134875
+--------Round 210 -------------
+Preflop strenght: 0.4555
+Preflop strenght(opp): 0.5134875
+--------Round 211 -------------
+Preflop strenght: 0.41150000000000003
+Preflop strenght(opp): 0.5134875
+Flop Strength: 0.31166666666666665
+Flop Strength: 0.31
+pot odds: 0.25
+Turn Strength: 0.16333333333333333
+Turn Strength: 0.19
+pot odds: 0.428
+--------Round 212 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5134875
+--------Round 213 -------------
+Preflop strenght: 0.5715
+Preflop strenght(opp): 0.5134875
+Flop Strength: 0.33166666666666667
+Turn Strength: 0.21333333333333335
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.464
+--------Round 214 -------------
+Preflop strenght: 0.5345
+Preflop strenght(opp): 0.5134875
+Flop Strength: 0.245
+Turn Strength: 0.16666666666666666
+River Strength: 0.0
+pot odds: 0.25
+--------Round 215 -------------
+Preflop strenght: 0.44725000000000004
+Preflop strenght(opp): 0.5134875
+--------Round 216 -------------
+Preflop strenght: 0.5035000000000001
+Preflop strenght(opp): 0.5134875
+Flop Strength: 0.825
+--------Round 217 -------------
+Preflop strenght: 0.66425
+Preflop strenght(opp): 0.5134875
+Flop Strength: 0.475
+Turn Strength: 0.5
+River Strength: 0.0
+--------Round 218 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.5146375000000001
+--------Round 219 -------------
+Preflop strenght: 0.58925
+Preflop strenght(opp): 0.5146375000000001
+Flop Strength: 0.305
+Flop Strength: 0.265
+pot odds: 0.25
+Turn Strength: 0.2866666666666667
+Turn Strength: 0.2966666666666667
+pot odds: 0.25
+River Strength: 0.0033333333333333335
+--------Round 220 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.5152875
+--------Round 221 -------------
+Preflop strenght: 0.46925
+Preflop strenght(opp): 0.5152875
+Flop Strength: 0.8516666666666667
+Flop Strength: 0.8116666666666666
+pot odds: 0.21362229102167182
+Turn Strength: 0.8716666666666667
+Turn Strength: 0.8816666666666667
+pot odds: 0.18050065876152832
+River Strength: 0.0033333333333333335
+--------Round 222 -------------
+Preflop strenght: 0.49674999999999997
+Preflop strenght(opp): 0.5149125
+Flop Strength: 0.2733333333333333
+Turn Strength: 0.20666666666666667
+River Strength: 0.0033333333333333335
+--------Round 223 -------------
+Preflop strenght: 0.4375
+Preflop strenght(opp): 0.5120250000000001
+Flop Strength: 0.665
+Turn Strength: 0.595
+River Strength: 0.0033333333333333335
+--------Round 224 -------------
+Preflop strenght: 0.45799999999999996
+Preflop strenght(opp): 0.5114250000000001
+--------Round 225 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5114250000000001
+Flop Strength: 0.9466666666666667
+Flop Strength: 0.9533333333333334
+pot odds: 0.2144
+Turn Strength: 0.9366666666666666
+River Strength: 0.0033333333333333335
+--------Round 226 -------------
+Preflop strenght: 0.42600000000000005
+Preflop strenght(opp): 0.5214125000000001
+--------Round 227 -------------
+Preflop strenght: 0.40275
+Preflop strenght(opp): 0.5214125000000001
+--------Round 228 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5214125000000001
+Flop Strength: 0.52
+Turn Strength: 0.3933333333333333
+River Strength: 0.0
+--------Round 229 -------------
+Preflop strenght: 0.532
+Preflop strenght(opp): 0.5233000000000001
+Flop Strength: 0.5383333333333333
+Turn Strength: 0.42833333333333334
+River Strength: 0.0
+--------Round 230 -------------
+Preflop strenght: 0.48350000000000004
+Preflop strenght(opp): 0.5236375000000001
+Preflop strenght: 0.48350000000000004
+Preflop strenght(opp): 0.5236375000000001
+Flop Strength: 0.7
+Turn Strength: 0.6483333333333333
+--------Round 231 -------------
+Preflop strenght: 0.46925
+Preflop strenght(opp): 0.5236375000000001
+Flop Strength: 0.11833333333333333
+Turn Strength: 0.07
+Turn Strength: 0.058333333333333334
+pot odds: 0.25
+Turn Strength: 0.06833333333333333
+pot odds: 0.16666666666666666
+--------Round 232 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.5236375000000001
+--------Round 233 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5236375000000001
+Flop Strength: 0.5416666666666666
+Turn Strength: 0.4216666666666667
+River Strength: 0.0033333333333333335
+--------Round 234 -------------
+Preflop strenght: 0.5395
+Preflop strenght(opp): 0.526275
+Preflop strenght: 0.5395
+Preflop strenght(opp): 0.526275
+Flop Strength: 0.4483333333333333
+pot odds: 0.25
+Turn Strength: 0.24
+pot odds: 0.36666666666666664
+--------Round 235 -------------
+Preflop strenght: 0.4905
+Preflop strenght(opp): 0.526275
+Flop Strength: 0.33166666666666667
+Flop Strength: 0.39166666666666666
+pot odds: 0.25
+Turn Strength: 0.7216666666666667
+Turn Strength: 0.7216666666666667
+pot odds: 0.22635135135135134
+River Strength: 0.0033333333333333335
+--------Round 236 -------------
+Preflop strenght: 0.532
+Preflop strenght(opp): 0.5294250000000001
+Preflop strenght: 0.532
+Preflop strenght(opp): 0.5294250000000001
+Flop Strength: 0.52
+Turn Strength: 0.38666666666666666
+River Strength: 0.0
+--------Round 237 -------------
+Preflop strenght: 0.48825
+Preflop strenght(opp): 0.5297249999999999
+Flop Strength: 0.58
+Turn Strength: 0.34
+River Strength: 0.0
+--------Round 238 -------------
+Preflop strenght: 0.49375
+Preflop strenght(opp): 0.5317374999999998
+Preflop strenght: 0.49375
+Preflop strenght(opp): 0.5317374999999998
+Flop Strength: 0.6583333333333333
+Turn Strength: 0.45166666666666666
+River Strength: 0.0033333333333333335
+--------Round 239 -------------
+Preflop strenght: 0.40900000000000003
+Preflop strenght(opp): 0.5321624999999999
+--------Round 240 -------------
+Preflop strenght: 0.502
+Preflop strenght(opp): 0.5321624999999999
+Flop Strength: 0.6983333333333334
+Turn Strength: 0.93
+--------Round 241 -------------
+Preflop strenght: 0.53175
+Preflop strenght(opp): 0.5321624999999999
+Flop Strength: 0.5166666666666667
+Turn Strength: 0.51
+River Strength: 0.0033333333333333335
+--------Round 242 -------------
+Preflop strenght: 0.49750000000000005
+Preflop strenght(opp): 0.5287874999999997
+Preflop strenght: 0.49750000000000005
+Preflop strenght(opp): 0.5287874999999997
+Flop Strength: 0.4533333333333333
+Turn Strength: 0.3883333333333333
+River Strength: 0.0
+--------Round 243 -------------
+--------Round 244 -------------
+Preflop strenght: 0.49275
+Preflop strenght(opp): 0.5291624999999998
+--------Round 245 -------------
+Preflop strenght: 0.4375
+Preflop strenght(opp): 0.5291624999999998
+Flop Strength: 0.375
+Turn Strength: 0.2783333333333333
+River Strength: 0.0033333333333333335
+--------Round 246 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5268499999999998
+Flop Strength: 0.63
+Turn Strength: 0.45166666666666666
+River Strength: 0.0033333333333333335
+pot odds: 0.2495049504950495
+--------Round 247 -------------
+Preflop strenght: 0.511
+Preflop strenght(opp): 0.5268499999999998
+--------Round 248 -------------
+Preflop strenght: 0.45725000000000005
+Preflop strenght(opp): 0.5268499999999998
+--------Round 249 -------------
+Preflop strenght: 0.4965
+Preflop strenght(opp): 0.5268499999999998
+Flop Strength: 0.83
+Flop Strength: 0.8133333333333334
+pot odds: 0.2144082332761578
+Turn Strength: 0.7766666666666666
+River Strength: 0.0033333333333333335
+--------Round 250 -------------
+Preflop strenght: 0.4515
+Preflop strenght(opp): 0.5273999999999999
+--------Round 251 -------------
+--------Round 252 -------------
+Preflop strenght: 0.504
+Preflop strenght(opp): 0.5273999999999999
+Preflop strenght: 0.504
+Preflop strenght(opp): 0.5273999999999999
+Flop Strength: 0.505
+Turn Strength: 0.32166666666666666
+River Strength: 0.0
+--------Round 253 -------------
+--------Round 254 -------------
+Preflop strenght: 0.44725000000000004
+Preflop strenght(opp): 0.5308249999999999
+--------Round 255 -------------
+Preflop strenght: 0.56325
+Preflop strenght(opp): 0.5308249999999999
+--------Round 256 -------------
+Preflop strenght: 0.55225
+Preflop strenght(opp): 0.5308249999999999
+--------Round 257 -------------
+Preflop strenght: 0.6154999999999999
+Preflop strenght(opp): 0.5308249999999999
+Flop Strength: 0.3933333333333333
+Turn Strength: 0.41
+River Strength: 0.0
+--------Round 258 -------------
+Preflop strenght: 0.58575
+Preflop strenght(opp): 0.5280625
+--------Round 259 -------------
+--------Round 260 -------------
+Preflop strenght: 0.42600000000000005
+Preflop strenght(opp): 0.5280625
+--------Round 261 -------------
+Preflop strenght: 0.51225
+Preflop strenght(opp): 0.5280625
+Flop Strength: 0.6166666666666667
+--------Round 262 -------------
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.5280625
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.5280625
+Flop Strength: 0.8116666666666666
+--------Round 263 -------------
+--------Round 264 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5280625
+Flop Strength: 0.5183333333333333
+Turn Strength: 0.64
+Turn Strength: 0.62
+pot odds: 0.22602739726027396
+Turn Strength: 0.565
+pot odds: 0.14429530201342283
+Turn Strength: 0.6333333333333333
+pot odds: 0.1028225806451613
+River Strength: 0.0033333333333333335
+--------Round 265 -------------
+Preflop strenght: 0.44725000000000004
+Preflop strenght(opp): 0.5315749999999999
+--------Round 266 -------------
+Preflop strenght: 0.55075
+Preflop strenght(opp): 0.5315749999999999
+Flop Strength: 0.5816666666666667
+Turn Strength: 0.5083333333333333
+River Strength: 0.0
+--------Round 267 -------------
+Preflop strenght: 0.55225
+Preflop strenght(opp): 0.5248124999999999
+Flop Strength: 0.5
+Turn Strength: 0.7916666666666666
+River Strength: 0.0
+--------Round 268 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.52925
+--------Round 269 -------------
+--------Round 270 -------------
+Preflop strenght: 0.5215000000000001
+Preflop strenght(opp): 0.52925
+Flop Strength: 0.7516666666666667
+Turn Strength: 0.9483333333333334
+--------Round 271 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.52925
+--------Round 272 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.52925
+Flop Strength: 0.7366666666666667
+Turn Strength: 0.795
+--------Round 273 -------------
+Preflop strenght: 0.4125
+Preflop strenght(opp): 0.52925
+Flop Strength: 0.15166666666666667
+Turn Strength: 0.04666666666666667
+River Strength: 0.0
+--------Round 274 -------------
+Preflop strenght: 0.5285
+Preflop strenght(opp): 0.5333124999999999
+Preflop strenght: 0.5285
+Preflop strenght(opp): 0.5333124999999999
+Flop Strength: 0.345
+Turn Strength: 0.30666666666666664
+River Strength: 0.0
+--------Round 275 -------------
+Preflop strenght: 0.532
+Preflop strenght(opp): 0.5406500000000001
+Flop Strength: 0.66
+Flop Strength: 0.6666666666666666
+pot odds: 0.22762148337595908
+Turn Strength: 0.5366666666666666
+River Strength: 0.0033333333333333335
+--------Round 276 -------------
+Preflop strenght: 0.523
+Preflop strenght(opp): 0.5406500000000001
+--------Round 277 -------------
+Preflop strenght: 0.423
+Preflop strenght(opp): 0.5406500000000001
+--------Round 278 -------------
+Preflop strenght: 0.56575
+Preflop strenght(opp): 0.5406500000000001
+Flop Strength: 0.9033333333333333
+--------Round 279 -------------
+Preflop strenght: 0.48325
+Preflop strenght(opp): 0.5406500000000001
+--------Round 280 -------------
+Preflop strenght: 0.47275
+Preflop strenght(opp): 0.5406500000000001
+--------Round 281 -------------
+Preflop strenght: 0.4125
+Preflop strenght(opp): 0.5406500000000001
+--------Round 282 -------------
+Preflop strenght: 0.4555
+Preflop strenght(opp): 0.5406500000000001
+--------Round 283 -------------
+Preflop strenght: 0.5275
+Preflop strenght(opp): 0.5406500000000001
+Flop Strength: 0.445
+Turn Strength: 0.515
+River Strength: 0.0
+--------Round 284 -------------
+Preflop strenght: 0.52925
+Preflop strenght(opp): 0.5307999999999999
+Flop Strength: 0.21833333333333332
+Turn Strength: 0.13166666666666665
+River Strength: 0.0
+--------Round 285 -------------
+Preflop strenght: 0.504
+Preflop strenght(opp): 0.530225
+Flop Strength: 0.5933333333333334
+Turn Strength: 0.395
+River Strength: 0.0
+--------Round 286 -------------
+Preflop strenght: 0.6819999999999999
+Preflop strenght(opp): 0.5314249999999999
+Preflop strenght: 0.6819999999999999
+Preflop strenght(opp): 0.5314249999999999
+Flop Strength: 0.47333333333333333
+Turn Strength: 0.3983333333333333
+River Strength: 0.0
+--------Round 287 -------------
+--------Round 288 -------------
+Preflop strenght: 0.45699999999999996
+Preflop strenght(opp): 0.5364625
+--------Round 289 -------------
+--------Round 290 -------------
+Preflop strenght: 0.6040000000000001
+Preflop strenght(opp): 0.5364625
+Preflop strenght: 0.6040000000000001
+Preflop strenght(opp): 0.5364625
+Flop Strength: 0.475
+Turn Strength: 0.5283333333333333
+River Strength: 0.0033333333333333335
+--------Round 291 -------------
+--------Round 292 -------------
+Preflop strenght: 0.49124999999999996
+Preflop strenght(opp): 0.5369875
+Preflop strenght: 0.49124999999999996
+Preflop strenght(opp): 0.5369875
+Flop Strength: 0.26166666666666666
+Turn Strength: 0.14833333333333334
+River Strength: 0.0033333333333333335
+pot odds: 0.43333333333333335
+--------Round 293 -------------
+Preflop strenght: 0.5345
+Preflop strenght(opp): 0.5369875
+Flop Strength: 0.285
+Flop Strength: 0.255
+pot odds: 0.25
+Turn Strength: 0.23333333333333334
+Turn Strength: 0.19833333333333333
+pot odds: 0.25
+--------Round 294 -------------
+Preflop strenght: 0.45825
+Preflop strenght(opp): 0.5369875
+--------Round 295 -------------
+Preflop strenght: 0.56225
+Preflop strenght(opp): 0.5369875
+Flop Strength: 0.7566666666666667
+Turn Strength: 0.725
+Turn Strength: 0.7416666666666667
+pot odds: 0.0944
+River Strength: 0.0033333333333333335
+--------Round 296 -------------
+Preflop strenght: 0.4795
+Preflop strenght(opp): 0.5338375
+--------Round 297 -------------
+--------Round 298 -------------
+Preflop strenght: 0.52925
+Preflop strenght(opp): 0.5338375
+Flop Strength: 0.7466666666666667
+Flop Strength: 0.7166666666666667
+pot odds: 0.22745901639344263
+Turn Strength: 0.6966666666666667
+River Strength: 0.0033333333333333335
+--------Round 299 -------------
+Preflop strenght: 0.5405
+Preflop strenght(opp): 0.5357125
+Flop Strength: 0.295
+Flop Strength: 0.24833333333333332
+pot odds: 0.25
+--------Round 300 -------------
+Preflop strenght: 0.4795
+Preflop strenght(opp): 0.5357125
+--------Round 301 -------------
+--------Round 302 -------------
+Preflop strenght: 0.45825000000000005
+Preflop strenght(opp): 0.5357125
+--------Round 303 -------------
+--------Round 304 -------------
+Preflop strenght: 0.60525
+Preflop strenght(opp): 0.5357125
+Flop Strength: 0.22666666666666666
+pot odds: 0.25
+--------Round 305 -------------
+Preflop strenght: 0.4555
+Preflop strenght(opp): 0.5357125
+Flop Strength: 0.4266666666666667
+Turn Strength: 0.31666666666666665
+River Strength: 0.0
+--------Round 306 -------------
+Preflop strenght: 0.42900000000000005
+Preflop strenght(opp): 0.5406249999999999
+--------Round 307 -------------
+Preflop strenght: 0.45825000000000005
+Preflop strenght(opp): 0.5406249999999999
+Flop Strength: 0.07166666666666667
+Turn Strength: 0.04833333333333333
+Turn Strength: 0.07
+pot odds: 0.25
+--------Round 308 -------------
+Preflop strenght: 0.5345
+Preflop strenght(opp): 0.5406249999999999
+Preflop strenght: 0.5345
+Preflop strenght(opp): 0.5406249999999999
+Flop Strength: 0.22166666666666668
+pot odds: 0.25
+--------Round 309 -------------
+Preflop strenght: 0.49075
+Preflop strenght(opp): 0.5406249999999999
+Flop Strength: 0.5733333333333334
+Turn Strength: 0.5716666666666667
+River Strength: 0.0033333333333333335
+--------Round 310 -------------
+Preflop strenght: 0.4175
+Preflop strenght(opp): 0.5399875000000002
+--------Round 311 -------------
+Preflop strenght: 0.4415
+Preflop strenght(opp): 0.5399875000000002
+--------Round 312 -------------
+Preflop strenght: 0.38525
+Preflop strenght(opp): 0.5399875000000002
+--------Round 313 -------------
+Preflop strenght: 0.48825
+Preflop strenght(opp): 0.5399875000000002
+Flop Strength: 0.5466666666666666
+Turn Strength: 0.8133333333333334
+Turn Strength: 0.7933333333333333
+pot odds: 0.21370967741935484
+River Strength: 0.0033333333333333335
+--------Round 314 -------------
+Preflop strenght: 0.40275
+Preflop strenght(opp): 0.5365000000000001
+--------Round 315 -------------
+Preflop strenght: 0.4405
+Preflop strenght(opp): 0.5365000000000001
+--------Round 316 -------------
+Preflop strenght: 0.592
+Preflop strenght(opp): 0.5365000000000001
+Flop Strength: 0.5983333333333334
+Turn Strength: 0.5966666666666667
+pot odds: 0.25
+Turn Strength: 0.5966666666666667
+pot odds: 0.1652892561983471
+Turn Strength: 0.6633333333333333
+pot odds: 0.11467889908256881
+River Strength: 0.0033333333333333335
+--------Round 317 -------------
+Preflop strenght: 0.508
+Preflop strenght(opp): 0.540125
+Flop Strength: 0.745
+Turn Strength: 0.7633333333333333
+River Strength: 0.0
+--------Round 318 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5419750000000001
+Flop Strength: 0.8116666666666666
+Turn Strength: 0.6916666666666667
+Turn Strength: 0.67
+pot odds: 0.16379310344827586
+River Strength: 0.0
+--------Round 319 -------------
+Preflop strenght: 0.54025
+Preflop strenght(opp): 0.5384375
+Flop Strength: 0.82
+--------Round 320 -------------
+Preflop strenght: 0.55225
+Preflop strenght(opp): 0.5384375
+Flop Strength: 0.23833333333333334
+Turn Strength: 0.5033333333333333
+River Strength: 0.0033333333333333335
+--------Round 321 -------------
+--------Round 322 -------------
+Preflop strenght: 0.45825000000000005
+Preflop strenght(opp): 0.53735
+--------Round 323 -------------
+Preflop strenght: 0.49975
+Preflop strenght(opp): 0.53735
+Flop Strength: 0.565
+Turn Strength: 0.9733333333333334
+--------Round 324 -------------
+Preflop strenght: 0.5215000000000001
+Preflop strenght(opp): 0.53735
+Flop Strength: 0.81
+Flop Strength: 0.8133333333333334
+pot odds: 0.21382289416846653
+Turn Strength: 0.8566666666666667
+River Strength: 0.0033333333333333335
+--------Round 325 -------------
+Preflop strenght: 0.5387500000000001
+Preflop strenght(opp): 0.5406375000000001
+Flop Strength: 0.57
+Turn Strength: 0.7916666666666666
+Turn Strength: 0.7966666666666666
+pot odds: 0.2266949152542373
+River Strength: 0.0033333333333333335
+--------Round 326 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.5458125
+--------Round 327 -------------
+--------Round 328 -------------
+Preflop strenght: 0.44975
+Preflop strenght(opp): 0.5458125
+--------Round 329 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5458125
+Flop Strength: 0.56
+Flop Strength: 0.57
+pot odds: 0.25
+Turn Strength: 0.4683333333333333
+Turn Strength: 0.5266666666666666
+pot odds: 0.41581632653061223
+River Strength: 0.0033333333333333335
+--------Round 330 -------------
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.5466125000000001
+Flop Strength: 0.7183333333333334
+Turn Strength: 0.7366666666666667
+River Strength: 0.0033333333333333335
+--------Round 331 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.5390249999999999
+Flop Strength: 0.68
+Turn Strength: 0.9933333333333333
+River Strength: 0.0033333333333333335
+--------Round 332 -------------
+Preflop strenght: 0.5365
+Preflop strenght(opp): 0.5383500000000001
+Flop Strength: 0.49833333333333335
+pot odds: 0.25
+Turn Strength: 0.705
+pot odds: 0.25
+River Strength: 0.0
+--------Round 333 -------------
+--------Round 334 -------------
+Preflop strenght: 0.4125
+Preflop strenght(opp): 0.5367999999999999
+--------Round 335 -------------
+--------Round 336 -------------
+Preflop strenght: 0.52875
+Preflop strenght(opp): 0.5367999999999999
+Flop Strength: 0.445
+Turn Strength: 0.4
+River Strength: 0.0033333333333333335
+--------Round 337 -------------
+--------Round 338 -------------
+Preflop strenght: 0.5565
+Preflop strenght(opp): 0.5359499999999999
+--------Round 339 -------------
+Preflop strenght: 0.62225
+Preflop strenght(opp): 0.5359499999999999
+Flop Strength: 0.4066666666666667
+Flop Strength: 0.355
+pot odds: 0.25
+Turn Strength: 0.27
+Turn Strength: 0.22666666666666666
+pot odds: 0.25
+--------Round 340 -------------
+Preflop strenght: 0.4905
+Preflop strenght(opp): 0.5359499999999999
+Flop Strength: 0.6583333333333333
+Flop Strength: 0.6933333333333334
+pot odds: 0.22647058823529412
+Turn Strength: 0.5133333333333333
+River Strength: 0.0
+--------Round 341 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.5401125
+Flop Strength: 0.6233333333333333
+Flop Strength: 0.675
+pot odds: 0.22761194029850745
+Turn Strength: 0.5883333333333334
+River Strength: 0.0
+--------Round 342 -------------
+Preflop strenght: 0.4125
+Preflop strenght(opp): 0.5442999999999998
+--------Round 343 -------------
+Preflop strenght: 0.5275
+Preflop strenght(opp): 0.5442999999999998
+Flop Strength: 0.39
+Turn Strength: 0.2783333333333333
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.25
+--------Round 344 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5442999999999998
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5442999999999998
+--------Round 345 -------------
+Preflop strenght: 0.47050000000000003
+Preflop strenght(opp): 0.5442999999999998
+--------Round 346 -------------
+Preflop strenght: 0.45699999999999996
+Preflop strenght(opp): 0.5442999999999998
+--------Round 347 -------------
+Preflop strenght: 0.46875
+Preflop strenght(opp): 0.5442999999999998
+--------Round 348 -------------
+Preflop strenght: 0.6132500000000001
+Preflop strenght(opp): 0.5442999999999998
+Flop Strength: 0.6783333333333333
+--------Round 349 -------------
+Preflop strenght: 0.47850000000000004
+Preflop strenght(opp): 0.5442999999999998
+--------Round 350 -------------
+Preflop strenght: 0.46925
+Preflop strenght(opp): 0.5442999999999998
+--------Round 351 -------------
+Preflop strenght: 0.601
+Preflop strenght(opp): 0.5442999999999998
+Flop Strength: 0.79
+Turn Strength: 0.9366666666666666
+--------Round 352 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5442999999999998
+Flop Strength: 0.71
+Turn Strength: 0.6433333333333333
+River Strength: 0.0033333333333333335
+--------Round 353 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5432375
+Flop Strength: 0.5783333333333334
+Turn Strength: 0.655
+River Strength: 0.0033333333333333335
+--------Round 354 -------------
+Preflop strenght: 0.55075
+Preflop strenght(opp): 0.5437375
+Preflop strenght: 0.55075
+Preflop strenght(opp): 0.5437375
+Flop Strength: 0.32666666666666666
+Turn Strength: 0.25
+River Strength: 0.0
+--------Round 355 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.5465875
+Flop Strength: 0.2916666666666667
+Flop Strength: 0.315
+pot odds: 0.25
+Turn Strength: 0.16166666666666665
+Turn Strength: 0.18833333333333332
+pot odds: 0.25
+--------Round 356 -------------
+Preflop strenght: 0.47475
+Preflop strenght(opp): 0.5465875
+--------Round 357 -------------
+Preflop strenght: 0.44725000000000004
+Preflop strenght(opp): 0.5465875
+--------Round 358 -------------
+Preflop strenght: 0.49750000000000005
+Preflop strenght(opp): 0.5465875
+Flop Strength: 0.5916666666666667
+Turn Strength: 0.6666666666666666
+--------Round 359 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.5465875
+Flop Strength: 0.6866666666666666
+Flop Strength: 0.7366666666666667
+pot odds: 0.22602739726027396
+Flop Strength: 0.6866666666666666
+pot odds: 0.14634146341463414
+Turn Strength: 0.745
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.21333333333333335
+--------Round 360 -------------
+Preflop strenght: 0.47475
+Preflop strenght(opp): 0.5465875
+--------Round 361 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.5465875
+Flop Strength: 0.5783333333333334
+Flop Strength: 0.6616666666666666
+pot odds: 0.25
+Flop Strength: 0.59
+pot odds: 0.16666666666666666
+Turn Strength: 0.5883333333333334
+River Strength: 0.0
+--------Round 362 -------------
+Preflop strenght: 0.50125
+Preflop strenght(opp): 0.545425
+Flop Strength: 0.40166666666666667
+pot odds: 0.25
+Turn Strength: 0.3883333333333333
+pot odds: 0.25
+River Strength: 0.0033333333333333335
+--------Round 363 -------------
+Preflop strenght: 0.42900000000000005
+Preflop strenght(opp): 0.5415750000000001
+Flop Strength: 0.6483333333333333
+--------Round 364 -------------
+Preflop strenght: 0.5265
+Preflop strenght(opp): 0.5415750000000001
+Flop Strength: 0.6566666666666666
+pot odds: 0.25
+Flop Strength: 0.625
+pot odds: 0.16666666666666666
+Turn Strength: 0.6433333333333333
+River Strength: 0.0033333333333333335
+--------Round 365 -------------
+--------Round 366 -------------
+Preflop strenght: 0.57675
+Preflop strenght(opp): 0.5463375000000001
+Preflop strenght: 0.57675
+Preflop strenght(opp): 0.5463375000000001
+Flop Strength: 0.6783333333333333
+Turn Strength: 0.9966666666666667
+River Strength: 0.0033333333333333335
+--------Round 367 -------------
+Preflop strenght: 0.4555
+Preflop strenght(opp): 0.5563875
+Flop Strength: 0.71
+Turn Strength: 0.8966666666666666
+--------Round 368 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5563875
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5563875
+Flop Strength: 0.7733333333333333
+Turn Strength: 0.6683333333333333
+--------Round 369 -------------
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.5563875
+Flop Strength: 0.6683333333333333
+Turn Strength: 0.51
+River Strength: 0.0033333333333333335
+--------Round 370 -------------
+Preflop strenght: 0.502
+Preflop strenght(opp): 0.5596625000000001
+--------Round 371 -------------
+Preflop strenght: 0.5335
+Preflop strenght(opp): 0.5596625000000001
+Flop Strength: 0.23666666666666666
+Flop Strength: 0.24166666666666667
+pot odds: 0.25
+--------Round 372 -------------
+Preflop strenght: 0.66425
+Preflop strenght(opp): 0.5596625000000001
+Flop Strength: 0.5966666666666667
+Turn Strength: 0.5366666666666666
+River Strength: 0.0033333333333333335
+pot odds: 0.25
+--------Round 373 -------------
+Preflop strenght: 0.56325
+Preflop strenght(opp): 0.5596625000000001
+Flop Strength: 0.4866666666666667
+Turn Strength: 0.4066666666666667
+River Strength: 0.0033333333333333335
+--------Round 374 -------------
+Preflop strenght: 0.4405
+Preflop strenght(opp): 0.5620874999999999
+--------Round 375 -------------
+Preflop strenght: 0.563
+Preflop strenght(opp): 0.5620874999999999
+Flop Strength: 0.6516666666666666
+Flop Strength: 0.61
+pot odds: 0.25
+Flop Strength: 0.5883333333333334
+pot odds: 0.16593886462882096
+Turn Strength: 0.5966666666666667
+River Strength: 0.0033333333333333335
+--------Round 376 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5629625
+--------Round 377 -------------
+--------Round 378 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5629625
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5629625
+Flop Strength: 0.865
+pot odds: 0.25
+Flop Strength: 0.83
+pot odds: 0.16603053435114504
+Turn Strength: 0.86
+River Strength: 0.0033333333333333335
+--------Round 379 -------------
+Preflop strenght: 0.4405
+Preflop strenght(opp): 0.5698749999999999
+--------Round 380 -------------
+Preflop strenght: 0.51625
+Preflop strenght(opp): 0.5698749999999999
+--------Round 381 -------------
+--------Round 382 -------------
+Preflop strenght: 0.4965
+Preflop strenght(opp): 0.5698749999999999
+--------Round 383 -------------
+Preflop strenght: 0.48825
+Preflop strenght(opp): 0.5698749999999999
+--------Round 384 -------------
+Preflop strenght: 0.53175
+Preflop strenght(opp): 0.5698749999999999
+Preflop strenght: 0.53175
+Preflop strenght(opp): 0.5698749999999999
+Flop Strength: 0.4533333333333333
+Turn Strength: 0.4266666666666667
+River Strength: 0.0
+--------Round 385 -------------
+--------Round 386 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5633624999999999
+--------Round 387 -------------
+--------Round 388 -------------
+Preflop strenght: 0.44975
+Preflop strenght(opp): 0.5633624999999999
+--------Round 389 -------------
+--------Round 390 -------------
+Preflop strenght: 0.423
+Preflop strenght(opp): 0.5633624999999999
+--------Round 391 -------------
+Preflop strenght: 0.5265
+Preflop strenght(opp): 0.5633624999999999
+Flop Strength: 0.5583333333333333
+Turn Strength: 0.4866666666666667
+River Strength: 0.0
+--------Round 392 -------------
+Preflop strenght: 0.47050000000000003
+Preflop strenght(opp): 0.5631499999999999
+--------Round 393 -------------
+Preflop strenght: 0.563
+Preflop strenght(opp): 0.5631499999999999
+Flop Strength: 0.18333333333333332
+Flop Strength: 0.18833333333333332
+pot odds: 0.25
+--------Round 394 -------------
+Preflop strenght: 0.6040000000000001
+Preflop strenght(opp): 0.5631499999999999
+--------Round 395 -------------
+Preflop strenght: 0.50125
+Preflop strenght(opp): 0.5631499999999999
+Flop Strength: 0.44166666666666665
+Flop Strength: 0.44666666666666666
+pot odds: 0.25
+Turn Strength: 0.27166666666666667
+Turn Strength: 0.2683333333333333
+pot odds: 0.25
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.25
+--------Round 396 -------------
+Preflop strenght: 0.5405
+Preflop strenght(opp): 0.5631499999999999
+Flop Strength: 0.31833333333333336
+Turn Strength: 0.24
+River Strength: 0.0
+--------Round 397 -------------
+Preflop strenght: 0.43525
+Preflop strenght(opp): 0.5553374999999998
+Flop Strength: 0.465
+Turn Strength: 0.31666666666666665
+River Strength: 0.0
+--------Round 398 -------------
+Preflop strenght: 0.45725000000000005
+Preflop strenght(opp): 0.5568250000000001
+--------Round 399 -------------
+Preflop strenght: 0.504
+Preflop strenght(opp): 0.5568250000000001
+Flop Strength: 0.5566666666666666
+Turn Strength: 0.41333333333333333
+Turn Strength: 0.39166666666666666
+pot odds: 0.25
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.25
+--------Round 400 -------------
+Preflop strenght: 0.49750000000000005
+Preflop strenght(opp): 0.5568250000000001
+--------Round 401 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.5568250000000001
+--------Round 402 -------------
+Preflop strenght: 0.532
+Preflop strenght(opp): 0.5568250000000001
+Preflop strenght: 0.532
+Preflop strenght(opp): 0.5568250000000001
+Flop Strength: 0.4666666666666667
+Turn Strength: 0.365
+pot odds: 0.25
+River Strength: 0.0
+--------Round 403 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.5514499999999999
+Flop Strength: 0.56
+Flop Strength: 0.5716666666666667
+pot odds: 0.25
+Flop Strength: 0.5633333333333334
+pot odds: 0.1652892561983471
+Turn Strength: 0.775
+Turn Strength: 0.775
+pot odds: 0.22740963855421686
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.05733333333333333
+--------Round 404 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5514499999999999
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5514499999999999
+Flop Strength: 0.81
+--------Round 405 -------------
+Preflop strenght: 0.55425
+Preflop strenght(opp): 0.5514499999999999
+Flop Strength: 0.7366666666666667
+Flop Strength: 0.7466666666666667
+pot odds: 0.22687224669603523
+Turn Strength: 0.6966666666666667
+River Strength: 0.0
+--------Round 406 -------------
+Preflop strenght: 0.46925
+Preflop strenght(opp): 0.5517999999999998
+--------Round 407 -------------
+Preflop strenght: 0.4795
+Preflop strenght(opp): 0.5517999999999998
+--------Round 408 -------------
+Preflop strenght: 0.60525
+Preflop strenght(opp): 0.5517999999999998
+Flop Strength: 0.6766666666666666
+Turn Strength: 0.89
+--------Round 409 -------------
+Preflop strenght: 0.4555
+Preflop strenght(opp): 0.5517999999999998
+--------Round 410 -------------
+Preflop strenght: 0.43225
+Preflop strenght(opp): 0.5517999999999998
+--------Round 411 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5517999999999998
+Flop Strength: 0.17166666666666666
+Turn Strength: 0.20166666666666666
+River Strength: 0.0
+--------Round 412 -------------
+Preflop strenght: 0.49275
+Preflop strenght(opp): 0.5531374999999998
+--------Round 413 -------------
+Preflop strenght: 0.504
+Preflop strenght(opp): 0.5531374999999998
+Flop Strength: 0.59
+Turn Strength: 0.44166666666666665
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.24922118380062305
+--------Round 414 -------------
+Preflop strenght: 0.46875
+Preflop strenght(opp): 0.5531374999999998
+--------Round 415 -------------
+Preflop strenght: 0.474
+Preflop strenght(opp): 0.5531374999999998
+Flop Strength: 0.655
+Flop Strength: 0.6116666666666667
+pot odds: 0.2267080745341615
+Turn Strength: 0.52
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.25
+--------Round 416 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.5531374999999998
+Flop Strength: 0.555
+Turn Strength: 0.5316666666666666
+pot odds: 0.25
+River Strength: 0.0033333333333333335
+pot odds: 0.25
+--------Round 417 -------------
+Preflop strenght: 0.52525
+Preflop strenght(opp): 0.5531374999999998
+Flop Strength: 0.4533333333333333
+Turn Strength: 0.59
+River Strength: 0.0033333333333333335
+--------Round 418 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5486249999999998
+--------Round 419 -------------
+--------Round 420 -------------
+Preflop strenght: 0.56575
+Preflop strenght(opp): 0.5486249999999998
+--------Round 421 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5486249999999998
+--------Round 422 -------------
+Preflop strenght: 0.5355
+Preflop strenght(opp): 0.5486249999999998
+--------Round 423 -------------
+Preflop strenght: 0.49275
+Preflop strenght(opp): 0.5486249999999998
+--------Round 424 -------------
+Preflop strenght: 0.45199999999999996
+Preflop strenght(opp): 0.5486249999999998
+--------Round 425 -------------
+--------Round 426 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5486249999999998
+--------Round 427 -------------
+--------Round 428 -------------
+Preflop strenght: 0.4125
+Preflop strenght(opp): 0.5486249999999998
+--------Round 429 -------------
+Preflop strenght: 0.5625
+Preflop strenght(opp): 0.5486249999999998
+Flop Strength: 0.8283333333333334
+--------Round 430 -------------
+Preflop strenght: 0.475
+Preflop strenght(opp): 0.5486249999999998
+--------Round 431 -------------
+--------Round 432 -------------
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.5486249999999998
+Flop Strength: 0.525
+Turn Strength: 0.5333333333333333
+pot odds: 0.464
+River Strength: 0.0
+--------Round 433 -------------
+Preflop strenght: 0.4515
+Preflop strenght(opp): 0.545525
+Flop Strength: 0.405
+Turn Strength: 0.27666666666666667
+River Strength: 0.0
+--------Round 434 -------------
+Preflop strenght: 0.4125
+Preflop strenght(opp): 0.5436374999999998
+--------Round 435 -------------
+--------Round 436 -------------
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.5436374999999998
+Flop Strength: 0.355
+Turn Strength: 0.3233333333333333
+River Strength: 0.0
+--------Round 437 -------------
+--------Round 438 -------------
+Preflop strenght: 0.58575
+Preflop strenght(opp): 0.5410499999999998
+Flop Strength: 0.45
+Turn Strength: 0.2783333333333333
+River Strength: 0.0033333333333333335
+--------Round 439 -------------
+Preflop strenght: 0.49275
+Preflop strenght(opp): 0.5408
+Flop Strength: 0.575
+Turn Strength: 0.8416666666666667
+--------Round 440 -------------
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.5408
+Flop Strength: 0.18833333333333332
+Turn Strength: 0.16666666666666666
+River Strength: 0.0
+--------Round 441 -------------
+Preflop strenght: 0.43775
+Preflop strenght(opp): 0.5375500000000002
+Flop Strength: 0.3566666666666667
+Turn Strength: 0.36833333333333335
+River Strength: 0.0033333333333333335
+--------Round 442 -------------
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.5422624999999999
+Flop Strength: 0.6383333333333333
+Turn Strength: 0.69
+River Strength: 0.0033333333333333335
+--------Round 443 -------------
+--------Round 444 -------------
+Preflop strenght: 0.6040000000000001
+Preflop strenght(opp): 0.5400375000000002
+Flop Strength: 0.27166666666666667
+Turn Strength: 0.175
+River Strength: 0.0
+--------Round 445 -------------
+Preflop strenght: 0.57925
+Preflop strenght(opp): 0.5320125000000002
+Flop Strength: 0.6166666666666667
+--------Round 446 -------------
+Preflop strenght: 0.4375
+Preflop strenght(opp): 0.5320125000000002
+--------Round 447 -------------
+--------Round 448 -------------
+Preflop strenght: 0.53175
+Preflop strenght(opp): 0.5320125000000002
+Flop Strength: 0.2733333333333333
+Turn Strength: 0.155
+River Strength: 0.0033333333333333335
+pot odds: 0.25
+--------Round 449 -------------
+Preflop strenght: 0.563
+Preflop strenght(opp): 0.5320125000000002
+Flop Strength: 0.65
+Flop Strength: 0.635
+pot odds: 0.25
+Turn Strength: 0.6316666666666667
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.36666666666666664
+--------Round 450 -------------
+Preflop strenght: 0.5002500000000001
+Preflop strenght(opp): 0.5320125000000002
+Flop Strength: 0.5016666666666667
+Turn Strength: 0.4766666666666667
+River Strength: 0.0
+--------Round 451 -------------
+--------Round 452 -------------
+Preflop strenght: 0.40900000000000003
+Preflop strenght(opp): 0.5285624999999999
+--------Round 453 -------------
+Preflop strenght: 0.66425
+Preflop strenght(opp): 0.5285624999999999
+Flop Strength: 0.4766666666666667
+Turn Strength: 0.34833333333333333
+Turn Strength: 0.3283333333333333
+pot odds: 0.4
+--------Round 454 -------------
+Preflop strenght: 0.504
+Preflop strenght(opp): 0.5285624999999999
+Flop Strength: 0.3933333333333333
+Turn Strength: 0.34
+River Strength: 0.0
+--------Round 455 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5218625000000002
+Flop Strength: 0.6916666666666667
+Turn Strength: 0.6933333333333334
+Turn Strength: 0.6783333333333333
+pot odds: 0.25
+Turn Strength: 0.6283333333333333
+pot odds: 0.16666666666666666
+Turn Strength: 0.7166666666666667
+pot odds: 0.10699588477366255
+River Strength: 0.0033333333333333335
+--------Round 456 -------------
+Preflop strenght: 0.62225
+Preflop strenght(opp): 0.5180000000000001
+Flop Strength: 0.36333333333333334
+Turn Strength: 0.6733333333333333
+pot odds: 0.25
+River Strength: 0.0033333333333333335
+--------Round 457 -------------
+Preflop strenght: 0.4905
+Preflop strenght(opp): 0.5122000000000001
+Flop Strength: 0.61
+--------Round 458 -------------
+Preflop strenght: 0.43525
+Preflop strenght(opp): 0.5122000000000001
+--------Round 459 -------------
+--------Round 460 -------------
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.5122000000000001
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.5122000000000001
+Flop Strength: 0.3933333333333333
+Turn Strength: 0.30666666666666664
+River Strength: 0.0033333333333333335
+--------Round 461 -------------
+Preflop strenght: 0.45825000000000005
+Preflop strenght(opp): 0.5156125
+--------Round 462 -------------
+Preflop strenght: 0.43525
+Preflop strenght(opp): 0.5156125
+--------Round 463 -------------
+--------Round 464 -------------
+Preflop strenght: 0.722
+Preflop strenght(opp): 0.5156125
+Flop Strength: 0.5866666666666667
+Turn Strength: 0.49666666666666665
+River Strength: 0.0033333333333333335
+--------Round 465 -------------
+Preflop strenght: 0.45825000000000005
+Preflop strenght(opp): 0.5132125
+--------Round 466 -------------
+Preflop strenght: 0.49724999999999997
+Preflop strenght(opp): 0.5132125
+Preflop strenght: 0.49724999999999997
+Preflop strenght(opp): 0.5132125
+Flop Strength: 0.6816666666666666
+Turn Strength: 0.5483333333333333
+River Strength: 0.0033333333333333335
+--------Round 467 -------------
+Preflop strenght: 0.475
+Preflop strenght(opp): 0.523175
+Flop Strength: 0.49333333333333335
+Turn Strength: 0.8583333333333333
+Turn Strength: 0.8266666666666667
+pot odds: 0.2144026186579378
+River Strength: 0.0033333333333333335
+--------Round 468 -------------
+Preflop strenght: 0.4965
+Preflop strenght(opp): 0.5286624999999999
+--------Round 469 -------------
+Preflop strenght: 0.57925
+Preflop strenght(opp): 0.5286624999999999
+Flop Strength: 0.23
+Turn Strength: 0.15833333333333333
+Turn Strength: 0.17833333333333334
+pot odds: 0.432
+--------Round 470 -------------
+Preflop strenght: 0.47050000000000003
+Preflop strenght(opp): 0.5286624999999999
+--------Round 471 -------------
+Preflop strenght: 0.8035
+Preflop strenght(opp): 0.5286624999999999
+Flop Strength: 0.6083333333333333
+Flop Strength: 0.585
+pot odds: 0.25
+Turn Strength: 0.6533333333333333
+River Strength: 0.0
+--------Round 472 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5315500000000002
+--------Round 473 -------------
+Preflop strenght: 0.601
+Preflop strenght(opp): 0.5315500000000002
+Flop Strength: 0.9
+--------Round 474 -------------
+Preflop strenght: 0.49724999999999997
+Preflop strenght(opp): 0.5315500000000002
+Preflop strenght: 0.49724999999999997
+Preflop strenght(opp): 0.5315500000000002
+Flop Strength: 0.6416666666666667
+pot odds: 0.25
+Turn Strength: 0.5183333333333333
+River Strength: 0.0
+--------Round 475 -------------
+Preflop strenght: 0.52525
+Preflop strenght(opp): 0.5438999999999999
+Flop Strength: 0.5133333333333333
+Turn Strength: 0.7383333333333333
+River Strength: 0.0033333333333333335
+--------Round 476 -------------
+Preflop strenght: 0.48350000000000004
+Preflop strenght(opp): 0.5401499999999998
+--------Round 477 -------------
+Preflop strenght: 0.4125
+Preflop strenght(opp): 0.5401499999999998
+--------Round 478 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5401499999999998
+--------Round 479 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.5401499999999998
+Flop Strength: 0.31666666666666665
+Turn Strength: 0.2833333333333333
+River Strength: 0.0
+--------Round 480 -------------
+Preflop strenght: 0.5365
+Preflop strenght(opp): 0.5425625
+Flop Strength: 0.5033333333333333
+Turn Strength: 0.5116666666666667
+pot odds: 0.25
+River Strength: 0.0
+--------Round 481 -------------
+Preflop strenght: 0.40900000000000003
+Preflop strenght(opp): 0.537425
+--------Round 482 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.537425
+Flop Strength: 0.36333333333333334
+pot odds: 0.432
+--------Round 483 -------------
+Preflop strenght: 0.38525
+Preflop strenght(opp): 0.537425
+--------Round 484 -------------
+Preflop strenght: 0.45199999999999996
+Preflop strenght(opp): 0.537425
+--------Round 485 -------------
+Preflop strenght: 0.4905
+Preflop strenght(opp): 0.537425
+Flop Strength: 0.71
+Turn Strength: 0.6983333333333334
+River Strength: 0.0033333333333333335
+--------Round 486 -------------
+Preflop strenght: 0.50075
+Preflop strenght(opp): 0.5341375000000002
+Flop Strength: 0.7516666666666667
+Flop Strength: 0.7033333333333334
+pot odds: 0.2276923076923077
+Turn Strength: 0.8233333333333334
+River Strength: 0.0
+--------Round 487 -------------
+--------Round 488 -------------
+Preflop strenght: 0.5365
+Preflop strenght(opp): 0.5370000000000001
+Flop Strength: 0.645
+pot odds: 0.25
+Flop Strength: 0.605
+pot odds: 0.1652892561983471
+Flop Strength: 0.5916666666666667
+pot odds: 0.11467889908256881
+Turn Strength: 0.49833333333333335
+River Strength: 0.0033333333333333335
+--------Round 489 -------------
+--------Round 490 -------------
+Preflop strenght: 0.6132500000000001
+Preflop strenght(opp): 0.5335500000000001
+--------Round 491 -------------
+--------Round 492 -------------
+Preflop strenght: 0.54025
+Preflop strenght(opp): 0.5335500000000001
+Flop Strength: 0.6633333333333333
+Flop Strength: 0.575
+pot odds: 0.2261904761904762
+Flop Strength: 0.6183333333333333
+pot odds: 0.14396887159533073
+Turn Strength: 0.93
+River Strength: 0.0033333333333333335
+--------Round 493 -------------
+--------Round 494 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5385125
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5385125
+Flop Strength: 0.43833333333333335
+pot odds: 0.25
+Turn Strength: 0.23666666666666666
+River Strength: 0.0
+pot odds: 0.25
+--------Round 495 -------------
+Preflop strenght: 0.6040000000000001
+Preflop strenght(opp): 0.5385125
+Flop Strength: 0.9466666666666667
+--------Round 496 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5385125
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5385125
+Flop Strength: 0.12666666666666668
+pot odds: 0.25
+--------Round 497 -------------
+--------Round 498 -------------
+Preflop strenght: 0.66425
+Preflop strenght(opp): 0.5385125
+Flop Strength: 0.8766666666666667
+pot odds: 0.25
+Turn Strength: 0.8933333333333333
+River Strength: 0.0033333333333333335
+--------Round 499 -------------
+Preflop strenght: 0.46025
+Preflop strenght(opp): 0.5373625
+--------Round 500 -------------
+Preflop strenght: 0.59
+Preflop strenght(opp): 0.5373625
+--------Round 501 -------------
+Preflop strenght: 0.46925
+Preflop strenght(opp): 0.5373625
+--------Round 502 -------------
+Preflop strenght: 0.44525
+Preflop strenght(opp): 0.5373625
+--------Round 503 -------------
+--------Round 504 -------------
+Preflop strenght: 0.4555
+Preflop strenght(opp): 0.5373625
+--------Round 505 -------------
+Preflop strenght: 0.4125
+Preflop strenght(opp): 0.5373625
+Flop Strength: 0.64
+--------Round 506 -------------
+Preflop strenght: 0.53675
+Preflop strenght(opp): 0.5373625
+Flop Strength: 0.6116666666666667
+Turn Strength: 0.605
+Turn Strength: 0.5983333333333334
+pot odds: 0.22633744855967078
+Turn Strength: 0.5516666666666666
+pot odds: 0.1448692152917505
+River Strength: 0.0033333333333333335
+--------Round 507 -------------
+Preflop strenght: 0.7505
+Preflop strenght(opp): 0.5359125
+Flop Strength: 0.5416666666666666
+Flop Strength: 0.5983333333333334
+pot odds: 0.25
+Turn Strength: 0.46166666666666667
+River Strength: 0.0
+--------Round 508 -------------
+Preflop strenght: 0.5595
+Preflop strenght(opp): 0.536125
+Flop Strength: 0.2866666666666667
+Turn Strength: 0.13833333333333334
+pot odds: 0.25
+--------Round 509 -------------
+Preflop strenght: 0.432
+Preflop strenght(opp): 0.536125
+--------Round 510 -------------
+Preflop strenght: 0.5002500000000001
+Preflop strenght(opp): 0.536125
+Flop Strength: 0.7266666666666667
+--------Round 511 -------------
+Preflop strenght: 0.5285
+Preflop strenght(opp): 0.536125
+Flop Strength: 0.2
+Turn Strength: 0.09666666666666666
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.25
+--------Round 512 -------------
+Preflop strenght: 0.48850000000000005
+Preflop strenght(opp): 0.536125
+Flop Strength: 0.9366666666666666
+pot odds: 0.25
+Flop Strength: 0.94
+pot odds: 0.16666666666666666
+Flop Strength: 0.91
+pot odds: 0.10699588477366255
+Turn Strength: 0.9366666666666666
+River Strength: 0.0033333333333333335
+--------Round 513 -------------
+Preflop strenght: 0.58575
+Preflop strenght(opp): 0.5352875000000001
+Flop Strength: 0.6966666666666667
+Turn Strength: 0.9533333333333334
+--------Round 514 -------------
+Preflop strenght: 0.44525
+Preflop strenght(opp): 0.5352875000000001
+--------Round 515 -------------
+Preflop strenght: 0.5587500000000001
+Preflop strenght(opp): 0.5352875000000001
+Flop Strength: 0.5933333333333334
+Flop Strength: 0.5666666666666667
+pot odds: 0.432
+Turn Strength: 0.4266666666666667
+River Strength: 0.0
+--------Round 516 -------------
+Preflop strenght: 0.49724999999999997
+Preflop strenght(opp): 0.54175
+Flop Strength: 0.5816666666666667
+Turn Strength: 0.75
+--------Round 517 -------------
+--------Round 518 -------------
+Preflop strenght: 0.39999999999999997
+Preflop strenght(opp): 0.54175
+--------Round 519 -------------
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.54175
+Flop Strength: 0.68
+Turn Strength: 0.635
+River Strength: 0.0
+--------Round 520 -------------
+Preflop strenght: 0.57375
+Preflop strenght(opp): 0.5444374999999999
+--------Round 521 -------------
+Preflop strenght: 0.45199999999999996
+Preflop strenght(opp): 0.5444374999999999
+--------Round 522 -------------
+Preflop strenght: 0.532
+Preflop strenght(opp): 0.5444374999999999
+Flop Strength: 0.5383333333333333
+Turn Strength: 0.44
+River Strength: 0.0
+--------Round 523 -------------
+--------Round 524 -------------
+Preflop strenght: 0.46175
+Preflop strenght(opp): 0.5459999999999999
+--------Round 525 -------------
+Preflop strenght: 0.601
+Preflop strenght(opp): 0.5459999999999999
+Flop Strength: 0.91
+--------Round 526 -------------
+Preflop strenght: 0.46925
+Preflop strenght(opp): 0.5459999999999999
+--------Round 527 -------------
+Preflop strenght: 0.5285
+Preflop strenght(opp): 0.5459999999999999
+Flop Strength: 0.5733333333333334
+Turn Strength: 0.52
+Turn Strength: 0.5283333333333333
+pot odds: 0.432
+River Strength: 0.0
+--------Round 528 -------------
+Preflop strenght: 0.532
+Preflop strenght(opp): 0.5452999999999999
+Flop Strength: 0.86
+--------Round 529 -------------
+--------Round 530 -------------
+Preflop strenght: 0.4795
+Preflop strenght(opp): 0.5452999999999999
+--------Round 531 -------------
+Preflop strenght: 0.40900000000000003
+Preflop strenght(opp): 0.5452999999999999
+Flop Strength: 0.625
+Turn Strength: 0.7833333333333333
+River Strength: 0.0
+--------Round 532 -------------
+Preflop strenght: 0.5255
+Preflop strenght(opp): 0.546725
+Flop Strength: 0.885
+--------Round 533 -------------
+Preflop strenght: 0.5345
+Preflop strenght(opp): 0.546725
+--------Round 534 -------------
+Preflop strenght: 0.508
+Preflop strenght(opp): 0.546725
+Flop Strength: 0.42833333333333334
+Turn Strength: 0.3616666666666667
+pot odds: 0.4026745913818722
+--------Round 535 -------------
+--------Round 536 -------------
+Preflop strenght: 0.55225
+Preflop strenght(opp): 0.546725
+Flop Strength: 0.4216666666666667
+Turn Strength: 0.33166666666666667
+River Strength: 0.0
+--------Round 537 -------------
+Preflop strenght: 0.47275
+Preflop strenght(opp): 0.5448999999999998
+--------Round 538 -------------
+Preflop strenght: 0.5275
+Preflop strenght(opp): 0.5448999999999998
+--------Round 539 -------------
+Preflop strenght: 0.4375
+Preflop strenght(opp): 0.5448999999999998
+Flop Strength: 0.3516666666666667
+Turn Strength: 0.62
+River Strength: 0.0
+--------Round 540 -------------
+Preflop strenght: 0.55075
+Preflop strenght(opp): 0.53995
+--------Round 541 -------------
+Preflop strenght: 0.47475
+Preflop strenght(opp): 0.53995
+--------Round 542 -------------
+Preflop strenght: 0.47450000000000003
+Preflop strenght(opp): 0.53995
+--------Round 543 -------------
+--------Round 544 -------------
+Preflop strenght: 0.39649999999999996
+Preflop strenght(opp): 0.53995
+--------Round 545 -------------
+Preflop strenght: 0.5595
+Preflop strenght(opp): 0.53995
+Flop Strength: 0.6516666666666666
+Turn Strength: 0.44
+River Strength: 0.0
+--------Round 546 -------------
+Preflop strenght: 0.563
+Preflop strenght(opp): 0.5363624999999999
+Flop Strength: 0.695
+pot odds: 0.25
+Flop Strength: 0.6433333333333333
+pot odds: 0.16590909090909092
+Turn Strength: 0.8033333333333333
+pot odds: 0.21354166666666666
+River Strength: 0.0
+--------Round 547 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5290374999999999
+Flop Strength: 0.4583333333333333
+Flop Strength: 0.46
+pot odds: 0.25
+Turn Strength: 0.5016666666666667
+Turn Strength: 0.5233333333333333
+pot odds: 0.25
+River Strength: 0.0
+--------Round 548 -------------
+Preflop strenght: 0.4375
+Preflop strenght(opp): 0.5352875000000001
+--------Round 549 -------------
+--------Round 550 -------------
+Preflop strenght: 0.44725000000000004
+Preflop strenght(opp): 0.5352875000000001
+--------Round 551 -------------
+Preflop strenght: 0.55075
+Preflop strenght(opp): 0.5352875000000001
+Flop Strength: 0.6483333333333333
+Flop Strength: 0.6266666666666667
+pot odds: 0.22740524781341107
+Turn Strength: 0.565
+River Strength: 0.0
+--------Round 552 -------------
+Preflop strenght: 0.5035000000000001
+Preflop strenght(opp): 0.5333875000000001
+Preflop strenght: 0.5035000000000001
+Preflop strenght(opp): 0.5333875000000001
+Flop Strength: 0.555
+pot odds: 0.25
+Flop Strength: 0.645
+pot odds: 0.16666666666666666
+Turn Strength: 0.59
+River Strength: 0.0
+--------Round 553 -------------
+Preflop strenght: 0.5345
+Preflop strenght(opp): 0.53795
+Flop Strength: 0.635
+Turn Strength: 0.5516666666666666
+River Strength: 0.0
+--------Round 554 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.538475
+--------Round 555 -------------
+Preflop strenght: 0.601
+Preflop strenght(opp): 0.538475
+Flop Strength: 0.7483333333333333
+Flop Strength: 0.7716666666666666
+pot odds: 0.22727272727272727
+Flop Strength: 0.7866666666666666
+pot odds: 0.14534883720930233
+Flop Strength: 0.73
+pot odds: 0.0967741935483871
+Turn Strength: 0.935
+River Strength: 0.0
+--------Round 556 -------------
+Preflop strenght: 0.5595
+Preflop strenght(opp): 0.5348249999999999
+--------Round 557 -------------
+Preflop strenght: 0.49975
+Preflop strenght(opp): 0.5348249999999999
+Flop Strength: 0.59
+Turn Strength: 0.5816666666666667
+River Strength: 0.0033333333333333335
+--------Round 558 -------------
+Preflop strenght: 0.47450000000000003
+Preflop strenght(opp): 0.5372750000000001
+--------Round 559 -------------
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.5372750000000001
+Flop Strength: 0.44166666666666665
+Flop Strength: 0.36666666666666664
+pot odds: 0.25
+Turn Strength: 0.5283333333333333
+River Strength: 0.0033333333333333335
+--------Round 560 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.533425
+Flop Strength: 0.715
+--------Round 561 -------------
+--------Round 562 -------------
+Preflop strenght: 0.45825000000000005
+Preflop strenght(opp): 0.533425
+--------Round 563 -------------
+--------Round 564 -------------
+Preflop strenght: 0.4175
+Preflop strenght(opp): 0.533425
+--------Round 565 -------------
+--------Round 566 -------------
+Preflop strenght: 0.4795
+Preflop strenght(opp): 0.533425
+--------Round 567 -------------
+Preflop strenght: 0.47450000000000003
+Preflop strenght(opp): 0.533425
+Flop Strength: 0.105
+Flop Strength: 0.10666666666666667
+pot odds: 0.25
+--------Round 568 -------------
+Preflop strenght: 0.49975
+Preflop strenght(opp): 0.533425
+Preflop strenght: 0.49975
+Preflop strenght(opp): 0.533425
+Flop Strength: 0.4066666666666667
+Turn Strength: 0.36
+River Strength: 0.0033333333333333335
+--------Round 569 -------------
+Preflop strenght: 0.44725000000000004
+Preflop strenght(opp): 0.5319625
+Flop Strength: 0.34833333333333333
+Turn Strength: 0.2633333333333333
+River Strength: 0.0
+--------Round 570 -------------
+Preflop strenght: 0.6819999999999999
+Preflop strenght(opp): 0.5359125
+--------Round 571 -------------
+Preflop strenght: 0.44725000000000004
+Preflop strenght(opp): 0.5359125
+Flop Strength: 0.08666666666666667
+Flop Strength: 0.07333333333333333
+pot odds: 0.25
+--------Round 572 -------------
+Preflop strenght: 0.5215000000000001
+Preflop strenght(opp): 0.5359125
+Flop Strength: 0.8783333333333333
+--------Round 573 -------------
+--------Round 574 -------------
+Preflop strenght: 0.42600000000000005
+Preflop strenght(opp): 0.5359125
+--------Round 575 -------------
+Preflop strenght: 0.46925
+Preflop strenght(opp): 0.5359125
+Flop Strength: 0.5283333333333333
+Turn Strength: 0.4633333333333333
+River Strength: 0.0
+--------Round 576 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5355749999999999
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5355749999999999
+Flop Strength: 0.59
+pot odds: 0.25
+Turn Strength: 0.525
+River Strength: 0.0
+--------Round 577 -------------
+Preflop strenght: 0.42900000000000005
+Preflop strenght(opp): 0.5430875000000001
+Flop Strength: 0.125
+Turn Strength: 0.09666666666666666
+River Strength: 0.0
+--------Round 578 -------------
+Preflop strenght: 0.4405
+Preflop strenght(opp): 0.5361875000000002
+--------Round 579 -------------
+Preflop strenght: 0.4825
+Preflop strenght(opp): 0.5361875000000002
+--------Round 580 -------------
+Preflop strenght: 0.5625
+Preflop strenght(opp): 0.5361875000000002
+Preflop strenght: 0.5625
+Preflop strenght(opp): 0.5361875000000002
+Flop Strength: 0.47833333333333333
+Turn Strength: 0.37333333333333335
+pot odds: 0.25
+River Strength: 0.0
+pot odds: 0.25
+--------Round 581 -------------
+Preflop strenght: 0.49750000000000005
+Preflop strenght(opp): 0.5361875000000002
+Flop Strength: 0.8116666666666666
+Flop Strength(opp): 0.5361875000000002
+Flop Strength: 0.7566666666666667
+pot odds: 0.22573363431151242
+Turn Strength: 0.8683333333333333
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.20893561103810776
+--------Round 582 -------------
+Preflop strenght: 0.552
+Preflop strenght(opp): 0.5361875000000002
+Flop Strength: 0.5783333333333334
+Turn Strength: 0.49
+River Strength: 0.0
+--------Round 583 -------------
+--------Round 584 -------------
+Preflop strenght: 0.508
+Preflop strenght(opp): 0.5373000000000001
+Flop Strength: 0.4066666666666667
+Turn Strength: 0.2816666666666667
+River Strength: 0.0
+--------Round 585 -------------
+Preflop strenght: 0.4345
+Preflop strenght(opp): 0.5357000000000001
+Flop Strength: 0.6566666666666666
+Turn Strength: 0.5083333333333333
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.43380281690140843
+--------Round 586 -------------
+Preflop strenght: 0.46425
+Preflop strenght(opp): 0.5357000000000001
+--------Round 587 -------------
+Preflop strenght: 0.45825
+Preflop strenght(opp): 0.5357000000000001
+--------Round 588 -------------
+Preflop strenght: 0.47975
+Preflop strenght(opp): 0.5357000000000001
+--------Round 589 -------------
+Preflop strenght: 0.56725
+Preflop strenght(opp): 0.5357000000000001
+Flop Strength: 0.65
+Turn Strength: 0.7433333333333333
+River Strength: 0.0
+--------Round 590 -------------
+Preflop strenght: 0.55425
+Preflop strenght(opp): 0.5378000000000002
+Flop Strength: 0.5333333333333333
+Turn Strength: 0.5733333333333334
+pot odds: 0.25
+River Strength: 0.0
+pot odds: 0.25
+--------Round 591 -------------
+Preflop strenght: 0.57375
+Preflop strenght(opp): 0.5378000000000002
+Flop Strength: 0.5433333333333333
+Turn Strength: 0.87
+Turn Strength: 0.89
+pot odds: 0.14331210191082802
+River Strength: 0.0
+--------Round 592 -------------
+Preflop strenght: 0.57375
+Preflop strenght(opp): 0.5398250000000001
+Flop Strength: 0.2733333333333333
+pot odds: 0.25
+Turn Strength: 0.22666666666666666
+pot odds: 0.25
+--------Round 593 -------------
+--------Round 594 -------------
+Preflop strenght: 0.434
+Preflop strenght(opp): 0.5398250000000001
+--------Round 595 -------------
+Preflop strenght: 0.49724999999999997
+Preflop strenght(opp): 0.5398250000000001
+Flop Strength: 0.8316666666666667
+--------Round 596 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.5398250000000001
+Flop Strength: 0.6283333333333333
+pot odds: 0.25
+Flop Strength: 0.6283333333333333
+pot odds: 0.16593886462882096
+Turn Strength: 0.7583333333333333
+River Strength: 0.0033333333333333335
+pot odds: 0.076
+--------Round 597 -------------
+Preflop strenght: 0.46175
+Preflop strenght(opp): 0.5398250000000001
+Flop Strength: 0.48833333333333334
+Turn Strength: 0.605
+River Strength: 0.0033333333333333335
+--------Round 598 -------------
+Preflop strenght: 0.48025
+Preflop strenght(opp): 0.5371375
+--------Round 599 -------------
+Preflop strenght: 0.46875
+Preflop strenght(opp): 0.5371375
+--------Round 600 -------------
+Preflop strenght: 0.59
+Preflop strenght(opp): 0.5371375
+Flop Strength: 0.6066666666666667
+Flop Strength: 0.6116666666666667
+pot odds: 0.22602739726027396
+Turn Strength: 0.5916666666666667
+River Strength: 0.0
+--------Round 601 -------------
+Preflop strenght: 0.59
+Preflop strenght(opp): 0.5356750000000001
+Flop Strength: 0.48
+Flop Strength: 0.485
+pot odds: 0.24904214559386972
+Turn Strength: 0.5816666666666667
+River Strength: 0.0
+--------Round 602 -------------
+Preflop strenght: 0.41150000000000003
+Preflop strenght(opp): 0.5355624999999999
+--------Round 603 -------------
+Preflop strenght: 0.41150000000000003
+Preflop strenght(opp): 0.5355624999999999
+--------Round 604 -------------
+Preflop strenght: 0.592
+Preflop strenght(opp): 0.5355624999999999
+Preflop strenght: 0.592
+Preflop strenght(opp): 0.5355624999999999
+Flop Strength: 0.5033333333333333
+Turn Strength: 0.365
+River Strength: 0.0033333333333333335
+pot odds: 0.25
+--------Round 605 -------------
+--------Round 606 -------------
+Preflop strenght: 0.47975
+Preflop strenght(opp): 0.5355624999999999
+--------Round 607 -------------
+Preflop strenght: 0.57925
+Preflop strenght(opp): 0.5355624999999999
+Flop Strength: 0.49833333333333335
+Turn Strength: 0.8066666666666666
+Turn Strength: 0.7633333333333333
+pot odds: 0.21348314606741572
+River Strength: 0.0033333333333333335
+--------Round 608 -------------
+Preflop strenght: 0.49275
+Preflop strenght(opp): 0.5293749999999999
+--------Round 609 -------------
+Preflop strenght: 0.46199999999999997
+Preflop strenght(opp): 0.5293749999999999
+--------Round 610 -------------
+Preflop strenght: 0.39649999999999996
+Preflop strenght(opp): 0.5293749999999999
+--------Round 611 -------------
+Preflop strenght: 0.5387500000000001
+Preflop strenght(opp): 0.5293749999999999
+Flop Strength: 0.5516666666666666
+Turn Strength: 0.5116666666666667
+River Strength: 0.0
+--------Round 612 -------------
+Preflop strenght: 0.49375
+Preflop strenght(opp): 0.5361250000000002
+--------Round 613 -------------
+--------Round 614 -------------
+Preflop strenght: 0.601
+Preflop strenght(opp): 0.5361250000000002
+Flop Strength: 0.64
+pot odds: 0.25
+Turn Strength: 0.685
+pot odds: 0.25
+Turn Strength: 0.6383333333333333
+pot odds: 0.16607773851590105
+River Strength: 0.0033333333333333335
+--------Round 615 -------------
+Preflop strenght: 0.58375
+Preflop strenght(opp): 0.5353625
+Flop Strength: 0.27166666666666667
+Turn Strength: 0.205
+River Strength: 0.0
+--------Round 616 -------------
+Preflop strenght: 0.45825000000000005
+Preflop strenght(opp): 0.5336000000000001
+--------Round 617 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5336000000000001
+Flop Strength: 0.3883333333333333
+Turn Strength: 0.31
+River Strength: 0.0
+--------Round 618 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.5357375
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.5357375
+Flop Strength: 0.5433333333333333
+Turn Strength: 0.45166666666666666
+River Strength: 0.0
+--------Round 619 -------------
+Preflop strenght: 0.58925
+Preflop strenght(opp): 0.5365125000000002
+Flop Strength: 0.6533333333333333
+Flop Strength: 0.63
+pot odds: 0.25
+Flop Strength: 0.6283333333333333
+pot odds: 0.16593886462882096
+Turn Strength: 0.6533333333333333
+River Strength: 0.0033333333333333335
+--------Round 620 -------------
+Preflop strenght: 0.47475
+Preflop strenght(opp): 0.5390500000000003
+--------Round 621 -------------
+Preflop strenght: 0.508
+Preflop strenght(opp): 0.5390500000000003
+Flop Strength: 0.7216666666666667
+Turn Strength: 0.5916666666666667
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.25
+--------Round 622 -------------
+Preflop strenght: 0.55075
+Preflop strenght(opp): 0.5390500000000003
+Flop Strength: 0.6183333333333333
+Turn Strength: 0.5133333333333333
+River Strength: 0.0033333333333333335
+--------Round 623 -------------
+--------Round 624 -------------
+Preflop strenght: 0.552
+Preflop strenght(opp): 0.5404749999999998
+Preflop strenght: 0.552
+Preflop strenght(opp): 0.5404749999999998
+--------Round 625 -------------
+--------Round 626 -------------
+Preflop strenght: 0.44725000000000004
+Preflop strenght(opp): 0.5404749999999998
+--------Round 627 -------------
+Preflop strenght: 0.5395
+Preflop strenght(opp): 0.5404749999999998
+Flop Strength: 0.58
+Turn Strength: 0.5316666666666666
+River Strength: 0.0033333333333333335
+--------Round 628 -------------
+Preflop strenght: 0.4375
+Preflop strenght(opp): 0.539225
+--------Round 629 -------------
+Preflop strenght: 0.50925
+Preflop strenght(opp): 0.539225
+Flop Strength: 0.345
+Turn Strength: 0.29833333333333334
+River Strength: 0.0
+--------Round 630 -------------
+Preflop strenght: 0.7482500000000001
+Preflop strenght(opp): 0.5368625
+--------Round 631 -------------
+--------Round 632 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.5368625
+--------Round 633 -------------
+Preflop strenght: 0.53675
+Preflop strenght(opp): 0.5368625
+Flop Strength: 0.35833333333333334
+Turn Strength: 0.29333333333333333
+River Strength: 0.0033333333333333335
+--------Round 634 -------------
+Preflop strenght: 0.5365
+Preflop strenght(opp): 0.5359
+Flop Strength: 0.16333333333333333
+Turn Strength: 0.085
+pot odds: 0.25
+--------Round 635 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5359
+Flop Strength: 0.5483333333333333
+Flop Strength: 0.5466666666666666
+pot odds: 0.25
+Turn Strength: 0.5833333333333334
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.428
+--------Round 636 -------------
+Preflop strenght: 0.5345
+Preflop strenght(opp): 0.5359
+--------Round 637 -------------
+Preflop strenght: 0.45825000000000005
+Preflop strenght(opp): 0.5359
+--------Round 638 -------------
+Preflop strenght: 0.49975
+Preflop strenght(opp): 0.5359
+--------Round 639 -------------
+--------Round 640 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5359
+Flop Strength: 0.415
+Turn Strength: 0.5416666666666666
+River Strength: 0.0033333333333333335
+--------Round 641 -------------
+Preflop strenght: 0.53175
+Preflop strenght(opp): 0.5280875
+Flop Strength: 0.39
+Turn Strength: 0.20333333333333334
+Turn Strength: 0.24333333333333335
+pot odds: 0.25
+--------Round 642 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5280875
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5280875
+--------Round 643 -------------
+Preflop strenght: 0.45825
+Preflop strenght(opp): 0.5280875
+--------Round 644 -------------
+Preflop strenght: 0.47075
+Preflop strenght(opp): 0.5280875
+--------Round 645 -------------
+--------Round 646 -------------
+Preflop strenght: 0.55075
+Preflop strenght(opp): 0.5280875
+Flop Strength: 0.6366666666666667
+Turn Strength: 0.66
+River Strength: 0.0033333333333333335
+--------Round 647 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.5292874999999999
+Flop Strength: 0.6783333333333333
+--------Round 648 -------------
+Preflop strenght: 0.52875
+Preflop strenght(opp): 0.5292874999999999
+Flop Strength: 0.495
+Turn Strength: 0.36333333333333334
+River Strength: 0.0
+--------Round 649 -------------
+Preflop strenght: 0.60525
+Preflop strenght(opp): 0.528125
+Flop Strength: 0.5783333333333334
+Turn Strength: 0.5683333333333334
+River Strength: 0.0
+--------Round 650 -------------
+Preflop strenght: 0.41150000000000003
+Preflop strenght(opp): 0.529625
+--------Round 651 -------------
+Preflop strenght: 0.43525
+Preflop strenght(opp): 0.529625
+Flop Strength: 0.3283333333333333
+Turn Strength: 0.39166666666666666
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.25
+--------Round 652 -------------
+Preflop strenght: 0.4795
+Preflop strenght(opp): 0.529625
+--------Round 653 -------------
+Preflop strenght: 0.4695
+Preflop strenght(opp): 0.529625
+--------Round 654 -------------
+Preflop strenght: 0.39149999999999996
+Preflop strenght(opp): 0.529625
+--------Round 655 -------------
+Preflop strenght: 0.45199999999999996
+Preflop strenght(opp): 0.529625
+Flop Strength: 0.23833333333333334
+Turn Strength: 0.16
+Turn Strength: 0.135
+pot odds: 0.25
+--------Round 656 -------------
+Preflop strenght: 0.48350000000000004
+Preflop strenght(opp): 0.529625
+Flop Strength: 0.3883333333333333
+pot odds: 0.25
+Turn Strength: 0.42
+River Strength: 0.0033333333333333335
+--------Round 657 -------------
+Preflop strenght: 0.5285
+Preflop strenght(opp): 0.53035
+Flop Strength: 0.8133333333333334
+--------Round 658 -------------
+Preflop strenght: 0.42600000000000005
+Preflop strenght(opp): 0.53035
+--------Round 659 -------------
+Preflop strenght: 0.55075
+Preflop strenght(opp): 0.53035
+Flop Strength: 0.35833333333333334
+Turn Strength: 0.285
+River Strength: 0.0
+--------Round 660 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.5292125000000001
+--------Round 661 -------------
+--------Round 662 -------------
+Preflop strenght: 0.47275
+Preflop strenght(opp): 0.5292125000000001
+--------Round 663 -------------
+--------Round 664 -------------
+Preflop strenght: 0.52925
+Preflop strenght(opp): 0.5292125000000001
+Preflop strenght: 0.52925
+Preflop strenght(opp): 0.5292125000000001
+Flop Strength: 0.5666666666666667
+Turn Strength: 0.6216666666666667
+River Strength: 0.0
+--------Round 665 -------------
+Preflop strenght: 0.6175
+Preflop strenght(opp): 0.5292125000000001
+Flop Strength: 0.5833333333333334
+Turn Strength: 0.9033333333333333
+River Strength: 0.0
+--------Round 666 -------------
+Preflop strenght: 0.4405
+Preflop strenght(opp): 0.541675
+--------Round 667 -------------
+Preflop strenght: 0.49124999999999996
+Preflop strenght(opp): 0.541675
+Flop Strength: 0.58
+Turn Strength: 0.465
+River Strength: 0.0033333333333333335
+--------Round 668 -------------
+Preflop strenght: 0.57375
+Preflop strenght(opp): 0.545275
+Flop Strength: 0.6166666666666667
+Turn Strength: 0.645
+pot odds: 0.25
+Turn Strength: 0.5933333333333334
+pot odds: 0.1652892561983471
+Turn Strength: 0.6383333333333333
+pot odds: 0.11467889908256881
+River Strength: 0.0
+--------Round 669 -------------
+Preflop strenght: 0.44975
+Preflop strenght(opp): 0.5493750000000002
+--------Round 670 -------------
+Preflop strenght: 0.5285
+Preflop strenght(opp): 0.5493750000000002
+Flop Strength: 0.625
+Flop Strength: 0.6033333333333334
+pot odds: 0.22740524781341107
+Flop Strength: 0.6233333333333333
+pot odds: 0.1325478645066274
+Turn Strength: 0.5816666666666667
+River Strength: 0.0
+--------Round 671 -------------
+Preflop strenght: 0.44525
+Preflop strenght(opp): 0.539675
+Flop Strength: 0.6116666666666667
+Flop Strength: 0.62
+pot odds: 0.25
+Flop Strength: 0.6116666666666667
+pot odds: 0.1652892561983471
+Flop Strength: 0.635
+pot odds: 0.11467889908256881
+Turn Strength: 0.5166666666666667
+River Strength: 0.0033333333333333335
+--------Round 672 -------------
+Preflop strenght: 0.4555
+Preflop strenght(opp): 0.5447125000000002
+--------Round 673 -------------
+--------Round 674 -------------
+Preflop strenght: 0.50075
+Preflop strenght(opp): 0.5447125000000002
+Flop Strength: 0.4666666666666667
+Turn Strength: 0.4066666666666667
+River Strength: 0.0
+--------Round 675 -------------
+Preflop strenght: 0.53675
+Preflop strenght(opp): 0.5410375
+Flop Strength: 0.6333333333333333
+Flop Strength: 0.6283333333333333
+pot odds: 0.22627737226277372
+Turn Strength: 0.6066666666666667
+River Strength: 0.0033333333333333335
+--------Round 676 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.537675
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.537675
+Flop Strength: 0.37
+Turn Strength: 0.2966666666666667
+pot odds: 0.25
+River Strength: 0.0
+--------Round 677 -------------
+--------Round 678 -------------
+Preflop strenght: 0.5002500000000001
+Preflop strenght(opp): 0.5354999999999999
+Flop Strength: 0.8566666666666667
+Flop Strength: 0.89
+pot odds: 0.21359223300970873
+Turn Strength: 0.7866666666666666
+River Strength: 0.0033333333333333335
+--------Round 679 -------------
+Preflop strenght: 0.601
+Preflop strenght(opp): 0.5342125
+Flop Strength: 0.8083333333333333
+Flop Strength: 0.7966666666666666
+pot odds: 0.21348314606741572
+Turn Strength: 0.5866666666666667
+Turn Strength: 0.5766666666666667
+pot odds: 0.144
+River Strength: 0.0033333333333333335
+--------Round 680 -------------
+Preflop strenght: 0.502
+Preflop strenght(opp): 0.5337625000000001
+Flop Strength: 0.6433333333333333
+Flop Strength: 0.6366666666666667
+pot odds: 0.2273781902552204
+Turn Strength: 0.5816666666666667
+River Strength: 0.0
+--------Round 681 -------------
+Preflop strenght: 0.56225
+Preflop strenght(opp): 0.5370625
+Flop Strength: 0.28833333333333333
+Flop Strength: 0.34833333333333333
+pot odds: 0.25
+Turn Strength: 0.365
+River Strength: 0.0
+--------Round 682 -------------
+Preflop strenght: 0.49975
+Preflop strenght(opp): 0.5407249999999999
+--------Round 683 -------------
+Preflop strenght: 0.45125
+Preflop strenght(opp): 0.5407249999999999
+Flop Strength: 0.8033333333333333
+Turn Strength: 0.8616666666666667
+--------Round 684 -------------
+Preflop strenght: 0.552
+Preflop strenght(opp): 0.5407249999999999
+Flop Strength: 0.6133333333333333
+Turn Strength: 0.6033333333333334
+River Strength: 0.0033333333333333335
+pot odds: 0.2440944881889764
+--------Round 685 -------------
+--------Round 686 -------------
+Preflop strenght: 0.45699999999999996
+Preflop strenght(opp): 0.5407249999999999
+--------Round 687 -------------
+--------Round 688 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5407249999999999
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5407249999999999
+Flop Strength: 0.4583333333333333
+Turn Strength: 0.6483333333333333
+River Strength: 0.0033333333333333335
+--------Round 689 -------------
+Preflop strenght: 0.52925
+Preflop strenght(opp): 0.542025
+Flop Strength: 0.7266666666666667
+Turn Strength: 0.6783333333333333
+River Strength: 0.0
+--------Round 690 -------------
+Preflop strenght: 0.45699999999999996
+Preflop strenght(opp): 0.5408375000000001
+--------Round 691 -------------
+--------Round 692 -------------
+Preflop strenght: 0.4375
+Preflop strenght(opp): 0.5408375000000001
+--------Round 693 -------------
+Preflop strenght: 0.5285
+Preflop strenght(opp): 0.5408375000000001
+Flop Strength: 0.5366666666666666
+Turn Strength: 0.42333333333333334
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.25
+--------Round 694 -------------
+Preflop strenght: 0.5035000000000001
+Preflop strenght(opp): 0.5408375000000001
+Preflop strenght: 0.5035000000000001
+Preflop strenght(opp): 0.5408375000000001
+Flop Strength: 0.25166666666666665
+pot odds: 0.25
+Turn Strength: 0.16333333333333333
+pot odds: 0.25
+--------Round 695 -------------
+Preflop strenght: 0.563
+Preflop strenght(opp): 0.5408375000000001
+Flop Strength: 0.29
+Flop Strength: 0.26166666666666666
+pot odds: 0.25
+Turn Strength: 0.24666666666666667
+River Strength: 0.0
+--------Round 696 -------------
+Preflop strenght: 0.45799999999999996
+Preflop strenght(opp): 0.5418125
+--------Round 697 -------------
+Preflop strenght: 0.502
+Preflop strenght(opp): 0.5418125
+Flop Strength: 0.45
+Turn Strength: 0.3516666666666667
+River Strength: 0.0
+--------Round 698 -------------
+Preflop strenght: 0.52875
+Preflop strenght(opp): 0.5454875000000001
+Flop Strength: 0.22
+Turn Strength: 0.295
+pot odds: 0.25
+River Strength: 0.0
+pot odds: 0.25
+--------Round 699 -------------
+Preflop strenght: 0.58375
+Preflop strenght(opp): 0.5454875000000001
+Flop Strength: 0.92
+Flop Strength: 0.92
+pot odds: 0.21454545454545454
+Flop Strength: 0.9233333333333333
+pot odds: 0.1319073083778966
+Turn Strength: 0.905
+River Strength: 0.0
+--------Round 700 -------------
+Preflop strenght: 0.45699999999999996
+Preflop strenght(opp): 0.5459375000000001
+--------Round 701 -------------
+Preflop strenght: 0.6819999999999999
+Preflop strenght(opp): 0.5459375000000001
+--------Round 702 -------------
+Preflop strenght: 0.56225
+Preflop strenght(opp): 0.5459375000000001
+Preflop strenght: 0.56225
+Preflop strenght(opp): 0.5459375000000001
+Flop Strength: 0.39166666666666666
+Turn Strength: 0.7283333333333334
+pot odds: 0.25
+Turn Strength: 0.6983333333333334
+pot odds: 0.16603053435114504
+River Strength: 0.0033333333333333335
+--------Round 703 -------------
+Preflop strenght: 0.42600000000000005
+Preflop strenght(opp): 0.5453375
+--------Round 704 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5453375
+--------Round 705 -------------
+Preflop strenght: 0.563
+Preflop strenght(opp): 0.5453375
+Flop Strength: 0.3516666666666667
+Flop Strength: 0.38666666666666666
+pot odds: 0.25
+Turn Strength: 0.5416666666666666
+Turn Strength: 0.49333333333333335
+pot odds: 0.25
+River Strength: 0.0033333333333333335
+--------Round 706 -------------
+Preflop strenght: 0.5387500000000001
+Preflop strenght(opp): 0.5485125
+Flop Strength: 0.2
+pot odds: 0.25
+--------Round 707 -------------
+--------Round 708 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5485125
+--------Round 709 -------------
+Preflop strenght: 0.48825
+Preflop strenght(opp): 0.5485125
+Flop Strength: 0.8816666666666667
+--------Round 710 -------------
+Preflop strenght: 0.56325
+Preflop strenght(opp): 0.5485125
+Preflop strenght: 0.56325
+Preflop strenght(opp): 0.5485125
+Flop Strength: 0.36
+Turn Strength: 0.345
+River Strength: 0.0
+pot odds: 0.25
+--------Round 711 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.5485125
+Flop Strength: 0.7133333333333334
+Flop Strength: 0.7433333333333333
+pot odds: 0.25
+Flop Strength: 0.7266666666666667
+pot odds: 0.16590909090909092
+Turn Strength: 0.765
+River Strength: 0.0033333333333333335
+--------Round 712 -------------
+Preflop strenght: 0.57925
+Preflop strenght(opp): 0.5530250000000001
+Preflop strenght: 0.57925
+Preflop strenght(opp): 0.5530250000000001
+Flop Strength: 0.6733333333333333
+pot odds: 0.25
+Flop Strength: 0.64
+pot odds: 0.16603053435114504
+Turn Strength: 0.6666666666666666
+River Strength: 0.0
+--------Round 713 -------------
+Preflop strenght: 0.552
+Preflop strenght(opp): 0.5419125
+--------Round 714 -------------
+Preflop strenght: 0.62225
+Preflop strenght(opp): 0.5419125
+Flop Strength: 0.31833333333333336
+pot odds: 0.25
+Turn Strength: 0.6233333333333333
+Turn Strength: 0.6483333333333333
+pot odds: 0.22635135135135134
+River Strength: 0.0
+--------Round 715 -------------
+--------Round 716 -------------
+Preflop strenght: 0.41150000000000003
+Preflop strenght(opp): 0.54435
+--------Round 717 -------------
+Preflop strenght: 0.43725
+Preflop strenght(opp): 0.54435
+--------Round 718 -------------
+Preflop strenght: 0.53175
+Preflop strenght(opp): 0.54435
+Flop Strength: 0.40166666666666667
+pot odds: 0.25
+Turn Strength: 0.4266666666666667
+pot odds: 0.25
+River Strength: 0.0
+--------Round 719 -------------
+Preflop strenght: 0.56325
+Preflop strenght(opp): 0.5430750000000001
+Flop Strength: 0.725
+--------Round 720 -------------
+Preflop strenght: 0.48825
+Preflop strenght(opp): 0.5430750000000001
+--------Round 721 -------------
+Preflop strenght: 0.523
+Preflop strenght(opp): 0.5430750000000001
+Flop Strength: 0.5233333333333333
+Flop Strength: 0.6
+pot odds: 0.25
+Turn Strength: 0.4766666666666667
+Turn Strength: 0.4866666666666667
+pot odds: 0.25
+River Strength: 0.0
+--------Round 722 -------------
+Preflop strenght: 0.38525
+Preflop strenght(opp): 0.5435125000000001
+--------Round 723 -------------
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.5435125000000001
+Flop Strength: 0.415
+Turn Strength: 0.445
+River Strength: 0.0
+--------Round 724 -------------
+Preflop strenght: 0.5275
+Preflop strenght(opp): 0.5400125
+Flop Strength: 0.275
+Turn Strength: 0.4266666666666667
+River Strength: 0.0033333333333333335
+--------Round 725 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.5434249999999998
+--------Round 726 -------------
+Preflop strenght: 0.4565
+Preflop strenght(opp): 0.5434249999999998
+--------Round 727 -------------
+Preflop strenght: 0.49750000000000005
+Preflop strenght(opp): 0.5434249999999998
+Flop Strength: 0.655
+Turn Strength: 0.875
+--------Round 728 -------------
+Preflop strenght: 0.57375
+Preflop strenght(opp): 0.5434249999999998
+Flop Strength: 0.69
+Flop Strength: 0.7
+pot odds: 0.22696629213483147
+Turn Strength: 0.99
+River Strength: 0.0033333333333333335
+--------Round 729 -------------
+--------Round 730 -------------
+Preflop strenght: 0.46925
+Preflop strenght(opp): 0.5434124999999999
+--------Round 731 -------------
+--------Round 732 -------------
+Preflop strenght: 0.43225
+Preflop strenght(opp): 0.5434124999999999
+--------Round 733 -------------
+Preflop strenght: 0.4245
+Preflop strenght(opp): 0.5434124999999999
+Flop Strength: 0.14666666666666667
+Turn Strength: 0.4766666666666667
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.25
+--------Round 734 -------------
+Preflop strenght: 0.511
+Preflop strenght(opp): 0.5434124999999999
+Preflop strenght: 0.511
+Preflop strenght(opp): 0.5434124999999999
+--------Round 735 -------------
+Preflop strenght: 0.58925
+Preflop strenght(opp): 0.5434124999999999
+Flop Strength: 0.45
+Turn Strength: 0.3
+River Strength: 0.0
+--------Round 736 -------------
+Preflop strenght: 0.39999999999999997
+Preflop strenght(opp): 0.5478374999999999
+--------Round 737 -------------
+Preflop strenght: 0.58925
+Preflop strenght(opp): 0.5478374999999999
+Flop Strength: 0.7683333333333333
+Flop Strength: 0.7866666666666666
+pot odds: 0.2275132275132275
+Turn Strength: 0.72
+River Strength: 0.0033333333333333335
+--------Round 738 -------------
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.5478500000000001
+Flop Strength: 0.6416666666666667
+Turn Strength: 0.6166666666666667
+River Strength: 0.0033333333333333335
+pot odds: 0.25
+--------Round 739 -------------
+Preflop strenght: 0.5595
+Preflop strenght(opp): 0.5478500000000001
+Flop Strength: 0.7166666666666667
+Turn Strength: 0.5366666666666666
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.24925816023738873
+--------Round 740 -------------
+Preflop strenght: 0.56575
+Preflop strenght(opp): 0.5478500000000001
+Flop Strength: 0.49
+Turn Strength: 0.7083333333333334
+pot odds: 0.25
+Turn Strength: 0.745
+pot odds: 0.16666666666666666
+River Strength: 0.0033333333333333335
+--------Round 741 -------------
+Preflop strenght: 0.57375
+Preflop strenght(opp): 0.5530125000000001
+Flop Strength: 0.6666666666666666
+Turn Strength: 0.7133333333333334
+Turn Strength: 0.6016666666666667
+pot odds: 0.22627737226277372
+River Strength: 0.0
+--------Round 742 -------------
+Preflop strenght: 0.55075
+Preflop strenght(opp): 0.551175
+--------Round 743 -------------
+Preflop strenght: 0.4795
+Preflop strenght(opp): 0.551175
+--------Round 744 -------------
+Preflop strenght: 0.4405
+Preflop strenght(opp): 0.551175
+--------Round 745 -------------
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.551175
+Flop Strength: 0.6033333333333334
+Turn Strength: 0.6033333333333334
+Turn Strength: 0.6733333333333333
+pot odds: 0.44666666666666666
+River Strength: 0.0
+--------Round 746 -------------
+Preflop strenght: 0.49674999999999997
+Preflop strenght(opp): 0.547925
+--------Round 747 -------------
+Preflop strenght: 0.49275
+Preflop strenght(opp): 0.547925
+Flop Strength: 0.9066666666666666
+Flop Strength: 0.91
+pot odds: 0.2127659574468085
+Flop Strength: 0.9066666666666666
+pot odds: 0.13089005235602094
+Turn Strength: 0.9333333333333333
+River Strength: 0.0033333333333333335
+--------Round 748 -------------
+Preflop strenght: 0.48325
+Preflop strenght(opp): 0.5466249999999999
+--------Round 749 -------------
+--------Round 750 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5466249999999999
+Flop Strength: 0.5416666666666666
+pot odds: 0.25
+Flop Strength: 0.45
+pot odds: 0.1652892561983471
+Turn Strength: 0.49166666666666664
+River Strength: 0.0033333333333333335
+--------Round 751 -------------
+--------Round 752 -------------
+Preflop strenght: 0.5587500000000001
+Preflop strenght(opp): 0.5479499999999999
+Preflop strenght: 0.5587500000000001
+Preflop strenght(opp): 0.5479499999999999
+Flop Strength: 0.5333333333333333
+Turn Strength: 0.39666666666666667
+River Strength: 0.0
+--------Round 753 -------------
+--------Round 754 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5503625
+--------Round 755 -------------
+Preflop strenght: 0.42600000000000005
+Preflop strenght(opp): 0.5503625
+Flop Strength: 0.8483333333333334
+--------Round 756 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.5503625
+Flop Strength: 0.24666666666666667
+Turn Strength: 0.20166666666666666
+River Strength: 0.0
+--------Round 757 -------------
+--------Round 758 -------------
+Preflop strenght: 0.6175
+Preflop strenght(opp): 0.5470375
+Flop Strength: 0.38166666666666665
+Turn Strength: 0.40166666666666667
+River Strength: 0.0
+--------Round 759 -------------
+Preflop strenght: 0.587
+Preflop strenght(opp): 0.5452499999999999
+Flop Strength: 0.7416666666666667
+Turn Strength: 0.7633333333333333
+River Strength: 0.0033333333333333335
+--------Round 760 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5447375
+Flop Strength: 0.775
+Turn Strength: 0.73
+Turn Strength: 0.7716666666666666
+pot odds: 0.22696629213483147
+River Strength: 0.0033333333333333335
+--------Round 761 -------------
+Preflop strenght: 0.58375
+Preflop strenght(opp): 0.5447749999999998
+[324, 324]
+Flop Strength: 0.6683333333333333
+Flop Strength: 0.655
+pot odds: 0.25
+Turn Strength: 0.7833333333333333
+River Strength: 0.0033333333333333335
+--------Round 762 -------------
+Preflop strenght: 0.5355
+Preflop strenght(opp): 0.5431624999999999
+Preflop strenght: 0.5355
+Preflop strenght(opp): 0.5431624999999999
+--------Round 763 -------------
+Preflop strenght: 0.45825
+Preflop strenght(opp): 0.5431624999999999
+--------Round 764 -------------
+Preflop strenght: 0.57375
+Preflop strenght(opp): 0.5431624999999999
+Flop Strength: 0.47833333333333333
+Turn Strength: 0.4483333333333333
+River Strength: 0.0
+--------Round 765 -------------
+--------Round 766 -------------
+Preflop strenght: 0.53175
+Preflop strenght(opp): 0.541025
+Flop Strength: 0.4633333333333333
+Turn Strength: 0.8383333333333334
+--------Round 767 -------------
+Preflop strenght: 0.48350000000000004
+Preflop strenght(opp): 0.541025
+Flop Strength: 0.37666666666666665
+Flop Strength: 0.3416666666666667
+pot odds: 0.25
+Turn Strength: 0.3566666666666667
+Turn Strength: 0.3333333333333333
+pot odds: 0.428
+--------Round 768 -------------
+Preflop strenght: 0.5587500000000001
+Preflop strenght(opp): 0.541025
+--------Round 769 -------------
+Preflop strenght: 0.5035000000000001
+Preflop strenght(opp): 0.541025
+Flop Strength: 0.135
+Turn Strength: 0.12333333333333334
+River Strength: 0.0
+--------Round 770 -------------
+Preflop strenght: 0.44525000000000003
+Preflop strenght(opp): 0.54185
+--------Round 771 -------------
+--------Round 772 -------------
+Preflop strenght: 0.722
+Preflop strenght(opp): 0.54185
+Flop Strength: 0.6033333333333334
+Turn Strength: 0.6633333333333333
+River Strength: 0.0033333333333333335
+--------Round 773 -------------
+--------Round 774 -------------
+Preflop strenght: 0.4555
+Preflop strenght(opp): 0.5400500000000001
+--------Round 775 -------------
+Preflop strenght: 0.45199999999999996
+Preflop strenght(opp): 0.5400500000000001
+--------Round 776 -------------
+Preflop strenght: 0.47450000000000003
+Preflop strenght(opp): 0.5400500000000001
+--------Round 777 -------------
+--------Round 778 -------------
+Preflop strenght: 0.43525
+Preflop strenght(opp): 0.5400500000000001
+--------Round 779 -------------
+Preflop strenght: 0.46175
+Preflop strenght(opp): 0.5400500000000001
+Flop Strength: 0.3416666666666667
+Turn Strength: 0.37333333333333335
+River Strength: 0.0
+--------Round 780 -------------
+Preflop strenght: 0.47450000000000003
+Preflop strenght(opp): 0.542775
+--------Round 781 -------------
+--------Round 782 -------------
+Preflop strenght: 0.57925
+Preflop strenght(opp): 0.542775
+Flop Strength: 0.79
+Turn Strength: 0.9966666666666667
+--------Round 783 -------------
+--------Round 784 -------------
+Preflop strenght: 0.7482500000000001
+Preflop strenght(opp): 0.542775
+--------Round 785 -------------
+Preflop strenght: 0.58925
+Preflop strenght(opp): 0.542775
+Flop Strength: 0.4116666666666667
+Flop Strength: 0.44166666666666665
+pot odds: 0.25
+Turn Strength: 0.21833333333333332
+Turn Strength: 0.25333333333333335
+pot odds: 0.25
+River Strength: 0.0
+--------Round 786 -------------
+Preflop strenght: 0.587
+Preflop strenght(opp): 0.5449874999999998
+--------Round 787 -------------
+Preflop strenght: 0.5595
+Preflop strenght(opp): 0.5449874999999998
+Flop Strength: 0.865
+--------Round 788 -------------
+Preflop strenght: 0.62225
+Preflop strenght(opp): 0.5449874999999998
+--------Round 789 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5449874999999998
+Flop Strength: 0.42333333333333334
+Turn Strength: 0.41333333333333333
+River Strength: 0.0033333333333333335
+--------Round 790 -------------
+Preflop strenght: 0.59
+Preflop strenght(opp): 0.5449499999999998
+Flop Strength: 0.5716666666666667
+Turn Strength: 0.535
+River Strength: 0.0
+--------Round 791 -------------
+Preflop strenght: 0.56325
+Preflop strenght(opp): 0.5422374999999999
+Flop Strength: 0.325
+Flop Strength: 0.39666666666666667
+pot odds: 0.464
+--------Round 792 -------------
+Preflop strenght: 0.56725
+Preflop strenght(opp): 0.5422374999999999
+--------Round 793 -------------
+Preflop strenght: 0.45125
+Preflop strenght(opp): 0.5422374999999999
+Flop Strength: 0.6216666666666667
+Flop Strength: 0.595
+pot odds: 0.25
+Turn Strength: 0.645
+Turn Strength: 0.6633333333333333
+pot odds: 0.22635135135135134
+River Strength: 0.0033333333333333335
+--------Round 794 -------------
+Preflop strenght: 0.45825
+Preflop strenght(opp): 0.5396875000000001
+--------Round 795 -------------
+Preflop strenght: 0.5345
+Preflop strenght(opp): 0.5396875000000001
+Flop Strength: 0.3016666666666667
+Turn Strength: 0.23333333333333334
+River Strength: 0.0
+--------Round 796 -------------
+Preflop strenght: 0.45825
+Preflop strenght(opp): 0.5384625
+--------Round 797 -------------
+Preflop strenght: 0.58375
+Preflop strenght(opp): 0.5384625
+Flop Strength: 0.8366666666666667
+Turn Strength: 0.77
+River Strength: 0.0033333333333333335
+--------Round 798 -------------
+Preflop strenght: 0.53175
+Preflop strenght(opp): 0.5333749999999998
+Flop Strength: 0.485
+Turn Strength: 0.9633333333333334
+River Strength: 0.0033333333333333335
+--------Round 799 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.5334624999999998
+Flop Strength: 0.25333333333333335
+Flop Strength: 0.22333333333333333
+pot odds: 0.25
+--------Round 800 -------------
+Preflop strenght: 0.42900000000000005
+Preflop strenght(opp): 0.5334624999999998
+--------Round 801 -------------
+--------Round 802 -------------
+Preflop strenght: 0.57925
+Preflop strenght(opp): 0.5334624999999998
+Flop Strength: 0.59
+Turn Strength: 0.6033333333333334
+River Strength: 0.0033333333333333335
+--------Round 803 -------------
+Preflop strenght: 0.45825
+Preflop strenght(opp): 0.5325249999999999
+--------Round 804 -------------
+Preflop strenght: 0.4125
+Preflop strenght(opp): 0.5325249999999999
+--------Round 805 -------------
+Preflop strenght: 0.601
+Preflop strenght(opp): 0.5325249999999999
+Flop Strength: 0.63
+Flop Strength: 0.585
+pot odds: 0.25
+Flop Strength: 0.6616666666666666
+pot odds: 0.16666666666666666
+Turn Strength: 0.69
+River Strength: 0.0033333333333333335
+--------Round 806 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5352499999999999
+Flop Strength: 0.74
+Turn Strength: 0.6966666666666667
+River Strength: 0.0
+--------Round 807 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5376624999999999
+Flop Strength: 0.62
+Turn Strength: 0.6466666666666666
+River Strength: 0.0033333333333333335
+--------Round 808 -------------
+Preflop strenght: 0.58925
+Preflop strenght(opp): 0.5393625000000001
+Flop Strength: 0.335
+Turn Strength: 0.8833333333333333
+Turn Strength: 0.8416666666666667
+pot odds: 0.2127659574468085
+Turn Strength: 0.8716666666666667
+pot odds: 0.13089005235602094
+River Strength: 0.0033333333333333335
+--------Round 809 -------------
+Preflop strenght: 0.523
+Preflop strenght(opp): 0.53425
+Flop Strength: 0.4633333333333333
+Turn Strength: 0.33166666666666667
+Turn Strength: 0.2833333333333333
+pot odds: 0.25
+River Strength: 0.0033333333333333335
+--------Round 810 -------------
+Preflop strenght: 0.49975
+Preflop strenght(opp): 0.53585
+--------Round 811 -------------
+Preflop strenght: 0.5215000000000001
+Preflop strenght(opp): 0.53585
+Flop Strength: 0.3283333333333333
+Turn Strength: 0.15333333333333332
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.25
+--------Round 812 -------------
+Preflop strenght: 0.4375
+Preflop strenght(opp): 0.53585
+--------Round 813 -------------
+Preflop strenght: 0.57925
+Preflop strenght(opp): 0.53585
+Flop Strength: 0.6983333333333334
+Turn Strength: 0.6433333333333333
+River Strength: 0.0
+River Strength: 0.0
+pot odds: 0.43333333333333335
+--------Round 814 -------------
+Preflop strenght: 0.6819999999999999
+Preflop strenght(opp): 0.53585
+--------Round 815 -------------
+--------Round 816 -------------
+Preflop strenght: 0.7505
+Preflop strenght(opp): 0.53585
+Flop Strength: 0.7766666666666666
+pot odds: 0.25
+Turn Strength: 0.6233333333333333
+River Strength: 0.0
+--------Round 817 -------------
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.5326625
+Flop Strength: 0.415
+Turn Strength: 0.3433333333333333
+River Strength: 0.0
+--------Round 818 -------------
+Preflop strenght: 0.6132500000000001
+Preflop strenght(opp): 0.5293125
+--------Round 819 -------------
+--------Round 820 -------------
+Preflop strenght: 0.58375
+Preflop strenght(opp): 0.5293125
+Flop Strength: 0.63
+--------Round 821 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.5293125
+Flop Strength: 0.6666666666666666
+--------Round 822 -------------
+Preflop strenght: 0.6040000000000001
+Preflop strenght(opp): 0.5293125
+--------Round 823 -------------
+Preflop strenght: 0.59
+Preflop strenght(opp): 0.5293125
+Flop Strength: 0.505
+Turn Strength: 0.455
+River Strength: 0.0
+--------Round 824 -------------
+Preflop strenght: 0.4375
+Preflop strenght(opp): 0.524375
+--------Round 825 -------------
+Preflop strenght: 0.44725000000000004
+Preflop strenght(opp): 0.524375
+Flop Strength: 0.66
+Turn Strength: 0.685
+Turn Strength: 0.6833333333333333
+pot odds: 0.22602739726027396
+Turn Strength: 0.7016666666666667
+pot odds: 0.14634146341463414
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.21333333333333335
+--------Round 826 -------------
+Preflop strenght: 0.46175
+Preflop strenght(opp): 0.524375
+--------Round 827 -------------
+Preflop strenght: 0.504
+Preflop strenght(opp): 0.524375
+Flop Strength: 0.73
+Turn Strength: 0.9833333333333333
+--------Round 828 -------------
+Preflop strenght: 0.4555
+Preflop strenght(opp): 0.524375
+--------Round 829 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.524375
+Flop Strength: 0.6433333333333333
+Flop Strength: 0.6766666666666666
+pot odds: 0.22602739726027396
+Flop Strength: 0.6566666666666666
+pot odds: 0.14634146341463414
+Turn Strength: 0.6433333333333333
+Turn Strength: 0.7233333333333334
+pot odds: 0.07066666666666667
+River Strength: 0.0
+--------Round 830 -------------
+Preflop strenght: 0.43225
+Preflop strenght(opp): 0.52965
+--------Round 831 -------------
+Preflop strenght: 0.6132500000000001
+Preflop strenght(opp): 0.52965
+Flop Strength: 0.5833333333333334
+Turn Strength: 0.4816666666666667
+River Strength: 0.0
+--------Round 832 -------------
+Preflop strenght: 0.45199999999999996
+Preflop strenght(opp): 0.5235999999999998
+--------Round 833 -------------
+--------Round 834 -------------
+Preflop strenght: 0.49975
+Preflop strenght(opp): 0.5235999999999998
+Flop Strength: 0.4866666666666667
+Turn Strength: 0.47333333333333333
+pot odds: 0.25
+River Strength: 0.0
+pot odds: 0.25
+--------Round 835 -------------
+--------Round 836 -------------
+Preflop strenght: 0.5002500000000001
+Preflop strenght(opp): 0.5235999999999998
+Flop Strength: 0.39
+Turn Strength: 0.22333333333333333
+River Strength: 0.0
+--------Round 837 -------------
+--------Round 838 -------------
+Preflop strenght: 0.5345
+Preflop strenght(opp): 0.5198625
+Flop Strength: 0.625
+Turn Strength: 0.63
+River Strength: 0.0033333333333333335
+--------Round 839 -------------
+Preflop strenght: 0.52925
+Preflop strenght(opp): 0.5134000000000001
+--------Round 840 -------------
+Preflop strenght: 0.49750000000000005
+Preflop strenght(opp): 0.5134000000000001
+Flop Strength: 0.44166666666666665
+Turn Strength: 0.5233333333333333
+River Strength: 0.0033333333333333335
+--------Round 841 -------------
+Preflop strenght: 0.47275
+Preflop strenght(opp): 0.5120124999999998
+Flop Strength: 0.37333333333333335
+Flop Strength(opp): 0.5120124999999998
+Flop Strength: 0.32666666666666666
+pot odds: 0.36496350364963503
+--------Round 842 -------------
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.5120124999999998
+Flop Strength: 0.6116666666666667
+Turn Strength: 0.915
+River Strength: 0.0033333333333333335
+--------Round 843 -------------
+Preflop strenght: 0.5395
+Preflop strenght(opp): 0.5110250000000001
+Flop Strength: 0.49333333333333335
+Turn Strength: 0.7916666666666666
+--------Round 844 -------------
+Preflop strenght: 0.4375
+Preflop strenght(opp): 0.5110250000000001
+--------Round 845 -------------
+Preflop strenght: 0.48825
+Preflop strenght(opp): 0.5110250000000001
+Flop Strength: 0.5466666666666666
+Turn Strength: 0.52
+River Strength: 0.0033333333333333335
+--------Round 846 -------------
+Preflop strenght: 0.587
+Preflop strenght(opp): 0.5146125000000003
+--------Round 847 -------------
+--------Round 848 -------------
+Preflop strenght: 0.45125
+Preflop strenght(opp): 0.5146125000000003
+--------Round 849 -------------
+Preflop strenght: 0.47450000000000003
+Preflop strenght(opp): 0.5146125000000003
+Flop Strength: 0.4533333333333333
+Turn Strength: 0.40166666666666667
+River Strength: 0.0
+--------Round 850 -------------
+Preflop strenght: 0.5035000000000001
+Preflop strenght(opp): 0.5134250000000001
+--------Round 851 -------------
+Preflop strenght: 0.50075
+Preflop strenght(opp): 0.5134250000000001
+Flop Strength: 0.585
+Flop Strength: 0.5416666666666666
+pot odds: 0.25
+Turn Strength: 0.5483333333333333
+Turn Strength: 0.5533333333333333
+pot odds: 0.25
+Turn Strength: 0.55
+pot odds: 0.16666666666666666
+River Strength: 0.0033333333333333335
+--------Round 852 -------------
+Preflop strenght: 0.5387500000000001
+Preflop strenght(opp): 0.5155249999999999
+--------Round 853 -------------
+--------Round 854 -------------
+Preflop strenght: 0.5587500000000001
+Preflop strenght(opp): 0.5155249999999999
+Preflop strenght: 0.5587500000000001
+Preflop strenght(opp): 0.5155249999999999
+Flop Strength: 0.6033333333333334
+Turn Strength: 0.43833333333333335
+River Strength: 0.0
+--------Round 855 -------------
+--------Round 856 -------------
+Preflop strenght: 0.4795
+Preflop strenght(opp): 0.5155500000000001
+Flop Strength: 0.7716666666666666
+pot odds: 0.25
+Flop Strength: 0.7833333333333333
+pot odds: 0.16666666666666666
+Turn Strength: 0.8933333333333333
+pot odds: 0.16666666666666666
+River Strength: 0.0033333333333333335
+--------Round 857 -------------
+Preflop strenght: 0.5535
+Preflop strenght(opp): 0.51835
+Flop Strength: 0.44333333333333336
+Turn Strength: 0.41
+River Strength: 0.0
+--------Round 858 -------------
+Preflop strenght: 0.48350000000000004
+Preflop strenght(opp): 0.5171125000000002
+--------Round 859 -------------
+--------Round 860 -------------
+Preflop strenght: 0.49975
+Preflop strenght(opp): 0.5171125000000002
+Preflop strenght: 0.49975
+Preflop strenght(opp): 0.5171125000000002
+Flop Strength: 0.52
+Turn Strength: 0.525
+River Strength: 0.0
+--------Round 861 -------------
+--------Round 862 -------------
+Preflop strenght: 0.4695
+Preflop strenght(opp): 0.5175625
+Flop Strength: 0.5983333333333334
+Turn Strength: 0.96
+--------Round 863 -------------
+--------Round 864 -------------
+Preflop strenght: 0.48825
+Preflop strenght(opp): 0.5175625
+Flop Strength: 0.5816666666666667
+Turn Strength: 0.6183333333333333
+River Strength: 0.0033333333333333335
+--------Round 865 -------------
+Preflop strenght: 0.48350000000000004
+Preflop strenght(opp): 0.5105999999999999
+Flop Strength: 0.4116666666666667
+Turn Strength: 0.28
+River Strength: 0.0
+--------Round 866 -------------
+Preflop strenght: 0.53175
+Preflop strenght(opp): 0.5083125
+--------Round 867 -------------
+--------Round 868 -------------
+Preflop strenght: 0.563
+Preflop strenght(opp): 0.5083125
+Flop Strength: 0.5516666666666666
+Turn Strength: 0.5333333333333333
+River Strength: 0.0
+--------Round 869 -------------
+--------Round 870 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.51485
+Flop Strength: 0.545
+pot odds: 0.25
+Flop Strength: 0.5666666666666667
+pot odds: 0.1652892561983471
+Flop Strength: 0.5966666666666667
+pot odds: 0.11467889908256881
+Turn Strength: 0.535
+River Strength: 0.0
+--------Round 871 -------------
+--------Round 872 -------------
+Preflop strenght: 0.42600000000000005
+Preflop strenght(opp): 0.5124250000000001
+--------Round 873 -------------
+Preflop strenght: 0.434
+Preflop strenght(opp): 0.5124250000000001
+--------Round 874 -------------
+Preflop strenght: 0.47075
+Preflop strenght(opp): 0.5124250000000001
+Flop Strength: 0.5033333333333333
+Turn Strength: 0.51
+River Strength: 0.0
+--------Round 875 -------------
+--------Round 876 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5136999999999999
+--------Round 877 -------------
+--------Round 878 -------------
+Preflop strenght: 0.5215000000000001
+Preflop strenght(opp): 0.5136999999999999
+Flop Strength: 0.48333333333333334
+Turn Strength: 0.5066666666666667
+River Strength: 0.0
+--------Round 879 -------------
+Preflop strenght: 0.60525
+Preflop strenght(opp): 0.509425
+Flop Strength: 0.2783333333333333
+Turn Strength: 0.64
+River Strength: 0.0
+--------Round 880 -------------
+Preflop strenght: 0.8035
+Preflop strenght(opp): 0.5115874999999999
+--------Round 881 -------------
+Preflop strenght: 0.51625
+Preflop strenght(opp): 0.5115874999999999
+Flop Strength: 0.25666666666666665
+Turn Strength: 0.6666666666666666
+Turn Strength: 0.6433333333333333
+pot odds: 0.22661870503597123
+River Strength: 0.0
+--------Round 882 -------------
+Preflop strenght: 0.5565
+Preflop strenght(opp): 0.50975
+--------Round 883 -------------
+Preflop strenght: 0.56225
+Preflop strenght(opp): 0.50975
+Flop Strength: 0.6216666666666667
+Flop Strength: 0.575
+pot odds: 0.22661870503597123
+Turn Strength: 0.675
+Turn Strength: 0.6916666666666667
+pot odds: 0.25
+River Strength: 0.0033333333333333335
+River Strength: 0.0033333333333333335
+pot odds: 0.12933333333333333
+--------Round 884 -------------
+Preflop strenght: 0.48825
+Preflop strenght(opp): 0.50975
+Flop Strength: 0.30666666666666664
+pot odds: 0.25
+Turn Strength: 0.5866666666666667
+pot odds: 0.25
+Turn Strength: 0.6566666666666666
+pot odds: 0.16666666666666666
+River Strength: 0.0033333333333333335
+--------Round 885 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5093374999999999
+Flop Strength: 0.5066666666666667
+Turn Strength: 0.455
+River Strength: 0.0
+--------Round 886 -------------
+Preflop strenght: 0.56725
+Preflop strenght(opp): 0.5158624999999997
+Flop Strength: 0.3883333333333333
+pot odds: 0.25
+Turn Strength: 0.18
+River Strength: 0.0
+--------Round 887 -------------
+Preflop strenght: 0.5255
+Preflop strenght(opp): 0.5206375000000001
+Flop Strength: 0.27666666666666667
+Flop Strength: 0.235
+pot odds: 0.25
+--------Round 888 -------------
+Preflop strenght: 0.508
+Preflop strenght(opp): 0.5206375000000001
+Flop Strength: 0.605
+Turn Strength: 0.6366666666666667
+River Strength: 0.0033333333333333335
+--------Round 889 -------------
+Preflop strenght: 0.45699999999999996
+Preflop strenght(opp): 0.5189125000000001
+Flop Strength: 0.37333333333333335
+Turn Strength: 0.235
+River Strength: 0.0
+--------Round 890 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.5225375
+--------Round 891 -------------
+Preflop strenght: 0.601
+Preflop strenght(opp): 0.5225375
+Flop Strength: 0.6033333333333334
+Turn Strength: 0.8483333333333334
+--------Round 892 -------------
+Preflop strenght: 0.46175
+Preflop strenght(opp): 0.5225375
+--------Round 893 -------------
+--------Round 894 -------------
+Preflop strenght: 0.49124999999999996
+Preflop strenght(opp): 0.5225375
+--------Round 895 -------------
+Preflop strenght: 0.563
+Preflop strenght(opp): 0.5225375
+Flop Strength: 0.6416666666666667
+Turn Strength: 0.5566666666666666
+River Strength: 0.0
+--------Round 896 -------------
+Preflop strenght: 0.47275
+Preflop strenght(opp): 0.5256750000000001
+--------Round 897 -------------
+--------Round 898 -------------
+Preflop strenght: 0.49375
+Preflop strenght(opp): 0.5256750000000001
+--------Round 899 -------------
+Preflop strenght: 0.4905
+Preflop strenght(opp): 0.5256750000000001
+Flop Strength: 0.5066666666666667
+Turn Strength: 0.5783333333333334
+River Strength: 0.0033333333333333335
+--------Round 900 -------------
+Preflop strenght: 0.45825000000000005
+Preflop strenght(opp): 0.525775
+--------Round 901 -------------
+Preflop strenght: 0.41050000000000003
+Preflop strenght(opp): 0.525775
+--------Round 902 -------------
+Preflop strenght: 0.43525
+Preflop strenght(opp): 0.525775
+--------Round 903 -------------
+--------Round 904 -------------
+Preflop strenght: 0.3795
+Preflop strenght(opp): 0.525775
+--------Round 905 -------------
+Preflop strenght: 0.53175
+Preflop strenght(opp): 0.525775
+Flop Strength: 0.35833333333333334
+Turn Strength: 0.20666666666666667
+Turn Strength: 0.21166666666666667
+pot odds: 0.25
+--------Round 906 -------------
+Preflop strenght: 0.5035
+Preflop strenght(opp): 0.525775
+Preflop strenght: 0.5035
+Preflop strenght(opp): 0.525775
+Flop Strength: 0.7633333333333333
+pot odds: 0.2493573264781491
+Turn Strength: 0.7833333333333333
+River Strength: 0.0
+--------Round 907 -------------
+Preflop strenght: 0.6040000000000001
+Preflop strenght(opp): 0.5313124999999999
+Flop Strength: 0.7333333333333333
+Flop Strength: 0.7083333333333334
+pot odds: 0.4668335419274093
+Turn Strength: 0.6683333333333333
+River Strength: 0.0033333333333333335
+--------Round 908 -------------
+Preflop strenght: 0.56725
+Preflop strenght(opp): 0.5332749999999999
+Flop Strength: 0.3416666666666667
+pot odds: 0.464
+--------Round 909 -------------
+Preflop strenght: 0.47050000000000003
+Preflop strenght(opp): 0.5332749999999999
+Flop Strength: 0.49666666666666665
+Flop Strength: 0.45
+pot odds: 0.25
+Turn Strength: 0.5416666666666666
+Turn Strength: 0.5016666666666667
+pot odds: 0.25
+River Strength: 0.0033333333333333335
+--------Round 910 -------------
+Preflop strenght: 0.52875
+Preflop strenght(opp): 0.5286250000000001
+Preflop strenght: 0.52875
+Preflop strenght(opp): 0.5286250000000001
+Flop Strength: 0.6316666666666667
+Flop Strength: 0.61
+pot odds: 0.22727272727272727
+Turn Strength: 0.9416666666666667
+River Strength: 0.0033333333333333335
+--------Round 911 -------------
+Preflop strenght: 0.45199999999999996
+Preflop strenght(opp): 0.5398875000000001
+Flop Strength: 0.34
+Turn Strength: 0.265
+River Strength: 0.0
+--------Round 912 -------------
+Preflop strenght: 0.49724999999999997
+Preflop strenght(opp): 0.5409124999999999
+Flop Strength: 0.715
+Flop Strength: 0.725
+pot odds: 0.22661870503597123
+Turn Strength: 0.7033333333333334
+River Strength: 0.0033333333333333335
+--------Round 913 -------------
+--------Round 914 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5454625
+Flop Strength: 0.7333333333333333
+pot odds: 0.25
+Flop Strength: 0.765
+pot odds: 0.16666666666666666
+Turn Strength: 0.7916666666666666
+River Strength: 0.0033333333333333335
+--------Round 915 -------------
+Preflop strenght: 0.49124999999999996
+Preflop strenght(opp): 0.5434750000000002
+Flop Strength: 0.39666666666666667
+Turn Strength: 0.31333333333333335
+River Strength: 0.0033333333333333335
+--------Round 916 -------------
+Preflop strenght: 0.48025
+Preflop strenght(opp): 0.5441625000000001
+--------Round 917 -------------
+--------Round 918 -------------
+Preflop strenght: 0.44975
+Preflop strenght(opp): 0.5441625000000001
+--------Round 919 -------------
+Preflop strenght: 0.48350000000000004
+Preflop strenght(opp): 0.5441625000000001
+Flop Strength: 0.6533333333333333
+Turn Strength: 0.55
+River Strength: 0.0033333333333333335
+--------Round 920 -------------
+Preflop strenght: 0.46025
+Preflop strenght(opp): 0.547975
+--------Round 921 -------------
+Preflop strenght: 0.8035
+Preflop strenght(opp): 0.547975
+Flop Strength: 0.8766666666666667
+Flop Strength: 0.85
+pot odds: 0.21359223300970873
+Turn Strength: 0.9716666666666667
+River Strength: 0.0033333333333333335
+--------Round 922 -------------
+Preflop strenght: 0.42774999999999996
+Preflop strenght(opp): 0.5529875000000002
+--------Round 923 -------------
+--------Round 924 -------------
+Preflop strenght: 0.57125
+Preflop strenght(opp): 0.5529875000000002
+--------Round 925 -------------
+Preflop strenght: 0.45825000000000005
+Preflop strenght(opp): 0.5529875000000002
+Flop Strength: 0.725
+Flop Strength: 0.715
+pot odds: 0.22602739726027396
+Flop Strength: 0.7133333333333334
+pot odds: 0.14634146341463414
+Turn Strength: 0.7516666666666667
+River Strength: 0.0033333333333333335
+--------Round 926 -------------
+Preflop strenght: 0.44725000000000004
+Preflop strenght(opp): 0.5556750000000001
+--------Round 927 -------------
+Preflop strenght: 0.5635
+Preflop strenght(opp): 0.5556750000000001
+Flop Strength: 0.5033333333333333
+Turn Strength: 0.5283333333333333
+River Strength: 0.0
+--------Round 928 -------------
+Preflop strenght: 0.43775
+Preflop strenght(opp): 0.5540125000000001
+--------Round 929 -------------
+Preflop strenght: 0.5285
+Preflop strenght(opp): 0.5540125000000001
+Flop Strength: 0.4266666666666667
+Turn Strength: 0.7
+River Strength: 0.0033333333333333335
+--------Round 930 -------------
+Preflop strenght: 0.508
+Preflop strenght(opp): 0.5579250000000002
+Flop Strength: 0.5516666666666666
+Turn Strength: 0.605
+River Strength: 0.0033333333333333335
+--------Round 931 -------------
+Preflop strenght: 0.43225
+Preflop strenght(opp): 0.5611124999999999
+--------Round 932 -------------
+Preflop strenght: 0.4125
+Preflop strenght(opp): 0.5611124999999999
+--------Round 933 -------------
+Preflop strenght: 0.6175
+Preflop strenght(opp): 0.5611124999999999
+Flop Strength: 0.6383333333333333
+Flop Strength: 0.63
+pot odds: 0.22661870503597123
+Turn Strength: 0.7433333333333333
+River Strength: 0.0033333333333333335
+--------Round 934 -------------
+Preflop strenght: 0.5257499999999999
+Preflop strenght(opp): 0.5640625
+Flop Strength: 0.85
+Turn Strength: 0.77
+River Strength: 0.0033333333333333335
+--------Round 935 -------------
+Preflop strenght: 0.423
+Preflop strenght(opp): 0.5611375000000002
+--------Round 936 -------------
+Preflop strenght: 0.46025
+Preflop strenght(opp): 0.5611375000000002
+--------Round 937 -------------
+--------Round 938 -------------
+Preflop strenght: 0.474
+Preflop strenght(opp): 0.5611375000000002
+--------Round 939 -------------
+Preflop strenght: 0.39
+Preflop strenght(opp): 0.5611375000000002
+--------Round 940 -------------
+Preflop strenght: 0.44725000000000004
+Preflop strenght(opp): 0.5611375000000002
+--------Round 941 -------------
+--------Round 942 -------------
+Preflop strenght: 0.55425
+Preflop strenght(opp): 0.5611375000000002
+Flop Strength: 0.7766666666666666
+--------Round 943 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.5611375000000002
+Flop Strength: 0.8183333333333334
+Turn Strength: 0.6766666666666666
+Turn Strength: 0.7883333333333333
+pot odds: 0.22676579925650558
+River Strength: 0.0033333333333333335
+--------Round 944 -------------
+Preflop strenght: 0.5395
+Preflop strenght(opp): 0.564725
+Flop Strength: 0.235
+pot odds: 0.25
+--------Round 945 -------------
+Preflop strenght: 0.47475
+Preflop strenght(opp): 0.564725
+--------Round 946 -------------
+Preflop strenght: 0.46925
+Preflop strenght(opp): 0.564725
+--------Round 947 -------------
+Preflop strenght: 0.47450000000000003
+Preflop strenght(opp): 0.564725
+Flop Strength: 0.6033333333333334
+Turn Strength: 0.5533333333333333
+River Strength: 0.0
+--------Round 948 -------------
+Preflop strenght: 0.55375
+Preflop strenght(opp): 0.56415
+Flop Strength: 0.9566666666666667
+--------Round 949 -------------
+Preflop strenght: 0.4905
+Preflop strenght(opp): 0.56415
+--------Round 950 -------------
+Preflop strenght: 0.49124999999999996
+Preflop strenght(opp): 0.56415
+--------Round 951 -------------
+Preflop strenght: 0.60525
+Preflop strenght(opp): 0.56415
+Flop Strength: 0.665
+Flop Strength: 0.6766666666666666
+pot odds: 0.22661870503597123
+Turn Strength: 0.705
+River Strength: 0.0033333333333333335
+--------Round 952 -------------
+Preflop strenght: 0.5625
+Preflop strenght(opp): 0.5608000000000001
+Preflop strenght: 0.5625
+Preflop strenght(opp): 0.5608000000000001
+Flop Strength: 0.115
+pot odds: 0.25
+--------Round 953 -------------
+--------Round 954 -------------
+Preflop strenght: 0.42825
+Preflop strenght(opp): 0.5608000000000001
+--------Round 955 -------------
+Preflop strenght: 0.47050000000000003
+Preflop strenght(opp): 0.5608000000000001
+Flop Strength: 0.4216666666666667
+Turn Strength: 0.33666666666666667
+River Strength: 0.0033333333333333335
+--------Round 956 -------------
+Preflop strenght: 0.5255
+Preflop strenght(opp): 0.5637625
+Flop Strength: 0.17833333333333334
+Turn Strength: 0.10333333333333333
+pot odds: 0.25
+--------Round 957 -------------
+--------Round 958 -------------
+Preflop strenght: 0.43525
+Preflop strenght(opp): 0.5637625
+--------Round 959 -------------
+--------Round 960 -------------
+Preflop strenght: 0.49750000000000005
+Preflop strenght(opp): 0.5637625
+--------Round 961 -------------
+Preflop strenght: 0.46925
+Preflop strenght(opp): 0.5637625
+--------Round 962 -------------
+Preflop strenght: 0.5265
+Preflop strenght(opp): 0.5637625
+Flop Strength: 0.57
+pot odds: 0.25
+Turn Strength: 0.5533333333333333
+pot odds: 0.25
+River Strength: 0.0
+--------Round 963 -------------
+Preflop strenght: 0.49075
+Preflop strenght(opp): 0.5560375
+Flop Strength: 0.215
+Flop Strength: 0.17666666666666667
+pot odds: 0.25
+Flop Strength: 0.22
+pot odds: 0.16666666666666666
+Turn Strength: 0.14833333333333334
+Turn Strength: 0.17333333333333334
+pot odds: 0.25
+--------Round 964 -------------
+Preflop strenght: 0.4405
+Preflop strenght(opp): 0.5560375
+--------Round 965 -------------
+--------Round 966 -------------
+Preflop strenght: 0.51625
+Preflop strenght(opp): 0.5560375
+Preflop strenght: 0.51625
+Preflop strenght(opp): 0.5560375
+Flop Strength: 0.5066666666666667
+Turn Strength: 0.6466666666666666
+--------Round 967 -------------
+Preflop strenght: 0.47324999999999995
+Preflop strenght(opp): 0.5560375
+--------Round 968 -------------
+Preflop strenght: 0.6154999999999999
+Preflop strenght(opp): 0.5560375
+--------Round 969 -------------
+--------Round 970 -------------
+Preflop strenght: 0.5275
+Preflop strenght(opp): 0.5560375
+Flop Strength: 0.22
+Turn Strength: 0.20333333333333334
+River Strength: 0.0
+--------Round 971 -------------
+Preflop strenght: 0.5485
+Preflop strenght(opp): 0.559075
+Flop Strength: 0.645
+Turn Strength: 0.5566666666666666
+River Strength: 0.0
+--------Round 972 -------------
+Preflop strenght: 0.532
+Preflop strenght(opp): 0.5591125
+Flop Strength: 0.5133333333333333
+Turn Strength: 0.5433333333333333
+River Strength: 0.0033333333333333335
+--------Round 973 -------------
+Preflop strenght: 0.508
+Preflop strenght(opp): 0.5481125
+Flop Strength: 0.425
+Turn Strength: 0.4533333333333333
+River Strength: 0.0
+--------Round 974 -------------
+Preflop strenght: 0.49275
+Preflop strenght(opp): 0.5433375000000001
+--------Round 975 -------------
+Preflop strenght: 0.4825
+Preflop strenght(opp): 0.5433375000000001
+--------Round 976 -------------
+Preflop strenght: 0.3795
+Preflop strenght(opp): 0.5433375000000001
+--------Round 977 -------------
+Preflop strenght: 0.5035000000000001
+Preflop strenght(opp): 0.5433375000000001
+Flop Strength: 0.235
+Flop Strength: 0.23
+pot odds: 0.25
+--------Round 978 -------------
+Preflop strenght: 0.39
+Preflop strenght(opp): 0.5433375000000001
+--------Round 979 -------------
+--------Round 980 -------------
+Preflop strenght: 0.55075
+Preflop strenght(opp): 0.5433375000000001
+Flop Strength: 0.32166666666666666
+pot odds: 0.25
+Turn Strength: 0.27166666666666667
+pot odds: 0.25
+River Strength: 0.0
+--------Round 981 -------------
+Preflop strenght: 0.5715
+Preflop strenght(opp): 0.5382125000000002
+Flop Strength: 0.435
+Turn Strength: 0.43833333333333335
+River Strength: 0.0
+--------Round 982 -------------
+Preflop strenght: 0.47850000000000004
+Preflop strenght(opp): 0.5424875000000001
+--------Round 983 -------------
+Preflop strenght: 0.563
+Preflop strenght(opp): 0.5424875000000001
+Flop Strength: 0.6416666666666667
+Flop Strength: 0.5283333333333333
+pot odds: 0.2267818574514039
+Turn Strength: 0.7883333333333333
+River Strength: 0.0033333333333333335
+--------Round 984 -------------
+Preflop strenght: 0.44975
+Preflop strenght(opp): 0.5391125000000001
+--------Round 985 -------------
+Preflop strenght: 0.5035000000000001
+Preflop strenght(opp): 0.5391125000000001
+Flop Strength: 0.4066666666666667
+Turn Strength: 0.5533333333333333
+River Strength: 0.0
+--------Round 986 -------------
+Preflop strenght: 0.4795
+Preflop strenght(opp): 0.5393124999999999
+--------Round 987 -------------
+--------Round 988 -------------
+Preflop strenght: 0.552
+Preflop strenght(opp): 0.5393124999999999
+Flop Strength: 0.5583333333333333
+pot odds: 0.25
+Turn Strength: 0.6866666666666666
+pot odds: 0.364
+River Strength: 0.0033333333333333335
+--------Round 989 -------------
+--------Round 990 -------------
+Preflop strenght: 0.49724999999999997
+Preflop strenght(opp): 0.5334375
+--------Round 991 -------------
+Preflop strenght: 0.5355
+Preflop strenght(opp): 0.5334375
+Flop Strength: 0.41
+Turn Strength: 0.295
+River Strength: 0.0
+--------Round 992 -------------
+Preflop strenght: 0.49375
+Preflop strenght(opp): 0.5340750000000001
+--------Round 993 -------------
+--------Round 994 -------------
+Preflop strenght: 0.41150000000000003
+Preflop strenght(opp): 0.5340750000000001
+--------Round 995 -------------
+Preflop strenght: 0.5285
+Preflop strenght(opp): 0.5340750000000001
+Flop Strength: 0.805
+--------Round 996 -------------
+Preflop strenght: 0.49650000000000005
+Preflop strenght(opp): 0.5340750000000001
+Flop Strength: 0.7083333333333334
+Turn Strength: 0.7433333333333333
+--------Round 997 -------------
+Preflop strenght: 0.49124999999999996
+Preflop strenght(opp): 0.5340750000000001
+Flop Strength: 0.19833333333333333
+Flop Strength: 0.15666666666666668
+pot odds: 0.43333333333333335
+--------Round 998 -------------
+Preflop strenght: 0.46149999999999997
+Preflop strenght(opp): 0.5340750000000001
+--------Round 999 -------------
+Preflop strenght: 0.54325
+Preflop strenght(opp): 0.5340750000000001
+Flop Strength: 0.175
+Flop Strength: 0.20833333333333334
+pot odds: 0.25
+--------Round 1000 -------------
+24.794
+Preflop strenght: 0.58575
+Preflop strenght(opp): 0.5340750000000001
+Flop Strength: 0.6283333333333333
+Flop Strength: 0.6316666666666667
+pot odds: 0.22602739726027396
+Flop Strength: 0.6583333333333333
+pot odds: 0.14634146341463414
+Turn Strength: 0.5783333333333334
+River Strength: 0.0

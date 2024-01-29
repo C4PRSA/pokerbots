@@ -67,7 +67,7 @@ def calculate_strength(my_cards, iters):
 if __name__ == "__main__":
 
     ranks = "AKQJT98765432"
-    iters = 1000
+    iters = 5000
 
     offrank_holes = list(itertools.combinations(ranks, 2))
         #gives a list of all non paired hands : [(A,2), (2,5), ...]

@@ -76,10 +76,9 @@ class Player(Bot):
         game_clock = game_state.game_clock
         num_rounds = game_state.round_num
 
-        forever_fold = (1.5 * (NUM_ROUNDS - round_num)) + 5
-
-        if my_bankroll > forever_fold:
-            self.activate_folds = True
+        # forever_fold = (1.5 * (NUM_ROUNDS - round_num)) + 5
+        # if my_bankroll > forever_fold:
+        #     self.activate_folds = True
 
 
 
